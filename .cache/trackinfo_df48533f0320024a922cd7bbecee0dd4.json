@@ -1,0 +1,71 @@
+{
+  "track": {
+    "name": "16 Mirrors",
+    "mbid": "3be39b7b-1b7a-40fd-82ff-af28bf458c24",
+    "url": "https://www.last.fm/music/Alex+G/_/16+Mirrors",
+    "duration": "87000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "744100",
+    "playcount": "11969490",
+    "artist": {
+      "name": "Alex G",
+      "mbid": "7545a8ca-a3c9-490f-93f9-68886dcddff1",
+      "url": "https://www.last.fm/music/Alex+G"
+    },
+    "album": {
+      "artist": "Alex G",
+      "title": "TRICK",
+      "url": "https://www.last.fm/music/Alex+G/TRICK",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/0b8520054cfd8af493b44a8bed0a2361.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/0b8520054cfd8af493b44a8bed0a2361.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/0b8520054cfd8af493b44a8bed0a2361.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/0b8520054cfd8af493b44a8bed0a2361.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "indie",
+          "url": "https://www.last.fm/tag/indie"
+        },
+        {
+          "name": "folk",
+          "url": "https://www.last.fm/tag/folk"
+        },
+        {
+          "name": "indie folk",
+          "url": "https://www.last.fm/tag/indie+folk"
+        },
+        {
+          "name": "singer-songwriter",
+          "url": "https://www.last.fm/tag/singer-songwriter"
+        },
+        {
+          "name": "WSUM 91.7 FM Madison",
+          "url": "https://www.last.fm/tag/WSUM+91.7+FM+Madison"
+        }
+      ]
+    },
+    "wiki": {
+      "published": "07 Sep 2023, 02:40",
+      "summary": "The final bonus track, “16 Mirrors”, features R.L. Kelly’s shrill vocals endlessly layered till it sounds like there are almost sixteen of her, like her voice is reflecting and refracting off itself, giving the audible illusion of a widening space. <a href=\"http://www.last.fm/music/Alex+G/_/16+Mirrors\">Read more on Last.fm</a>.",
+      "content": "The final bonus track, “16 Mirrors”, features R.L. Kelly’s shrill vocals endlessly layered till it sounds like there are almost sixteen of her, like her voice is reflecting and refracting off itself, giving the audible illusion of a widening space. <a href=\"http://www.last.fm/music/Alex+G/_/16+Mirrors\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

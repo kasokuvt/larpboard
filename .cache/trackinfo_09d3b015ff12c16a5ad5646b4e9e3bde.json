@@ -1,0 +1,26 @@
+{
+  "track": {
+    "name": "LEGACY",
+    "url": "https://www.last.fm/music/PIXY/_/LEGACY",
+    "duration": "0",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "138754",
+    "playcount": "1191980",
+    "artist": {
+      "name": "PIXY",
+      "mbid": "42976ddb-0ad5-4baa-9304-f31d7d84e3e0",
+      "url": "https://www.last.fm/music/PIXY"
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "cloud rap",
+          "url": "https://www.last.fm/tag/cloud+rap"
+        }
+      ]
+    }
+  }
+}

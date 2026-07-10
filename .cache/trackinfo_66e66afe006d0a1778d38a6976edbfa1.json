@@ -1,0 +1,50 @@
+{
+  "track": {
+    "name": "Hotel Room",
+    "mbid": "1a5b9507-618e-460b-b94c-5761a95c16f9",
+    "url": "https://www.last.fm/music/Ax+and+the+Hatchetmen/_/Hotel+Room",
+    "duration": "148000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "157298",
+    "playcount": "910026",
+    "artist": {
+      "name": "Ax and the Hatchetmen",
+      "mbid": "3655de30-2232-4e7c-aa48-8ab5da0e571d",
+      "url": "https://www.last.fm/music/Ax+and+the+Hatchetmen"
+    },
+    "album": {
+      "artist": "Ax and the Hatchetmen",
+      "title": "Hotel Room",
+      "url": "https://www.last.fm/music/Ax+and+the+Hatchetmen/Hotel+Room",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/3c6bd86f08112c45dbc6cdbd35949f76.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/3c6bd86f08112c45dbc6cdbd35949f76.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/3c6bd86f08112c45dbc6cdbd35949f76.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/3c6bd86f08112c45dbc6cdbd35949f76.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "rock",
+          "url": "https://www.last.fm/tag/rock"
+        }
+      ]
+    }
+  }
+}

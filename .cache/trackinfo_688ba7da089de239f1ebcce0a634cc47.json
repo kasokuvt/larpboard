@@ -1,0 +1,43 @@
+{
+  "track": {
+    "name": "stalk ur socials",
+    "url": "https://www.last.fm/music/s0rrow/_/stalk+ur+socials",
+    "duration": "0",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "52856",
+    "playcount": "610241",
+    "artist": {
+      "name": "s0rrow",
+      "url": "https://www.last.fm/music/s0rrow"
+    },
+    "album": {
+      "artist": "s0rrow",
+      "title": "very sorrow days",
+      "url": "https://www.last.fm/music/s0rrow/very+sorrow+days",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/4f567d271eaa99e25f66bdc94447e8b0.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/4f567d271eaa99e25f66bdc94447e8b0.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/4f567d271eaa99e25f66bdc94447e8b0.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/4f567d271eaa99e25f66bdc94447e8b0.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

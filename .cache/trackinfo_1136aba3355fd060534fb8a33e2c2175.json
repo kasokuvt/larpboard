@@ -1,0 +1,54 @@
+{
+  "track": {
+    "name": "Be Like a Woman",
+    "mbid": "16bbfa04-8e34-400b-a3fc-3a201c1524f8",
+    "url": "https://www.last.fm/music/Chris+Rainbow/_/Be+Like+a+Woman",
+    "duration": "255000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "488307",
+    "playcount": "4407712",
+    "artist": {
+      "name": "Chris Rainbow",
+      "mbid": "8557005a-6846-4820-930a-610e6b65d4df",
+      "url": "https://www.last.fm/music/Chris+Rainbow"
+    },
+    "album": {
+      "artist": "Chris Rainbow",
+      "title": "The Chris Rainbow Anthology - 1974-1981",
+      "url": "https://www.last.fm/music/Chris+Rainbow/The+Chris+Rainbow+Anthology+-+1974-1981",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/0e845a6f91fc460e8a70eedd18ab8144.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/0e845a6f91fc460e8a70eedd18ab8144.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/0e845a6f91fc460e8a70eedd18ab8144.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/0e845a6f91fc460e8a70eedd18ab8144.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "soft rock",
+          "url": "https://www.last.fm/tag/soft+rock"
+        },
+        {
+          "name": "7",
+          "url": "https://www.last.fm/tag/7"
+        }
+      ]
+    }
+  }
+}

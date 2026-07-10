@@ -1,0 +1,44 @@
+{
+  "track": {
+    "name": "BATTLE UNDER A BROKEN SKY",
+    "url": "https://www.last.fm/music/AZALI/_/BATTLE+UNDER+A+BROKEN+SKY",
+    "duration": "76000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "79968",
+    "playcount": "641766",
+    "artist": {
+      "name": "AZALI",
+      "mbid": "30cf2413-ae41-4ac0-bbbd-ba082ea6f502",
+      "url": "https://www.last.fm/music/AZALI"
+    },
+    "album": {
+      "artist": "AZALI",
+      "title": "Voices From the True World II",
+      "url": "https://www.last.fm/music/AZALI/Voices+From+the+True+World+II",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/8b33c269c0f2adc0547e879fceca0e70.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/8b33c269c0f2adc0547e879fceca0e70.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/8b33c269c0f2adc0547e879fceca0e70.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/8b33c269c0f2adc0547e879fceca0e70.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

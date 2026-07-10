@@ -1,0 +1,71 @@
+{
+  "track": {
+    "name": "Sailor Song",
+    "mbid": "05ec0220-311a-4660-a551-f59b17b49421",
+    "url": "https://www.last.fm/music/Gigi+Perez/_/Sailor+Song",
+    "duration": "211000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "1374780",
+    "playcount": "29360206",
+    "artist": {
+      "name": "Gigi Perez",
+      "mbid": "8ab64ebd-200e-47af-a3fc-92540e186214",
+      "url": "https://www.last.fm/music/Gigi+Perez"
+    },
+    "album": {
+      "artist": "Gigi Perez",
+      "title": "Sailor Song",
+      "url": "https://www.last.fm/music/Gigi+Perez/Sailor+Song",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/157a9990d5fc8a5b8252635d7994fa9e.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/157a9990d5fc8a5b8252635d7994fa9e.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/157a9990d5fc8a5b8252635d7994fa9e.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/157a9990d5fc8a5b8252635d7994fa9e.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "WSUM 91.7 FM Madison",
+          "url": "https://www.last.fm/tag/WSUM+91.7+FM+Madison"
+        },
+        {
+          "name": "my top songs",
+          "url": "https://www.last.fm/tag/my+top+songs"
+        },
+        {
+          "name": "rock and roll over",
+          "url": "https://www.last.fm/tag/rock+and+roll+over"
+        },
+        {
+          "name": "indie folk",
+          "url": "https://www.last.fm/tag/indie+folk"
+        },
+        {
+          "name": "Versus Verses",
+          "url": "https://www.last.fm/tag/Versus+Verses"
+        }
+      ]
+    },
+    "wiki": {
+      "published": "06 Oct 2024, 14:01",
+      "summary": "Gigi Perez's \"Sailor Song\" weaves together themes of love, yearning, and emotional vulnerability through the metaphor of a sailor’s journey. The song juxtaposes devotion and separation with raw passion, creating an emotionally intense atmosphere. Its maritime imagery reflects personal longing and the challenges of connection, resonating with listeners through its mix of worshipful and lustful emotions. The track's success, including its appearance on the Hot 100, stems from its emotional authenticity and evocative lyrics. <a href=\"http://www.last.fm/music/Gigi+Perez/_/Sailor+Song\">Read more on Last.fm</a>.",
+      "content": "Gigi Perez's \"Sailor Song\" weaves together themes of love, yearning, and emotional vulnerability through the metaphor of a sailor’s journey. The song juxtaposes devotion and separation with raw passion, creating an emotionally intense atmosphere. Its maritime imagery reflects personal longing and the challenges of connection, resonating with listeners through its mix of worshipful and lustful emotions. The track's success, including its appearance on the Hot 100, stems from its emotional authenticity and evocative lyrics. <a href=\"http://www.last.fm/music/Gigi+Perez/_/Sailor+Song\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

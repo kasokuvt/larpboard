@@ -1,0 +1,48 @@
+{
+  "track": {
+    "name": "lovefool demo",
+    "url": "https://www.last.fm/music/wifiskeleton/_/lovefool+demo",
+    "duration": "99000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "72148",
+    "playcount": "945085",
+    "artist": {
+      "name": "wifiskeleton",
+      "url": "https://www.last.fm/music/wifiskeleton"
+    },
+    "album": {
+      "artist": "wifiskeleton",
+      "title": "lovefool",
+      "url": "https://www.last.fm/music/wifiskeleton/lovefool",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/3d9b103e3f7f6f9e97b6ca1e52c9e73b.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/3d9b103e3f7f6f9e97b6ca1e52c9e73b.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/3d9b103e3f7f6f9e97b6ca1e52c9e73b.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/3d9b103e3f7f6f9e97b6ca1e52c9e73b.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    },
+    "wiki": {
+      "published": "29 Mar 2025, 01:55",
+      "summary": "Not Anywhere by alex g <a href=\"http://www.last.fm/music/wifiskeleton/_/lovefool+demo\">Read more on Last.fm</a>.",
+      "content": "Not Anywhere by alex g <a href=\"http://www.last.fm/music/wifiskeleton/_/lovefool+demo\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

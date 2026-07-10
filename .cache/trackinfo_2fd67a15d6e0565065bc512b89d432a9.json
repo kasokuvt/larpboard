@@ -1,0 +1,66 @@
+{
+  "track": {
+    "name": "Blue Hair",
+    "mbid": "49c99d14-dd68-42c8-88c0-8a1908a8693a",
+    "url": "https://www.last.fm/music/TV+Girl/_/Blue+Hair",
+    "duration": "217000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "1490337",
+    "playcount": "22754200",
+    "artist": {
+      "name": "TV Girl",
+      "mbid": "38f0c7ac-46eb-49ca-b3ab-c785ccd05a60",
+      "url": "https://www.last.fm/music/TV+Girl"
+    },
+    "album": {
+      "artist": "TV Girl",
+      "title": "The TV Girl Box Set",
+      "url": "https://www.last.fm/music/TV+Girl/The+TV+Girl+Box+Set",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/5f79fbe4deef3ffc8a550c0c17960d04.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/5f79fbe4deef3ffc8a550c0c17960d04.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/5f79fbe4deef3ffc8a550c0c17960d04.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/5f79fbe4deef3ffc8a550c0c17960d04.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "indie rock",
+          "url": "https://www.last.fm/tag/indie+rock"
+        },
+        {
+          "name": "alternative",
+          "url": "https://www.last.fm/tag/alternative"
+        },
+        {
+          "name": "2010s",
+          "url": "https://www.last.fm/tag/2010s"
+        },
+        {
+          "name": "indie",
+          "url": "https://www.last.fm/tag/indie"
+        },
+        {
+          "name": "Lo-Fi",
+          "url": "https://www.last.fm/tag/Lo-Fi"
+        }
+      ]
+    }
+  }
+}

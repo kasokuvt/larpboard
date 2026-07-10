@@ -1,0 +1,50 @@
+{
+  "track": {
+    "name": "addicted",
+    "mbid": "17e2c8b5-aea2-47d1-b431-591e521f3a0d",
+    "url": "https://www.last.fm/music/OsamaSon/_/addicted",
+    "duration": "138000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "137397",
+    "playcount": "1827394",
+    "artist": {
+      "name": "OsamaSon",
+      "mbid": "35214d53-009b-45d9-8a00-6664325b9e2a",
+      "url": "https://www.last.fm/music/OsamaSon"
+    },
+    "album": {
+      "artist": "OsamaSon",
+      "title": "Psykotic",
+      "url": "https://www.last.fm/music/OsamaSon/Psykotic",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/274d65366011addc7d4049ca168b246b.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/274d65366011addc7d4049ca168b246b.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/274d65366011addc7d4049ca168b246b.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/274d65366011addc7d4049ca168b246b.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    },
+    "wiki": {
+      "published": "28 Feb 2026, 17:47",
+      "summary": "On Addicted (dubbed Nun To Us by fans), OsamaSon flows through the song line after line, while bragging about about money, women, cars, jewelry, clothes. The track is produced by OsamaSon himself, and OsamaSon’s frequent collaborator, gyro. The beat consists of hypnotic synth melodies, which are supported by hard-hitting bass and fast-paced drums.\nAddicted was first previewed by OsamaSon on his alternate Instagram account, sliding, on September 25, 2025, with a slightly sped and pitched up version of the track. <a href=\"http://www.last.fm/music/OsamaSon/_/addicted\">Read more on Last.fm</a>.",
+      "content": "On Addicted (dubbed Nun To Us by fans), OsamaSon flows through the song line after line, while bragging about about money, women, cars, jewelry, clothes. The track is produced by OsamaSon himself, and OsamaSon’s frequent collaborator, gyro. The beat consists of hypnotic synth melodies, which are supported by hard-hitting bass and fast-paced drums.\nAddicted was first previewed by OsamaSon on his alternate Instagram account, sliding, on September 25, 2025, with a slightly sped and pitched up version of the track. The track would finally release as the third track on OsamaSon’s fourth commercial mixtape, psykotic, on October 10, 2025. <a href=\"http://www.last.fm/music/OsamaSon/_/addicted\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

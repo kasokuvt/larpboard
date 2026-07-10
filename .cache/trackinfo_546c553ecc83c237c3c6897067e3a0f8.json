@@ -1,0 +1,65 @@
+{
+  "track": {
+    "name": "Bang Bang",
+    "mbid": "56b7d3e5-7efe-3322-9e41-9a094156422d",
+    "url": "https://www.last.fm/music/K%27naan/_/Bang+Bang",
+    "duration": "184000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "410727",
+    "playcount": "4342971",
+    "artist": {
+      "name": "K'naan",
+      "url": "https://www.last.fm/music/K%27naan"
+    },
+    "album": {
+      "artist": "K'naan",
+      "title": "Troubadour (Champion Edition - Asian Version)",
+      "url": "https://www.last.fm/music/K%27naan/Troubadour+(Champion+Edition+-+Asian+Version)",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2687a649e67a60f64e9fe76f20a21eb1.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2687a649e67a60f64e9fe76f20a21eb1.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2687a649e67a60f64e9fe76f20a21eb1.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2687a649e67a60f64e9fe76f20a21eb1.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "Happy Feet",
+          "url": "https://www.last.fm/tag/Happy+Feet"
+        },
+        {
+          "name": "party",
+          "url": "https://www.last.fm/tag/party"
+        },
+        {
+          "name": "pop",
+          "url": "https://www.last.fm/tag/pop"
+        },
+        {
+          "name": "rock",
+          "url": "https://www.last.fm/tag/rock"
+        },
+        {
+          "name": "american",
+          "url": "https://www.last.fm/tag/american"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "track": {
+    "name": "my twenty first reason </3",
+    "mbid": "e5c3b200-486e-4b7a-aa20-a0ec73d55bde",
+    "url": "https://www.last.fm/music/wifiskeleton/_/my+twenty+first+reason+%3C%2F3",
+    "duration": "105000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "226640",
+    "playcount": "3061478",
+    "artist": {
+      "name": "wifiskeleton",
+      "url": "https://www.last.fm/music/wifiskeleton"
+    },
+    "album": {
+      "artist": "wifiskeleton",
+      "title": "suburban daredevil [Explicit]",
+      "url": "https://www.last.fm/music/wifiskeleton/suburban+daredevil+%5BExplicit%5D",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/62b491fe2ab83f8a9108f12892c6b7c9.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/62b491fe2ab83f8a9108f12892c6b7c9.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/62b491fe2ab83f8a9108f12892c6b7c9.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/62b491fe2ab83f8a9108f12892c6b7c9.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

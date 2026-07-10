@@ -1,0 +1,66 @@
+{
+  "track": {
+    "name": "Fine",
+    "mbid": "3940dfed-4f25-3471-bd92-3d1f5d3ced7c",
+    "url": "https://www.last.fm/music/Lemon+Demon/_/Fine",
+    "duration": "279000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "327567",
+    "playcount": "3454820",
+    "artist": {
+      "name": "Lemon Demon",
+      "mbid": "6b014cfd-4927-4187-a741-715998e6d785",
+      "url": "https://www.last.fm/music/Lemon+Demon"
+    },
+    "album": {
+      "artist": "Lemon Demon",
+      "title": "Dinosaurchestra",
+      "url": "https://www.last.fm/music/Lemon+Demon/Dinosaurchestra",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/833c6ab291dd39ea7db9bffc63fa92db.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/833c6ab291dd39ea7db9bffc63fa92db.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/833c6ab291dd39ea7db9bffc63fa92db.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/833c6ab291dd39ea7db9bffc63fa92db.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "synthpop",
+          "url": "https://www.last.fm/tag/synthpop"
+        },
+        {
+          "name": "power pop",
+          "url": "https://www.last.fm/tag/power+pop"
+        },
+        {
+          "name": "new wave",
+          "url": "https://www.last.fm/tag/new+wave"
+        },
+        {
+          "name": "indie pop",
+          "url": "https://www.last.fm/tag/indie+pop"
+        },
+        {
+          "name": "optimistic",
+          "url": "https://www.last.fm/tag/optimistic"
+        }
+      ]
+    }
+  }
+}

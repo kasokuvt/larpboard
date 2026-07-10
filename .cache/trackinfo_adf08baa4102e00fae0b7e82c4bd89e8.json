@@ -1,0 +1,71 @@
+{
+  "track": {
+    "name": "Discord",
+    "mbid": "02fd0dbb-d276-440c-bb68-760059dd3d7c",
+    "url": "https://www.last.fm/music/The+Living+Tombstone/_/Discord",
+    "duration": "193000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "507497",
+    "playcount": "4627599",
+    "artist": {
+      "name": "The Living Tombstone",
+      "mbid": "3f6ee55e-d523-4dd8-a027-7a6af9909ae1",
+      "url": "https://www.last.fm/music/The+Living+Tombstone"
+    },
+    "album": {
+      "artist": "The Living Tombstone",
+      "title": "The Living Tombstone",
+      "url": "https://www.last.fm/music/The+Living+Tombstone/The+Living+Tombstone",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/9363d50d0d7abbd839729aa039a67122.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/9363d50d0d7abbd839729aa039a67122.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/9363d50d0d7abbd839729aa039a67122.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/9363d50d0d7abbd839729aa039a67122.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "electropop",
+          "url": "https://www.last.fm/tag/electropop"
+        },
+        {
+          "name": "mlp",
+          "url": "https://www.last.fm/tag/mlp"
+        },
+        {
+          "name": "bronie",
+          "url": "https://www.last.fm/tag/bronie"
+        },
+        {
+          "name": "vocal",
+          "url": "https://www.last.fm/tag/vocal"
+        },
+        {
+          "name": "fire",
+          "url": "https://www.last.fm/tag/fire"
+        }
+      ]
+    },
+    "wiki": {
+      "published": "09 Aug 2023, 21:40",
+      "summary": "“Discord” is a song about a draconequus of the same name from the animated series My Little Pony: Friendship is Magic who attempted to overthrow Equestria and wreak havoc upon their world. <a href=\"http://www.last.fm/music/The+Living+Tombstone/_/Discord\">Read more on Last.fm</a>.",
+      "content": "“Discord” is a song about a draconequus of the same name from the animated series My Little Pony: Friendship is Magic who attempted to overthrow Equestria and wreak havoc upon their world. <a href=\"http://www.last.fm/music/The+Living+Tombstone/_/Discord\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "track": {
+    "name": "ABC",
+    "mbid": "0049c4a6-9c38-414d-aff6-14a8e49922a2",
+    "url": "https://www.last.fm/music/The+Jackson+5/_/ABC",
+    "duration": "177000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "833380",
+    "playcount": "3446117",
+    "artist": {
+      "name": "The Jackson 5",
+      "url": "https://www.last.fm/music/The+Jackson+5"
+    },
+    "album": {
+      "artist": "The Jackson 5",
+      "title": "The Ultimate Collection",
+      "url": "https://www.last.fm/music/The+Jackson+5/The+Ultimate+Collection",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/a744edd586541e41276a96c59cf91fbb.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/a744edd586541e41276a96c59cf91fbb.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/a744edd586541e41276a96c59cf91fbb.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/a744edd586541e41276a96c59cf91fbb.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "7soul",
+          "url": "https://www.last.fm/tag/7soul"
+        },
+        {
+          "name": "motown",
+          "url": "https://www.last.fm/tag/motown"
+        },
+        {
+          "name": "soul",
+          "url": "https://www.last.fm/tag/soul"
+        },
+        {
+          "name": "70s",
+          "url": "https://www.last.fm/tag/70s"
+        },
+        {
+          "name": "pop",
+          "url": "https://www.last.fm/tag/pop"
+        }
+      ]
+    },
+    "wiki": {
+      "published": "30 Jun 2009, 01:37",
+      "summary": "\"ABC\" was a 1970 number-one hit song by The Jackson 5. \"ABC\" was written with the same design as \"I Want You Back\", and was first heard on American Bandstand in February 1970. The song also knocked The Beatles song \"Let It Be\" out of the number one spot on the Billboard Hot 100 that same year.\n\nLike most of the other early Jackson 5 hits, \"ABC\" was written and produced by The Corporation, a team composed of Motown chief Berry Gordy, Freddie Perren <a href=\"http://www.last.fm/music/The+Jackson+5/_/ABC\">Read more on Last.fm</a>.",
+      "content": "\"ABC\" was a 1970 number-one hit song by The Jackson 5. \"ABC\" was written with the same design as \"I Want You Back\", and was first heard on American Bandstand in February 1970. The song also knocked The Beatles song \"Let It Be\" out of the number one spot on the Billboard Hot 100 that same year.\n\nLike most of the other early Jackson 5 hits, \"ABC\" was written and produced by The Corporation, a team composed of Motown chief Berry Gordy, Freddie Perren, Alphonzo Mizell, and Deke Richards and recorded in Los Angeles, California, away from the old Motown studio at Hitsville USA in Detroit, Michigan.\n\n\"ABC\" was the first single from the second Jackson 5 album, ABC, issued with a cover of Diana Ross & the Supremes' \"The Young Folks\" as the B-side. It is today one of the Jackson 5's signature songs.\n\nThe song has also been sampled by Naughty by Nature for their 1991 single \"O.P.P.\", also by Girl Talk on his fourth album Feed the Animals. <a href=\"http://www.last.fm/music/The+Jackson+5/_/ABC\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "track": {
+    "name": "MISSION CONTROL (feat. THE WRLDFMS Tony Williams)",
+    "mbid": "db2d6e01-7ac9-4528-815a-529ba487b993",
+    "url": "https://www.last.fm/music/Kanye+West/_/MISSION+CONTROL+(feat.+THE+WRLDFMS+Tony+Williams)",
+    "duration": "112000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "27486",
+    "playcount": "94053",
+    "artist": {
+      "name": "Kanye West",
+      "url": "https://www.last.fm/music/Kanye+West"
+    },
+    "album": {
+      "artist": "Ye",
+      "title": "MISSION CONTROL (feat. The WRLDFMS Tony Williams)",
+      "url": "https://www.last.fm/music/Ye/MISSION+CONTROL+(feat.+The+WRLDFMS+Tony+Williams)",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/4caafe12705c9003c5f1664399097cb9.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/4caafe12705c9003c5f1664399097cb9.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/4caafe12705c9003c5f1664399097cb9.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/4caafe12705c9003c5f1664399097cb9.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

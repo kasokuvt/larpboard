@@ -1,0 +1,71 @@
+{
+  "track": {
+    "name": "Superpowers",
+    "mbid": "70b2f523-116d-4195-ad78-67a3d80d147f",
+    "url": "https://www.last.fm/music/Daniel+Caesar/_/Superpowers",
+    "duration": "175000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "785363",
+    "playcount": "12254154",
+    "artist": {
+      "name": "Daniel Caesar",
+      "mbid": "b46e298d-d3a5-4695-a03e-63e8c523b23e",
+      "url": "https://www.last.fm/music/Daniel+Caesar"
+    },
+    "album": {
+      "artist": "Daniel Caesar",
+      "title": "NEVER ENOUGH",
+      "url": "https://www.last.fm/music/Daniel+Caesar/NEVER+ENOUGH",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/19102a409a0fbcb571788e0c4b9067b1.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/19102a409a0fbcb571788e0c4b9067b1.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/19102a409a0fbcb571788e0c4b9067b1.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/19102a409a0fbcb571788e0c4b9067b1.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "pop",
+          "url": "https://www.last.fm/tag/pop"
+        },
+        {
+          "name": "soul",
+          "url": "https://www.last.fm/tag/soul"
+        },
+        {
+          "name": "rnb",
+          "url": "https://www.last.fm/tag/rnb"
+        },
+        {
+          "name": "Neo-Soul",
+          "url": "https://www.last.fm/tag/Neo-Soul"
+        },
+        {
+          "name": "Treasure",
+          "url": "https://www.last.fm/tag/Treasure"
+        }
+      ]
+    },
+    "wiki": {
+      "published": "04 Nov 2024, 21:05",
+      "summary": "\"Superpowers\" is the 14th track of Daniel Caesar's 2023 album \"NEVER ENOUGH\". This track serves as a letter to Daniel’s present self from a third person view. Looking at his life and what he has become now, he reflects on his actions and behaviour. According to Daniel on an interview, the song was written under a shroom trip. <a href=\"http://www.last.fm/music/Daniel+Caesar/_/Superpowers\">Read more on Last.fm</a>.",
+      "content": "\"Superpowers\" is the 14th track of Daniel Caesar's 2023 album \"NEVER ENOUGH\". This track serves as a letter to Daniel’s present self from a third person view. Looking at his life and what he has become now, he reflects on his actions and behaviour. According to Daniel on an interview, the song was written under a shroom trip. <a href=\"http://www.last.fm/music/Daniel+Caesar/_/Superpowers\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

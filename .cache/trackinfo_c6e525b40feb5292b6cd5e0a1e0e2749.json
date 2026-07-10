@@ -1,0 +1,67 @@
+{
+  "track": {
+    "name": "In My Room",
+    "mbid": "7084e345-2184-4f8f-88dc-90fe0eae4398",
+    "url": "https://www.last.fm/music/Julia+Wolf/_/In+My+Room",
+    "duration": "163000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "710089",
+    "playcount": "12041461",
+    "artist": {
+      "name": "Julia Wolf",
+      "mbid": "b89456e0-cf8d-4a29-baed-4b2d1fe3ef6a",
+      "url": "https://www.last.fm/music/Julia+Wolf"
+    },
+    "album": {
+      "artist": "Julia Wolf",
+      "title": "In My Room",
+      "url": "https://www.last.fm/music/Julia+Wolf/In+My+Room",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/066810fc65d7ec46d09f510775eac498.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/066810fc65d7ec46d09f510775eac498.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/066810fc65d7ec46d09f510775eac498.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/066810fc65d7ec46d09f510775eac498.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "alternative pop",
+          "url": "https://www.last.fm/tag/alternative+pop"
+        },
+        {
+          "name": "dark pop",
+          "url": "https://www.last.fm/tag/dark+pop"
+        },
+        {
+          "name": "volcrynz",
+          "url": "https://www.last.fm/tag/volcrynz"
+        },
+        {
+          "name": "BARBARA PARIS LOVES IT",
+          "url": "https://www.last.fm/tag/BARBARA+PARIS+LOVES+IT"
+        }
+      ]
+    },
+    "wiki": {
+      "published": "03 Jul 2026, 20:47",
+      "summary": "“In My Room,” Julia Wolf’s most listened to song, served as the first pre-release single and ninth track of Julia Wolf’s third studio album, PRESSURE.\n\n“In My Room” is about the ache of missing someone who’s moved on. It’s the obsessive back and forth nature of wanting to hold onto pieces of someone who isn’t looking to be held by you anymore. Suddenly I’m stalking myself on the internet trying to interpret how said person might perceive me <a href=\"http://www.last.fm/music/Julia+Wolf/_/In+My+Room\">Read more on Last.fm</a>.",
+      "content": "“In My Room,” Julia Wolf’s most listened to song, served as the first pre-release single and ninth track of Julia Wolf’s third studio album, PRESSURE.\n\n“In My Room” is about the ache of missing someone who’s moved on. It’s the obsessive back and forth nature of wanting to hold onto pieces of someone who isn’t looking to be held by you anymore. Suddenly I’m stalking myself on the internet trying to interpret how said person might perceive me, and see what I can fix about myself to best keep them around and interested, when in reality, they were already long gone.\n\n-Paste Magazine <a href=\"http://www.last.fm/music/Julia+Wolf/_/In+My+Room\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

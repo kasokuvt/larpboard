@@ -1,0 +1,44 @@
+{
+  "track": {
+    "name": "isnt it obvious",
+    "mbid": "4756210f-6caf-4d3f-beb5-44375a692647",
+    "url": "https://www.last.fm/music/wifiskeleton/_/isnt+it+obvious",
+    "duration": "108000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "58370",
+    "playcount": "700588",
+    "artist": {
+      "name": "wifiskeleton",
+      "url": "https://www.last.fm/music/wifiskeleton"
+    },
+    "album": {
+      "artist": "wifiskeleton",
+      "title": "pony",
+      "url": "https://www.last.fm/music/wifiskeleton/pony",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/4fe56dda65a47e325227a21588c98127.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/4fe56dda65a47e325227a21588c98127.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/4fe56dda65a47e325227a21588c98127.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/4fe56dda65a47e325227a21588c98127.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

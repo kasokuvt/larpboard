@@ -1,0 +1,71 @@
+{
+  "track": {
+    "name": "Dear Maria, Count Me In",
+    "mbid": "02434c6b-2ac2-34bd-99d5-6cf90e63eb6a",
+    "url": "https://www.last.fm/music/All+Time+Low/_/Dear+Maria,+Count+Me+In",
+    "duration": "187000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "1388405",
+    "playcount": "15584427",
+    "artist": {
+      "name": "All Time Low",
+      "mbid": "62162215-b023-4f0e-84bd-1e9412d5b32c",
+      "url": "https://www.last.fm/music/All+Time+Low"
+    },
+    "album": {
+      "artist": "All Time Low",
+      "title": "So Wrong, It's Right",
+      "url": "https://www.last.fm/music/All+Time+Low/So+Wrong,+It%27s+Right",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/4d620faba3e14a00885d677e8a6a2bb8.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/4d620faba3e14a00885d677e8a6a2bb8.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/4d620faba3e14a00885d677e8a6a2bb8.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/4d620faba3e14a00885d677e8a6a2bb8.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "pop punk",
+          "url": "https://www.last.fm/tag/pop+punk"
+        },
+        {
+          "name": "All Time Low",
+          "url": "https://www.last.fm/tag/All+Time+Low"
+        },
+        {
+          "name": "alternative",
+          "url": "https://www.last.fm/tag/alternative"
+        },
+        {
+          "name": "punk rock",
+          "url": "https://www.last.fm/tag/punk+rock"
+        },
+        {
+          "name": "rock",
+          "url": "https://www.last.fm/tag/rock"
+        }
+      ]
+    },
+    "wiki": {
+      "published": "30 Aug 2008, 21:11",
+      "summary": "“Dear Maria, Count Me In“ is All Time Low's second single off their album, So Wrong, It's Right. When asked the meaning of the song, lead vocalist Alex said:\n\n\"This girl that I know told me that she had become a stripper and I thought that was hilarious... and awesome.\"\n\nIn another interview, Alex quoted that the lyrics of the chorus \"I got your picture, I'm coming with you, Dear Maria, count me in\" has a deeper meaning of which it can be translated <a href=\"http://www.last.fm/music/All+Time+Low/_/Dear+Maria,+Count+Me+In\">Read more on Last.fm</a>.",
+      "content": "“Dear Maria, Count Me In“ is All Time Low's second single off their album, So Wrong, It's Right. When asked the meaning of the song, lead vocalist Alex said:\n\n\"This girl that I know told me that she had become a stripper and I thought that was hilarious... and awesome.\"\n\nIn another interview, Alex quoted that the lyrics of the chorus \"I got your picture, I'm coming with you, Dear Maria, count me in\" has a deeper meaning of which it can be translated into himself wishing that Maria would have a drink at the bar with him and perhaps give him a lap dance. Alex has also said that he got the idea for this song because an old friend of his became a stripper and he decided to write a song about a manager trying to make this stripper, Maria, into something big like a moviestar or something. <a href=\"http://www.last.fm/music/All+Time+Low/_/Dear+Maria,+Count+Me+In\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

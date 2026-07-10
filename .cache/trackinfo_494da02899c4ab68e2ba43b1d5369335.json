@@ -1,0 +1,20 @@
+{
+  "track": {
+    "name": "Undone",
+    "url": "https://www.last.fm/music/The+Sweater+Song+-+Weezer/_/Undone",
+    "duration": "0",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "4",
+    "playcount": "9",
+    "artist": {
+      "name": "The Sweater Song - Weezer",
+      "url": "https://www.last.fm/music/The+Sweater+Song+-+Weezer"
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

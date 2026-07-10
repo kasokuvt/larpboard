@@ -1,0 +1,71 @@
+{
+  "track": {
+    "name": "Tek It",
+    "mbid": "122e08b9-809d-4ea4-936a-084e0c949991",
+    "url": "https://www.last.fm/music/Cafun%C3%A9/_/Tek+It",
+    "duration": "191000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "1354608",
+    "playcount": "21140498",
+    "artist": {
+      "name": "Cafuné",
+      "mbid": "91faf71d-89f3-4bd6-8a54-3701a0dd753f",
+      "url": "https://www.last.fm/music/Cafun%C3%A9"
+    },
+    "album": {
+      "artist": "Cafuné",
+      "title": "Running",
+      "url": "https://www.last.fm/music/Cafun%C3%A9/Running",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/6af18c60020cbfd9e13a0d385a228694.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/6af18c60020cbfd9e13a0d385a228694.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/6af18c60020cbfd9e13a0d385a228694.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/6af18c60020cbfd9e13a0d385a228694.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "indie pop",
+          "url": "https://www.last.fm/tag/indie+pop"
+        },
+        {
+          "name": "indie",
+          "url": "https://www.last.fm/tag/indie"
+        },
+        {
+          "name": "pop",
+          "url": "https://www.last.fm/tag/pop"
+        },
+        {
+          "name": "rock",
+          "url": "https://www.last.fm/tag/rock"
+        },
+        {
+          "name": "tiktokcore",
+          "url": "https://www.last.fm/tag/tiktokcore"
+        }
+      ]
+    },
+    "wiki": {
+      "published": "28 Jun 2022, 00:37",
+      "summary": "“Tek It” sees Cafuné and Sedona Schat come together to make an otherworldly track.\n\nNoah Yoo stated in a TikTok video that the song was titled “Tek It” because he had been watching a Super Smash Bros livestream when he discovered the guitar tune for the song. Yoo recorded the tune and went to name the session, but the word “tek” was the only word in his mind. He decided to just name the file “tek it,” and it was never changed. <a href=\"http://www.last.fm/music/Cafun%C3%A9/_/Tek+It\">Read more on Last.fm</a>.",
+      "content": "“Tek It” sees Cafuné and Sedona Schat come together to make an otherworldly track.\n\nNoah Yoo stated in a TikTok video that the song was titled “Tek It” because he had been watching a Super Smash Bros livestream when he discovered the guitar tune for the song. Yoo recorded the tune and went to name the session, but the word “tek” was the only word in his mind. He decided to just name the file “tek it,” and it was never changed. <a href=\"http://www.last.fm/music/Cafun%C3%A9/_/Tek+It\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

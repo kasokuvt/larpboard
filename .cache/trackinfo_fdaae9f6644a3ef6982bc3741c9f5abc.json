@@ -1,0 +1,71 @@
+{
+  "track": {
+    "name": "Animal I Have Become",
+    "mbid": "19a279c5-c10c-437f-ac56-2b2ec7d5cf96",
+    "url": "https://www.last.fm/music/Three+Days+Grace/_/Animal+I+Have+Become",
+    "duration": "231000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "1805684",
+    "playcount": "20347249",
+    "artist": {
+      "name": "Three Days Grace",
+      "mbid": "fabb37f8-eb2a-4cc1-a72a-b56935bbb72d",
+      "url": "https://www.last.fm/music/Three+Days+Grace"
+    },
+    "album": {
+      "artist": "Three Days Grace",
+      "title": "One-X",
+      "url": "https://www.last.fm/music/Three+Days+Grace/One-X",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/7d574c73804709ed8983e6261af8f1f7.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/7d574c73804709ed8983e6261af8f1f7.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/7d574c73804709ed8983e6261af8f1f7.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/7d574c73804709ed8983e6261af8f1f7.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "alternative rock",
+          "url": "https://www.last.fm/tag/alternative+rock"
+        },
+        {
+          "name": "rock",
+          "url": "https://www.last.fm/tag/rock"
+        },
+        {
+          "name": "hard rock",
+          "url": "https://www.last.fm/tag/hard+rock"
+        },
+        {
+          "name": "alternative",
+          "url": "https://www.last.fm/tag/alternative"
+        },
+        {
+          "name": "three days grace",
+          "url": "https://www.last.fm/tag/three+days+grace"
+        }
+      ]
+    },
+    "wiki": {
+      "published": "09 Apr 2009, 20:45",
+      "summary": "Gontier has stated that while addicted to the painkiller OxyContin, he had become abusive and angry and had no idea who he was anymore. He wrote \"Animal I Have Become\" while in rehab for his addiction. <a href=\"http://www.last.fm/music/Three+Days+Grace/_/Animal+I+Have+Become\">Read more on Last.fm</a>.",
+      "content": "Gontier has stated that while addicted to the painkiller OxyContin, he had become abusive and angry and had no idea who he was anymore. He wrote \"Animal I Have Become\" while in rehab for his addiction. <a href=\"http://www.last.fm/music/Three+Days+Grace/_/Animal+I+Have+Become\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

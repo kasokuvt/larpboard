@@ -1,0 +1,71 @@
+{
+  "track": {
+    "name": "my way",
+    "mbid": "3f09a28d-1287-4974-a330-c88b0c2cbf57",
+    "url": "https://www.last.fm/music/Olivia+Rodrigo/_/my+way",
+    "duration": "180000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "523868",
+    "playcount": "4770370",
+    "artist": {
+      "name": "Olivia Rodrigo",
+      "mbid": "6925db17-f35e-42f3-a4eb-84ee6bf5d4b0",
+      "url": "https://www.last.fm/music/Olivia+Rodrigo"
+    },
+    "album": {
+      "artist": "Olivia Rodrigo",
+      "title": "you seem pretty sad for a girl so in love (with a bonus track)",
+      "url": "https://www.last.fm/music/Olivia+Rodrigo/you+seem+pretty+sad+for+a+girl+so+in+love+(with+a+bonus+track)",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/23d2173f609bf83b80322361a20df785.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/23d2173f609bf83b80322361a20df785.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/23d2173f609bf83b80322361a20df785.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/23d2173f609bf83b80322361a20df785.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "Electroclash",
+          "url": "https://www.last.fm/tag/Electroclash"
+        },
+        {
+          "name": "power pop",
+          "url": "https://www.last.fm/tag/power+pop"
+        },
+        {
+          "name": "pop punk",
+          "url": "https://www.last.fm/tag/pop+punk"
+        },
+        {
+          "name": "new rave",
+          "url": "https://www.last.fm/tag/new+rave"
+        },
+        {
+          "name": "new wave",
+          "url": "https://www.last.fm/tag/new+wave"
+        }
+      ]
+    },
+    "wiki": {
+      "published": "12 Jun 2026, 12:14",
+      "summary": "“my way” is sixth track off of you seem pretty sad for a girl so in love.\n\nSimilar to songs like “Better Than Revenge” by Taylor Swift and \"Misery Business\" by Paramore, Olivia angrily yearns about a girl crossing boundaries in her relationship with her boyfriend. <a href=\"http://www.last.fm/music/Olivia+Rodrigo/_/my+way\">Read more on Last.fm</a>.",
+      "content": "“my way” is sixth track off of you seem pretty sad for a girl so in love.\n\nSimilar to songs like “Better Than Revenge” by Taylor Swift and \"Misery Business\" by Paramore, Olivia angrily yearns about a girl crossing boundaries in her relationship with her boyfriend. <a href=\"http://www.last.fm/music/Olivia+Rodrigo/_/my+way\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

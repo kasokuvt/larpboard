@@ -1,0 +1,45 @@
+{
+  "track": {
+    "name": "Get Out",
+    "mbid": "ea25b507-3a5f-430d-b52a-4743086ea824",
+    "url": "https://www.last.fm/music/DAGames/_/Get+Out",
+    "duration": "242000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "52391",
+    "playcount": "371578",
+    "artist": {
+      "name": "DAGames",
+      "mbid": "174bd34d-9e1a-4372-b24d-ca9b5407bf22",
+      "url": "https://www.last.fm/music/DAGames"
+    },
+    "album": {
+      "artist": "DAGames",
+      "title": "Get Out",
+      "url": "https://www.last.fm/music/DAGames/Get+Out",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/11947da508f79341f237fa7d14b2141f.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/11947da508f79341f237fa7d14b2141f.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/11947da508f79341f237fa7d14b2141f.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/11947da508f79341f237fa7d14b2141f.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

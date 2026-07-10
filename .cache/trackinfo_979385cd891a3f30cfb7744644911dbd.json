@@ -1,0 +1,44 @@
+{
+  "track": {
+    "name": "lucy~",
+    "url": "https://www.last.fm/music/Corbon+Amodio/_/lucy~",
+    "duration": "118000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "218855",
+    "playcount": "2278684",
+    "artist": {
+      "name": "Corbon Amodio",
+      "mbid": "a7202ae7-3cad-49fa-87c0-4d748836fb77",
+      "url": "https://www.last.fm/music/Corbon+Amodio"
+    },
+    "album": {
+      "artist": "Corbon Amodio",
+      "title": "lucy~",
+      "url": "https://www.last.fm/music/Corbon+Amodio/lucy~",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/f53303a7b49cf1013d476a9e93d01f5b.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/f53303a7b49cf1013d476a9e93d01f5b.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/f53303a7b49cf1013d476a9e93d01f5b.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/f53303a7b49cf1013d476a9e93d01f5b.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "track": {
+    "name": "Heart to Heart",
+    "mbid": "31ef2e3e-7747-4930-b942-47ae9201507a",
+    "url": "https://www.last.fm/music/Mac+DeMarco/_/Heart+to+Heart",
+    "duration": "211000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "1546663",
+    "playcount": "24619040",
+    "artist": {
+      "name": "Mac DeMarco",
+      "mbid": "f2492c31-54a8-4347-a1fc-f81f72873bbf",
+      "url": "https://www.last.fm/music/Mac+DeMarco"
+    },
+    "album": {
+      "artist": "Mac DeMarco",
+      "title": "Here Comes the Cowboy",
+      "url": "https://www.last.fm/music/Mac+DeMarco/Here+Comes+the+Cowboy",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2d0f45e9a45eb0473566db0afbbdff08.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2d0f45e9a45eb0473566db0afbbdff08.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2d0f45e9a45eb0473566db0afbbdff08.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2d0f45e9a45eb0473566db0afbbdff08.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "indie pop",
+          "url": "https://www.last.fm/tag/indie+pop"
+        },
+        {
+          "name": "folk",
+          "url": "https://www.last.fm/tag/folk"
+        },
+        {
+          "name": "singer-songwriter",
+          "url": "https://www.last.fm/tag/singer-songwriter"
+        },
+        {
+          "name": "electronic",
+          "url": "https://www.last.fm/tag/electronic"
+        },
+        {
+          "name": "Lo-Fi",
+          "url": "https://www.last.fm/tag/Lo-Fi"
+        }
+      ]
+    },
+    "wiki": {
+      "published": "03 Dec 2025, 11:24",
+      "summary": "Mac has recently stated in an interview with Entertainment Weekly that this track was a tribute to Mac Miller who was a close friend of his.\n\nThe lyrics suggest that he is referring to his relationship with Mac Miller and the times they spent together. <a href=\"http://www.last.fm/music/Mac+DeMarco/_/Heart+to+Heart\">Read more on Last.fm</a>.",
+      "content": "Mac has recently stated in an interview with Entertainment Weekly that this track was a tribute to Mac Miller who was a close friend of his.\n\nThe lyrics suggest that he is referring to his relationship with Mac Miller and the times they spent together. <a href=\"http://www.last.fm/music/Mac+DeMarco/_/Heart+to+Heart\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "track": {
+    "name": "For the First Time",
+    "mbid": "0edd2834-be04-40c7-acc3-83ec8ce61584",
+    "url": "https://www.last.fm/music/Mac+DeMarco/_/For+the+First+Time",
+    "duration": "182000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "1671064",
+    "playcount": "27112958",
+    "artist": {
+      "name": "Mac DeMarco",
+      "mbid": "f2492c31-54a8-4347-a1fc-f81f72873bbf",
+      "url": "https://www.last.fm/music/Mac+DeMarco"
+    },
+    "album": {
+      "artist": "Mac DeMarco",
+      "title": "This Old Dog",
+      "url": "https://www.last.fm/music/Mac+DeMarco/This+Old+Dog",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/b6cc7efcf8c694136846f0b3af0b7984.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/b6cc7efcf8c694136846f0b3af0b7984.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/b6cc7efcf8c694136846f0b3af0b7984.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/b6cc7efcf8c694136846f0b3af0b7984.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "a",
+          "url": "https://www.last.fm/tag/a"
+        },
+        {
+          "name": "metal",
+          "url": "https://www.last.fm/tag/metal"
+        },
+        {
+          "name": "indie",
+          "url": "https://www.last.fm/tag/indie"
+        },
+        {
+          "name": "rock",
+          "url": "https://www.last.fm/tag/rock"
+        },
+        {
+          "name": "rap",
+          "url": "https://www.last.fm/tag/rap"
+        }
+      ]
+    },
+    "wiki": {
+      "published": "22 Apr 2023, 01:21",
+      "summary": "\"For the First Time\" is about the hardships of being in a distance relationship. It could also be about someone who’s temporarily taking a break from their relationship. They miss their lover but are aware that this is only temporary. <a href=\"http://www.last.fm/music/Mac+DeMarco/_/For+the+First+Time\">Read more on Last.fm</a>.",
+      "content": "\"For the First Time\" is about the hardships of being in a distance relationship. It could also be about someone who’s temporarily taking a break from their relationship. They miss their lover but are aware that this is only temporary. <a href=\"http://www.last.fm/music/Mac+DeMarco/_/For+the+First+Time\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "results": [
+    {
+      "wrapperType": "track",
+      "kind": "song",
+      "artistId": 329020708,
+      "collectionId": 1678078682,
+      "trackId": 1678078683,
+      "artistName": "Kikuo & Hatsune Miku",
+      "collectionName": "Kikuo Miku 7",
+      "trackName": "Twins at the carousel",
+      "collectionCensoredName": "Kikuo Miku 7",
+      "trackCensoredName": "Twins at the carousel",
+      "artistViewUrl": "https://music.apple.com/us/artist/kikuo/329020708?uo=4",
+      "collectionViewUrl": "https://music.apple.com/us/album/twins-at-the-carousel/1678078682?i=1678078683&uo=4",
+      "trackViewUrl": "https://music.apple.com/us/album/twins-at-the-carousel/1678078682?i=1678078683&uo=4",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/f3/48/aa/f348aa40-6c4c-1ee4-2996-673ef5e61bae/mzaf_15654454462014531742.plus.aac.p.m4a",
+      "artworkUrl30": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/cb/10/32/cb10324c-b831-594a-57fe-dbef403f16a6/4511820-95903.jpg/30x30bb.jpg",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/cb/10/32/cb10324c-b831-594a-57fe-dbef403f16a6/4511820-95903.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/cb/10/32/cb10324c-b831-594a-57fe-dbef403f16a6/4511820-95903.jpg/100x100bb.jpg",
+      "collectionPrice": 7.99,
+      "trackPrice": 0.99,
+      "releaseDate": "2023-03-24T12:00:00Z",
+      "collectionExplicitness": "notExplicit",
+      "trackExplicitness": "notExplicit",
+      "discCount": 1,
+      "discNumber": 1,
+      "trackCount": 11,
+      "trackNumber": 1,
+      "trackTimeMillis": 39957,
+      "country": "USA",
+      "currency": "USD",
+      "primaryGenreName": "Pop",
+      "isStreamable": true
+    }
+  ],
+  "query": {
+    "title": "ふたつの木馬 (feat. 初音ミク)",
+    "artist": "Kikuo"
+  }
+}

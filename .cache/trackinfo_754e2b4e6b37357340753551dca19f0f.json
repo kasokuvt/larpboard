@@ -1,0 +1,65 @@
+{
+  "track": {
+    "name": "REDRED",
+    "url": "https://www.last.fm/music/CORTIS/_/REDRED",
+    "duration": "163000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "288349",
+    "playcount": "6938775",
+    "artist": {
+      "name": "CORTIS",
+      "mbid": "b1dd1370-cdb8-4aae-9aaf-9147df315cc2",
+      "url": "https://www.last.fm/music/CORTIS"
+    },
+    "album": {
+      "artist": "CORTIS",
+      "title": "GREENGREEN",
+      "url": "https://www.last.fm/music/CORTIS/GREENGREEN",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/128c80ba85469e5905720f2a866a5b84.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/128c80ba85469e5905720f2a866a5b84.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/128c80ba85469e5905720f2a866a5b84.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/128c80ba85469e5905720f2a866a5b84.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "chiptune",
+          "url": "https://www.last.fm/tag/chiptune"
+        },
+        {
+          "name": "Electroclash",
+          "url": "https://www.last.fm/tag/Electroclash"
+        },
+        {
+          "name": "synthwave",
+          "url": "https://www.last.fm/tag/synthwave"
+        },
+        {
+          "name": "pop rap",
+          "url": "https://www.last.fm/tag/pop+rap"
+        },
+        {
+          "name": "soty",
+          "url": "https://www.last.fm/tag/soty"
+        }
+      ]
+    }
+  }
+}

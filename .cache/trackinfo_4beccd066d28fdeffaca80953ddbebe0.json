@@ -1,0 +1,44 @@
+{
+  "track": {
+    "name": "OK (Feat. Don Toliver)",
+    "mbid": "5dbb6f71-8e49-4948-8557-cf7c93302c35",
+    "url": "https://www.last.fm/music/Kanye+West/_/OK+(Feat.+Don+Toliver)",
+    "duration": "158000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "97404",
+    "playcount": "421573",
+    "artist": {
+      "name": "Kanye West",
+      "url": "https://www.last.fm/music/Kanye+West"
+    },
+    "album": {
+      "artist": "Kanye West",
+      "title": "BULLY 2V",
+      "url": "https://www.last.fm/music/Kanye+West/BULLY+2V",
+      "image": [
+        {
+          "#text": "",
+          "size": "small"
+        },
+        {
+          "#text": "",
+          "size": "medium"
+        },
+        {
+          "#text": "",
+          "size": "large"
+        },
+        {
+          "#text": "",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

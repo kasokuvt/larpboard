@@ -1,0 +1,71 @@
+{
+  "track": {
+    "name": "Teenage Dirtbag",
+    "mbid": "02704525-c7bd-40a8-809b-d84cbb748c69",
+    "url": "https://www.last.fm/music/Wheatus/_/Teenage+Dirtbag",
+    "duration": "242000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "1685896",
+    "playcount": "15392594",
+    "artist": {
+      "name": "Wheatus",
+      "mbid": "741a2892-1c5d-402f-a769-2096356c77d7",
+      "url": "https://www.last.fm/music/Wheatus"
+    },
+    "album": {
+      "artist": "Wheatus",
+      "title": "Wheatus",
+      "url": "https://www.last.fm/music/Wheatus/Wheatus",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/87d772620e840e805ccbd1f34d800095.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/87d772620e840e805ccbd1f34d800095.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/87d772620e840e805ccbd1f34d800095.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/87d772620e840e805ccbd1f34d800095.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "rock",
+          "url": "https://www.last.fm/tag/rock"
+        },
+        {
+          "name": "alternative",
+          "url": "https://www.last.fm/tag/alternative"
+        },
+        {
+          "name": "alternative rock",
+          "url": "https://www.last.fm/tag/alternative+rock"
+        },
+        {
+          "name": "90s",
+          "url": "https://www.last.fm/tag/90s"
+        },
+        {
+          "name": "pop",
+          "url": "https://www.last.fm/tag/pop"
+        }
+      ]
+    },
+    "wiki": {
+      "published": "31 Oct 2009, 15:00",
+      "summary": "\"Teenage Dirtbag\" is a single by Wheatus, released in 2000. It was included on the soundtrack of the movie Loser. The single was massively successful in Australia, spending three weeks at #1 and becoming the second-highest selling single of the year. It also reached #2 in the United Kingdom and Germany. <a href=\"http://www.last.fm/music/Wheatus/_/Teenage+Dirtbag\">Read more on Last.fm</a>.",
+      "content": "\"Teenage Dirtbag\" is a single by Wheatus, released in 2000. It was included on the soundtrack of the movie Loser. The single was massively successful in Australia, spending three weeks at #1 and becoming the second-highest selling single of the year. It also reached #2 in the United Kingdom and Germany. <a href=\"http://www.last.fm/music/Wheatus/_/Teenage+Dirtbag\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

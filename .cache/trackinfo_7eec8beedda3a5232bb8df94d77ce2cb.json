@@ -1,0 +1,43 @@
+{
+  "track": {
+    "name": "The Crazy In Your Eyes",
+    "url": "https://www.last.fm/music/lolwtfitsjake/_/The+Crazy+In+Your+Eyes",
+    "duration": "114000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "11487",
+    "playcount": "87402",
+    "artist": {
+      "name": "lolwtfitsjake",
+      "url": "https://www.last.fm/music/lolwtfitsjake"
+    },
+    "album": {
+      "artist": "lolwtfitsjake",
+      "title": "The Crazy In Your Eyes",
+      "url": "https://www.last.fm/music/lolwtfitsjake/The+Crazy+In+Your+Eyes",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/1a5a4c75385a5386470f6139f978cba0.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/1a5a4c75385a5386470f6139f978cba0.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/1a5a4c75385a5386470f6139f978cba0.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/1a5a4c75385a5386470f6139f978cba0.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

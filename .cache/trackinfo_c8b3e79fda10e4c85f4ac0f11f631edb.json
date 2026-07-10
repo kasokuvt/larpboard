@@ -1,0 +1,71 @@
+{
+  "track": {
+    "name": "Cherry Waves",
+    "mbid": "519d14dd-9e2d-3079-bb53-54fa876d1ad8",
+    "url": "https://www.last.fm/music/Deftones/_/Cherry+Waves",
+    "duration": "317000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "1407103",
+    "playcount": "24356730",
+    "artist": {
+      "name": "Deftones",
+      "mbid": "7527f6c2-d762-4b88-b5e2-9244f1e34c46",
+      "url": "https://www.last.fm/music/Deftones"
+    },
+    "album": {
+      "artist": "Deftones",
+      "title": "Saturday Night Wrist",
+      "url": "https://www.last.fm/music/Deftones/Saturday+Night+Wrist",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/7b487d0ff8e1498d8284c014a01c961c.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/7b487d0ff8e1498d8284c014a01c961c.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/7b487d0ff8e1498d8284c014a01c961c.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/7b487d0ff8e1498d8284c014a01c961c.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "alternative metal",
+          "url": "https://www.last.fm/tag/alternative+metal"
+        },
+        {
+          "name": "alternative rock",
+          "url": "https://www.last.fm/tag/alternative+rock"
+        },
+        {
+          "name": "alternative",
+          "url": "https://www.last.fm/tag/alternative"
+        },
+        {
+          "name": "metal",
+          "url": "https://www.last.fm/tag/metal"
+        },
+        {
+          "name": "shoegaze",
+          "url": "https://www.last.fm/tag/shoegaze"
+        }
+      ]
+    },
+    "wiki": {
+      "published": "25 Apr 2023, 22:43",
+      "summary": "Chino Moreno commented on its meaning in an interview with the metal magazine Kerrang in 2006: “This story is about being in the open ocean, you are next to someone who tells you – If you suddenly began to sink under these waves, I would dive after you. But would you do the same for me?” <a href=\"http://www.last.fm/music/Deftones/_/Cherry+Waves\">Read more on Last.fm</a>.",
+      "content": "Chino Moreno commented on its meaning in an interview with the metal magazine Kerrang in 2006: “This story is about being in the open ocean, you are next to someone who tells you – If you suddenly began to sink under these waves, I would dive after you. But would you do the same for me?” <a href=\"http://www.last.fm/music/Deftones/_/Cherry+Waves\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

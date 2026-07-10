@@ -1,0 +1,45 @@
+{
+  "track": {
+    "name": "I Deserve to Bleed",
+    "mbid": "e1026bc4-0607-407d-af37-ffaec72fa94f",
+    "url": "https://www.last.fm/music/Sushi+Soucy/_/I+Deserve+to+Bleed",
+    "duration": "105000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "219553",
+    "playcount": "2883700",
+    "artist": {
+      "name": "Sushi Soucy",
+      "mbid": "e972d5cd-e9ae-4179-98e6-f8e4a3217034",
+      "url": "https://www.last.fm/music/Sushi+Soucy"
+    },
+    "album": {
+      "artist": "Sushi Soucy",
+      "title": "I Deserve to Bleed - Single",
+      "url": "https://www.last.fm/music/Sushi+Soucy/I+Deserve+to+Bleed+-+Single",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/1b76e162c879674184c6ac74dca73773.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/1b76e162c879674184c6ac74dca73773.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/1b76e162c879674184c6ac74dca73773.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/1b76e162c879674184c6ac74dca73773.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

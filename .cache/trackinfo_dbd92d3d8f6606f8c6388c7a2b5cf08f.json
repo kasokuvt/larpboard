@@ -1,0 +1,41 @@
+{
+  "track": {
+    "name": "Who's Ready for Tomorrow",
+    "url": "https://www.last.fm/music/RAT+BOY/_/Who%27s+Ready+for+Tomorrow",
+    "duration": "116000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "254526",
+    "playcount": "3895611",
+    "artist": {
+      "name": "RAT BOY",
+      "url": "https://www.last.fm/music/RAT+BOY"
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "reggae",
+          "url": "https://www.last.fm/tag/reggae"
+        },
+        {
+          "name": "rap",
+          "url": "https://www.last.fm/tag/rap"
+        },
+        {
+          "name": "vocal",
+          "url": "https://www.last.fm/tag/vocal"
+        },
+        {
+          "name": "cool",
+          "url": "https://www.last.fm/tag/cool"
+        },
+        {
+          "name": "danceable",
+          "url": "https://www.last.fm/tag/danceable"
+        }
+      ]
+    }
+  }
+}

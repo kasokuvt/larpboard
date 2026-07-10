@@ -1,0 +1,44 @@
+{
+  "track": {
+    "name": "PLAYFUL MASSACRE",
+    "url": "https://www.last.fm/music/AZALI/_/PLAYFUL+MASSACRE",
+    "duration": "0",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "28874",
+    "playcount": "401660",
+    "artist": {
+      "name": "AZALI",
+      "mbid": "30cf2413-ae41-4ac0-bbbd-ba082ea6f502",
+      "url": "https://www.last.fm/music/AZALI"
+    },
+    "album": {
+      "artist": "AZALI",
+      "title": "PLAYFUL MASSACRE",
+      "url": "https://www.last.fm/music/AZALI/PLAYFUL+MASSACRE",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/338d19a9c808c44b7c1bc4005a88fcdd.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/338d19a9c808c44b7c1bc4005a88fcdd.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/338d19a9c808c44b7c1bc4005a88fcdd.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/338d19a9c808c44b7c1bc4005a88fcdd.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

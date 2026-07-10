@@ -1,0 +1,71 @@
+{
+  "track": {
+    "name": "Famous Last Words",
+    "mbid": "028e903f-1828-4226-8d7d-97bc57fd2ee6",
+    "url": "https://www.last.fm/music/My+Chemical+Romance/_/Famous+Last+Words",
+    "duration": "299000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "1410429",
+    "playcount": "18062737",
+    "artist": {
+      "name": "My Chemical Romance",
+      "mbid": "c07f0676-9143-4217-8a9f-4c26bd636f13",
+      "url": "https://www.last.fm/music/My+Chemical+Romance"
+    },
+    "album": {
+      "artist": "My Chemical Romance",
+      "title": "The Black Parade",
+      "url": "https://www.last.fm/music/My+Chemical+Romance/The+Black+Parade",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/7675defb2787ce67cd030081eb8ff77c.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/7675defb2787ce67cd030081eb8ff77c.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/7675defb2787ce67cd030081eb8ff77c.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/7675defb2787ce67cd030081eb8ff77c.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "rock",
+          "url": "https://www.last.fm/tag/rock"
+        },
+        {
+          "name": "alternative rock",
+          "url": "https://www.last.fm/tag/alternative+rock"
+        },
+        {
+          "name": "alternative",
+          "url": "https://www.last.fm/tag/alternative"
+        },
+        {
+          "name": "punk rock",
+          "url": "https://www.last.fm/tag/punk+rock"
+        },
+        {
+          "name": "my chemical romance",
+          "url": "https://www.last.fm/tag/my+chemical+romance"
+        }
+      ]
+    },
+    "wiki": {
+      "published": "29 Jun 2020, 14:27",
+      "summary": "Famous Last Words is a song by American rock band My Chemical Romance. It was released as the band's second single on January 22, 2007 from their third studio album, The Black Parade. It is also the band's ninth overall single, and the final track on The Black Parade (if the hidden track Blood is not counted). The music video premiered on December 12, 2006 on MTV2 and on December 13, 2006 on the Much Music program, and on MuchOnDemand in Canada.\n <a href=\"http://www.last.fm/music/My+Chemical+Romance/_/Famous+Last+Words\">Read more on Last.fm</a>.",
+      "content": "Famous Last Words is a song by American rock band My Chemical Romance. It was released as the band's second single on January 22, 2007 from their third studio album, The Black Parade. It is also the band's ninth overall single, and the final track on The Black Parade (if the hidden track Blood is not counted). The music video premiered on December 12, 2006 on MTV2 and on December 13, 2006 on the Much Music program, and on MuchOnDemand in Canada.\n\nIn the United Kingdom and other territories, the single was released as a two-part square shaped vinyl picture disc. Part one came in a gatefold stickered clear sleeve, with a space to 'slot' part two into. <a href=\"http://www.last.fm/music/My+Chemical+Romance/_/Famous+Last+Words\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

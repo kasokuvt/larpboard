@@ -1,0 +1,61 @@
+{
+  "track": {
+    "name": "Sweet Boy",
+    "url": "https://www.last.fm/music/Malcolm+Todd/_/Sweet+Boy",
+    "duration": "180000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "829285",
+    "playcount": "11852928",
+    "artist": {
+      "name": "Malcolm Todd",
+      "mbid": "6c2a79b8-2b5c-4c2d-b495-6a446811bf9d",
+      "url": "https://www.last.fm/music/Malcolm+Todd"
+    },
+    "album": {
+      "artist": "Malcolm Todd",
+      "title": "Sweet Boy - Single",
+      "url": "https://www.last.fm/music/Malcolm+Todd/Sweet+Boy+-+Single",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/b4286b29a10e258a6a110fe1c4a32fd7.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/b4286b29a10e258a6a110fe1c4a32fd7.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/b4286b29a10e258a6a110fe1c4a32fd7.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/b4286b29a10e258a6a110fe1c4a32fd7.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "alternative",
+          "url": "https://www.last.fm/tag/alternative"
+        },
+        {
+          "name": "pop",
+          "url": "https://www.last.fm/tag/pop"
+        },
+        {
+          "name": "sweet",
+          "url": "https://www.last.fm/tag/sweet"
+        },
+        {
+          "name": "indie rock",
+          "url": "https://www.last.fm/tag/indie+rock"
+        }
+      ]
+    }
+  }
+}

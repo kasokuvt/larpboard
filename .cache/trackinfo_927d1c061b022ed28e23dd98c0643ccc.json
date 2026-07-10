@@ -1,0 +1,71 @@
+{
+  "track": {
+    "name": "In the End",
+    "mbid": "000125d9-cf0d-3354-926b-704befae9577",
+    "url": "https://www.last.fm/music/Linkin+Park/_/In+the+End",
+    "duration": "216000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "3347933",
+    "playcount": "40882548",
+    "artist": {
+      "name": "Linkin Park",
+      "mbid": "f59c5520-5f46-4d2c-b2c4-822eabf53419",
+      "url": "https://www.last.fm/music/Linkin+Park"
+    },
+    "album": {
+      "artist": "Linkin Park",
+      "title": "Hybrid Theory (Bonus Track Version)",
+      "url": "https://www.last.fm/music/Linkin+Park/Hybrid+Theory+(Bonus+Track+Version)",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/53a7bd85bc99272900f620792bf43452.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/53a7bd85bc99272900f620792bf43452.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/53a7bd85bc99272900f620792bf43452.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/53a7bd85bc99272900f620792bf43452.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "rock",
+          "url": "https://www.last.fm/tag/rock"
+        },
+        {
+          "name": "Nu Metal",
+          "url": "https://www.last.fm/tag/Nu+Metal"
+        },
+        {
+          "name": "alternative rock",
+          "url": "https://www.last.fm/tag/alternative+rock"
+        },
+        {
+          "name": "Linkin Park",
+          "url": "https://www.last.fm/tag/Linkin+Park"
+        },
+        {
+          "name": "alternative",
+          "url": "https://www.last.fm/tag/alternative"
+        }
+      ]
+    },
+    "wiki": {
+      "published": "03 Sep 2008, 16:05",
+      "summary": "\"In the End\" is a song written by Linkin Park from their debut album Hybrid Theory. Its lyrics to the song is mainly based on one person's failure. It is considered symbolic of an ending relationship. However it can also be symbolic of a long-lasting friendship's trust between one another that has gone away. It was originally a poem but was deemed good enough to be a song, it is also considered Linkin Park's signature song. \"In The End\" is also one of Linkin Park's most popular songs and it is always performed in every one of their concerts. <a href=\"http://www.last.fm/music/Linkin+Park/_/In+the+End\">Read more on Last.fm</a>.",
+      "content": "\"In the End\" is a song written by Linkin Park from their debut album Hybrid Theory. Its lyrics to the song is mainly based on one person's failure. It is considered symbolic of an ending relationship. However it can also be symbolic of a long-lasting friendship's trust between one another that has gone away. It was originally a poem but was deemed good enough to be a song, it is also considered Linkin Park's signature song. \"In The End\" is also one of Linkin Park's most popular songs and it is always performed in every one of their concerts.\n\nThe song was released as the album's fourth and last single in late 2001 and entered the top ten on the majority of the charts it appeared on. <a href=\"http://www.last.fm/music/Linkin+Park/_/In+the+End\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

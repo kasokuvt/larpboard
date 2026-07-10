@@ -1,0 +1,71 @@
+{
+  "track": {
+    "name": "fever",
+    "mbid": "048285d2-0d44-4e55-8fca-675e492fe63f",
+    "url": "https://www.last.fm/music/Buckshot/_/fever",
+    "duration": "144000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "375879",
+    "playcount": "7829452",
+    "artist": {
+      "name": "Buckshot",
+      "mbid": "7e1216c3-4ccc-48c7-9e18-19f089dbf13b",
+      "url": "https://www.last.fm/music/Buckshot"
+    },
+    "album": {
+      "artist": "Buckshot",
+      "title": "Fever",
+      "url": "https://www.last.fm/music/Buckshot/Fever",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/32f469576b23d6ad0018afecd7070b22.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/32f469576b23d6ad0018afecd7070b22.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/32f469576b23d6ad0018afecd7070b22.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/32f469576b23d6ad0018afecd7070b22.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "electropop",
+          "url": "https://www.last.fm/tag/electropop"
+        },
+        {
+          "name": "UK hip hop",
+          "url": "https://www.last.fm/tag/UK+hip+hop"
+        },
+        {
+          "name": "UK rap",
+          "url": "https://www.last.fm/tag/UK+rap"
+        },
+        {
+          "name": "pop rap",
+          "url": "https://www.last.fm/tag/pop+rap"
+        },
+        {
+          "name": "electro hop",
+          "url": "https://www.last.fm/tag/electro+hop"
+        }
+      ]
+    },
+    "wiki": {
+      "published": "23 Aug 2025, 17:20",
+      "summary": "PRODUCED - OSCAR18 + GRIMOIRE\nMIXING - GABRIEL SCHUMAN\nrecorded November 6th 2024 <a href=\"http://www.last.fm/music/Buckshot/_/fever\">Read more on Last.fm</a>.",
+      "content": "PRODUCED - OSCAR18 + GRIMOIRE\nMIXING - GABRIEL SCHUMAN\nrecorded November 6th 2024 <a href=\"http://www.last.fm/music/Buckshot/_/fever\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

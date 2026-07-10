@@ -1,0 +1,44 @@
+{
+  "track": {
+    "name": "MAMA’S FAVORITE (feat. Nine Vicious)",
+    "mbid": "3ed3116b-7c4a-4189-98a5-ea9d2cd25296",
+    "url": "https://www.last.fm/music/Kanye+West/_/MAMA%E2%80%99S+FAVORITE+(feat.+Nine+Vicious)",
+    "duration": "154000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "59672",
+    "playcount": "205504",
+    "artist": {
+      "name": "Kanye West",
+      "url": "https://www.last.fm/music/Kanye+West"
+    },
+    "album": {
+      "artist": "Kanye West",
+      "title": "BULLY - DELUXE",
+      "url": "https://www.last.fm/music/Kanye+West/BULLY+-+DELUXE",
+      "image": [
+        {
+          "#text": "",
+          "size": "small"
+        },
+        {
+          "#text": "",
+          "size": "medium"
+        },
+        {
+          "#text": "",
+          "size": "large"
+        },
+        {
+          "#text": "",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "track": {
+    "name": "My Confession",
+    "mbid": "04776ef7-d004-483e-9512-2dc7ec83421c",
+    "url": "https://www.last.fm/music/Dan+Salvato/_/My+Confession",
+    "duration": "187000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "56901",
+    "playcount": "772499",
+    "artist": {
+      "name": "Dan Salvato",
+      "mbid": "ab9bdd13-4550-4976-ab1d-e7fd39102f8d",
+      "url": "https://www.last.fm/music/Dan+Salvato"
+    },
+    "album": {
+      "artist": "Dan Salvato",
+      "title": "Doki Doki Literature Club! (Original Soundtrack)",
+      "url": "https://www.last.fm/music/Dan+Salvato/Doki+Doki+Literature+Club%21+(Original+Soundtrack)",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/569788d5062b8e51e6f5e83c9f7e606f.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/569788d5062b8e51e6f5e83c9f7e606f.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/569788d5062b8e51e6f5e83c9f7e606f.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/569788d5062b8e51e6f5e83c9f7e606f.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

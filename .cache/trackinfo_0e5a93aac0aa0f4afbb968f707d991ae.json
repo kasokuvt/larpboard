@@ -1,0 +1,44 @@
+{
+  "track": {
+    "name": "MISSION CONTROL",
+    "mbid": "2e97aa5b-ebe2-4882-aa8d-35f96634ccfe",
+    "url": "https://www.last.fm/music/Kanye+West/_/MISSION+CONTROL",
+    "duration": "112000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "37398",
+    "playcount": "102356",
+    "artist": {
+      "name": "Kanye West",
+      "url": "https://www.last.fm/music/Kanye+West"
+    },
+    "album": {
+      "artist": "YE",
+      "title": "END OF ME",
+      "url": "https://www.last.fm/music/YE/END+OF+ME",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/5ffc0dc0a596c18b0960cb6b49b093f3.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/5ffc0dc0a596c18b0960cb6b49b093f3.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/5ffc0dc0a596c18b0960cb6b49b093f3.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/5ffc0dc0a596c18b0960cb6b49b093f3.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

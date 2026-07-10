@@ -1,0 +1,45 @@
+{
+  "track": {
+    "name": "ghost (with lil uzi vert)",
+    "mbid": "cd804269-43df-4137-afa4-3bd44360b79c",
+    "url": "https://www.last.fm/music/Ken+Carson/_/ghost+(with+lil+uzi+vert)",
+    "duration": "233000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "68570",
+    "playcount": "233627",
+    "artist": {
+      "name": "Ken Carson",
+      "mbid": "84d4283e-903a-42c4-a0d2-d3949bfa1f3f",
+      "url": "https://www.last.fm/music/Ken+Carson"
+    },
+    "album": {
+      "artist": "Ken Carson",
+      "title": "xperiment [Clean]",
+      "url": "https://www.last.fm/music/Ken+Carson/xperiment+%5BClean%5D",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/12c23d1e8eadf169022442399bf8a8a8.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/12c23d1e8eadf169022442399bf8a8a8.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/12c23d1e8eadf169022442399bf8a8a8.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/12c23d1e8eadf169022442399bf8a8a8.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

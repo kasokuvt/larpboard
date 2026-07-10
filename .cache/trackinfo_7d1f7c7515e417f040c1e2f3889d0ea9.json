@@ -1,0 +1,66 @@
+{
+  "track": {
+    "name": "Freaks",
+    "mbid": "53b25241-3767-426f-9fd9-c2e51aa7fa66",
+    "url": "https://www.last.fm/music/Surf+Curse/_/Freaks",
+    "duration": "147000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "1714942",
+    "playcount": "23298453",
+    "artist": {
+      "name": "Surf Curse",
+      "mbid": "89ea85c2-c90a-46ea-93db-9bed95d5c8f8",
+      "url": "https://www.last.fm/music/Surf+Curse"
+    },
+    "album": {
+      "artist": "Surf Curse",
+      "title": "BUDS",
+      "url": "https://www.last.fm/music/Surf+Curse/BUDS",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/22b0e9b250ae50b46645ea292786b647.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/22b0e9b250ae50b46645ea292786b647.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/22b0e9b250ae50b46645ea292786b647.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/22b0e9b250ae50b46645ea292786b647.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "surf rock",
+          "url": "https://www.last.fm/tag/surf+rock"
+        },
+        {
+          "name": "indie",
+          "url": "https://www.last.fm/tag/indie"
+        },
+        {
+          "name": "loud",
+          "url": "https://www.last.fm/tag/loud"
+        },
+        {
+          "name": "upbeat",
+          "url": "https://www.last.fm/tag/upbeat"
+        },
+        {
+          "name": "Lo-Fi",
+          "url": "https://www.last.fm/tag/Lo-Fi"
+        }
+      ]
+    }
+  }
+}
