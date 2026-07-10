@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en" data-theme="dark">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -12,6 +12,7 @@
 </head>
 <body>
   <a class="skip-link" href="#main-content">Skip to content</a>
+
   <div class="page-shell">
     <header class="site-header">
       <div class="brand-block">
@@ -24,15 +25,20 @@
             <path d="M74 4h12c15 0 26 8 26 20s-11 20-26 20H74z" fill="currentColor"></path>
           </svg>
         </div>
-        <div>
+
+        <div class="brand-copy">
           <p class="eyebrow">Weekly community chart</p>
           <h1>Larpboard Hot 100</h1>
-          <p class="tagline">Streaming data comes from Larptube Discord Members! </p>
+          <p class="tagline">A weekly fan-run chart built from Last.fm listening activity.</p>
         </div>
       </div>
+
       <div class="header-actions">
-        <label class="week-picker-label" for="week-picker">Week</label>
-        <select id="week-picker" class="week-picker" aria-label="Select chart week"></select>
+        <div class="picker-group">
+          <label class="week-picker-label" for="week-picker">Week</label>
+          <select id="week-picker" class="week-picker" aria-label="Select chart week"></select>
+        </div>
+
         <button type="button" class="theme-toggle" data-theme-toggle aria-label="Switch color mode">
           <span class="theme-toggle-inner">◐</span>
         </button>
@@ -41,10 +47,12 @@
 
     <main id="main-content" class="main-layout">
       <section class="hero-panel">
-        <div>
+        <div class="hero-copy">
           <p class="hero-kicker">Week of</p>
           <p id="week-of" class="hero-week">Loading…</p>
+          <p class="hero-summary">A live community-powered top 100 built from weekly listening trends.</p>
         </div>
+
         <div class="hero-stats" aria-label="Current chart snapshot">
           <article class="hero-stat-card">
             <span class="hero-stat-label">New songs</span>
@@ -69,6 +77,7 @@
           </div>
           <button id="back-to-chart" class="ghost-button hidden" type="button">← Back to chart</button>
         </div>
+
         <div id="view-root"></div>
       </section>
     </main>
@@ -79,20 +88,29 @@
       <div class="rank-block">
         <span class="rank-number"></span>
       </div>
+
       <div class="cover-wrap">
         <img class="cover-image" alt="" loading="lazy" decoding="async" width="112" height="112">
       </div>
+
       <div class="song-main">
-        <div class="movement-line"></div>
+        <div class="song-topline">
+          <span class="movement-badge"></span>
+          <span class="song-points mobile-points"></span>
+        </div>
+
         <button type="button" class="song-title-link"></button>
         <button type="button" class="artist-link"></button>
       </div>
-      <div class="song-points"></div>
+
+      <div class="song-points desktop-points"></div>
+
       <dl class="meta-grid">
         <div><dt>LW</dt><dd class="meta-lw"></dd></div>
         <div><dt>Peak</dt><dd class="meta-peak"></dd></div>
         <div><dt>Weeks</dt><dd class="meta-weeks"></dd></div>
       </dl>
+
       <button type="button" class="expand-button" aria-label="Open song details">+</button>
       <div class="detail-panel hidden"></div>
     </article>
