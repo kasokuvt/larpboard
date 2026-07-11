@@ -106,8 +106,8 @@ function movementBadge(movement) {
   if (movement.type === 'new') return '<span class="movement-badge move-new">NEW</span>';
   if (movement.type === 're') return '<span class="movement-badge move-re">RE</span>';
   if (movement.type === 'stay') return '<span class="movement-badge move-stay">→</span>';
-  if (movement.type === 'up') return `<span class="movement-badge move-up"><span class="movement-arrow-up"></span>${movement.value}</span>`;
-  if (movement.type === 'down') return `<span class="movement-badge move-down"><span class="movement-arrow-down"></span>${movement.value}</span>`;
+  if (movement.type === 'up') return `<span class="movement-badge move-up">↑ ${movement.value}</span>`;
+  if (movement.type === 'down') return `<span class="movement-badge move-down">↓ ${movement.value}</span>`;
   return '<span class="movement-badge move-stay">—</span>';
 }
 
