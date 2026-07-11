@@ -145,7 +145,7 @@ function updateHero(chart) {
   }
 
   if (el.statNoChange) {
-    const count = entries.filter((entry) => entry.movement?.type === 'stay').length; || 0), 0);
+    const count = entries.filter((entry) => entry.movement?.type === 'stay').length;
     el.statNoChange.textContent = count ? String(count) : '—';
   }
 }
