@@ -166,7 +166,10 @@ function renderSpotlight(chart) {
     el.spotlightCover.onerror = () => { el.spotlightCover.src = './covers/_placeholder.png'; };
   }
 
-  if (el.spotlightMovement) el.spotlightMovement.outerHTML = movementBadge(top.movement).replace('movement-badge', 'movement-badge').replace('<span', '<span id="spotlight-movement"');
+  if (el.spotlightMovement) {
+    el.spotlightMovement.className = 'movement-badge';
+    el.spotlightMovement.innerHTML = movementBadge(top.movement).replace(/^<span[^>]*>/, '').replace(/<\/span>$/, '');
+  }
   if (el.spotlightTitle) {
     el.spotlightTitle.textContent = top.title;
     el.spotlightTitle.onclick = () => openSongModal(top.artist, getSongKey(top.title, top.artist));
