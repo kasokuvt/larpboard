@@ -40,10 +40,12 @@
             <button id="clear-search" class="search-clear" type="button" aria-label="Clear search">&times;</button>
           </div>
         </div>
+
         <div class="picker-group">
           <label class="week-picker-label" for="week-picker">Week</label>
           <select id="week-picker" class="week-picker" aria-label="Select chart week"></select>
         </div>
+
         <button type="button" class="theme-toggle" data-theme-toggle aria-label="Switch color mode">
           <span class="theme-toggle-inner">◐</span>
         </button>
@@ -57,6 +59,7 @@
             <p class="section-kicker">Archive</p>
             <h2 id="archive-heading">Week navigation</h2>
           </div>
+
           <div class="archive-summary">
             <div class="archive-summary-item">
               <span class="archive-summary-label">Loaded week</span>
@@ -67,6 +70,7 @@
               <strong id="archive-week-count">—</strong>
             </div>
           </div>
+
           <nav id="archive-nav" class="archive-nav" aria-label="Chart week archive"></nav>
         </div>
       </aside>
@@ -78,7 +82,7 @@
             <p id="week-of" class="hero-week">Loading…</p>
             <h2 id="spotlight-heading" class="spotlight-title">No. 1 spotlight</h2>
             <button type="button" id="spotlight-song-link" class="spotlight-song-link">Loading…</button>
-            <button type="button" id="spotlight-artist-link" class="spotlight-artist-link">—</button>
+            <button type="button" id="spotlight-artist-link" class="spotlight-artist-link"></button>
             <p id="spotlight-summary" class="spotlight-summary">Loading current chart leader…</p>
             <div class="spotlight-meta">
               <span id="spotlight-movement" class="movement-badge movement-badge-lg" data-size="lg">—</span>
@@ -141,6 +145,7 @@
                 <button type="button" class="filter-pill" data-movement-filter="re">Re-entry</button>
               </div>
             </div>
+
             <div class="filter-group rank-filter-group">
               <label class="filter-label" for="rank-min">Rank range</label>
               <div class="rank-range-wrap">
@@ -169,14 +174,17 @@
         <div class="song-modal-cover-wrap">
           <img id="song-modal-cover" class="song-modal-cover" alt="" loading="lazy" decoding="async" width="240" height="240">
         </div>
+
         <div class="song-modal-copy">
           <p class="section-kicker">Song detail modal</p>
           <h2 id="song-modal-title">Loading…</h2>
-          <button id="song-modal-artist" class="song-modal-artist" type="button">—</button>
+          <button id="song-modal-artist" class="song-modal-artist" type="button"></button>
+
           <div class="song-modal-badges">
             <span id="song-modal-rank" class="song-modal-rank">—</span>
             <span id="song-modal-movement" class="movement-badge movement-badge-lg" data-size="lg">—</span>
           </div>
+
           <div class="song-modal-stats">
             <article><span>Points</span><strong id="song-modal-points">—</strong></article>
             <article><span>Listeners</span><strong id="song-modal-listeners">—</strong></article>
@@ -184,11 +192,13 @@
             <article><span>Peak</span><strong id="song-modal-peak">—</strong></article>
             <article><span>Weeks</span><strong id="song-modal-weeks">—</strong></article>
           </div>
+
           <div class="song-modal-actions">
             <button id="song-modal-open-song" class="modal-action-button primary-action" type="button">Open song page</button>
             <button id="song-modal-open-artist" class="modal-action-button" type="button">Open artist page</button>
           </div>
-          <p id="song-modal-summary" class="song-modal-summary">—</p>
+
+          <p id="song-modal-summary" class="song-modal-summary"></p>
         </div>
       </div>
     </div>

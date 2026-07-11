@@ -32,7 +32,6 @@ const el = {
   statCarryovers: document.getElementById('stat-carryovers'),
   statBiggestRise: document.getElementById('stat-biggest-rise'),
   statTopPoints: document.getElementById('stat-top-points'),
-  spotlightTitle: document.getElementById('spotlight-heading'),
   spotlightSongLink: document.getElementById('spotlight-song-link'),
   spotlightArtistLink: document.getElementById('spotlight-artist-link'),
   spotlightSummary: document.getElementById('spotlight-summary'),
@@ -103,6 +102,23 @@ function escapeHtml(value) {
     .replaceAll("'", '&#39;');
 }
 
+function getSongKey(title, artist) {
+  return `${String(artist || '').trim()} - ${String(title || '').trim()}`.toLowerCase();
+}
+
+function imagePath(relativePath) {
+  return `./${relativePath || 'covers/_placeholder.png'}`;
+}
+
+function setImageWithFallback(img, relativePath, altText) {
+  if (!img) return;
+  img.src = imagePath(relativePath);
+  img.alt = altText || '';
+  img.addEventListener('error', () => {
+    img.src = './covers/_placeholder.png';
+  }, { once: true });
+}
+
 function movementText(movement) {
   if (!movement) return '—';
   if (movement.type === 'new') return 'New this week';
@@ -113,113 +129,101 @@ function movementText(movement) {
   return '—';
 }
 
-function movementBadge(movement) {
+function movementBadgeText(movement) {
   if (!movement) return '—';
   if (movement.type === 'new') return 'NEW';
   if (movement.type === 're') return 'RE-ENTRY';
   if (movement.type === 'stay') return '→ STAY';
-  if (movement.type === 'up') return `↑ ${movement.value}`;
-  if (movement.type === 'down') return `↓ ${movement.value}`;
+  if (movement.type === 'up') return `▲ UP ${movement.value}`;
+  if (movement.type === 'down') return `▼ DOWN ${movement.value}`;
   return '—';
 }
 
-function movementClass(movement) {
+function movementBadgeClass(movement) {
   const type = movement?.type || 'stay';
-  return `movement-badge-${type === 're' ? 're' : type}`;
+  return `movement-badge movement-badge-${type}`;
 }
 
-function getSongKey(title, artist) {
-  return `${String(artist || '').trim()} - ${String(title || '').trim()}`.toLowerCase();
+function applyMovementBadge(node, movement, large = false) {
+  if (!node) return;
+  node.className = movementBadgeClass(movement) + (large ? ' movement-badge-lg' : '');
+  node.textContent = movementBadgeText(movement);
 }
 
-function formatPoints(value) {
-  return `${Number(value || 0).toFixed(1)} pts`;
-}
+function updateArchiveRail() {
+  if (el.archiveCurrentWeek) {
+    el.archiveCurrentWeek.textContent = state.currentWeek ? formatWeekLabel(state.currentWeek) : '—';
+  }
 
-function applyMovementBadge(element, movement) {
-  if (!element) return;
-  const wantsLarge = element.dataset.size === 'lg';
-  element.className = `movement-badge ${movementClass(movement)}${wantsLarge ? ' movement-badge-lg' : ''}`;
-  element.textContent = movementBadge(movement);
-  element.setAttribute('title', movementText(movement));
-}
+  if (el.archiveWeekCount) {
+    el.archiveWeekCount.textContent = String((state.manifest?.weeks || []).length || 0);
+  }
 
-function parseRankInput(value, fallback) {
-  const n = Number.parseInt(value, 10);
-  return Number.isFinite(n) ? n : fallback;
-}
+  if (!el.archiveNav) return;
 
-function clampRankRange() {
-  const maxRank = Math.max(...(state.currentChart?.entries || []).map((entry) => Number(entry.rank || 0)), 100);
-  let min = parseRankInput(el.rankMin?.value, 1);
-  let max = parseRankInput(el.rankMax?.value, maxRank);
-  min = Math.max(1, Math.min(min, maxRank));
-  max = Math.max(1, Math.min(max, maxRank));
-  if (min > max) [min, max] = [max, min];
-  state.filters.rankMin = min;
-  state.filters.rankMax = max;
-  if (el.rankMin) el.rankMin.value = String(min);
-  if (el.rankMax) el.rankMax.value = String(max);
-}
+  el.archiveNav.innerHTML = '';
+  const weeks = state.manifest?.weeks || [];
+  const fragment = document.createDocumentFragment();
 
-function filterEntries(entries) {
-  const query = state.filters.query.trim().toLowerCase();
-  const movement = state.filters.movement;
-  const min = state.filters.rankMin;
-  const max = state.filters.rankMax;
-  return entries.filter((entry) => {
-    const entryMovement = entry.movement?.type || 'stay';
-    const matchesMovement = movement === 'all' ? true : entryMovement === movement;
-    const matchesRank = Number(entry.rank) >= min && Number(entry.rank) <= max;
-    const haystack = `${entry.title || ''} ${entry.artist || ''}`.toLowerCase();
-    const matchesQuery = !query || haystack.includes(query);
-    return matchesMovement && matchesRank && matchesQuery;
+  weeks.forEach((week) => {
+    const button = document.createElement('button');
+    button.type = 'button';
+    button.className = 'archive-link' + (week === state.currentWeek ? ' is-active' : '');
+    button.innerHTML = `
+      <span class="archive-link-week">${escapeHtml(formatWeekLabel(week))}</span>
+      <span class="archive-link-meta">${week === state.currentWeek ? 'Loaded week' : 'Open week'}</span>
+    `;
+    button.addEventListener('click', async () => {
+      await loadWeek(week);
+    });
+    fragment.appendChild(button);
   });
+
+  el.archiveNav.appendChild(fragment);
 }
 
-function buildSpotlightSummary(entry) {
-  if (!entry) return 'No chart leader available for this week.';
-  return `${entry.title} leads the chart for ${formatWeekLabel(state.currentWeek || entry.week || '')}. ${entry.artist} has ${formatPoints(entry.points)} and ${entry.listeners ?? '—'} listeners. ${movementText(entry.movement)}; peak ${entry.peak ?? '—'} across ${entry.weeks ?? '—'} weeks on chart.`;
-}
+function updateSpotlight(chart) {
+  const top = chart?.entries?.find((entry) => Number(entry.rank) === 1) || chart?.entries?.[0];
+  if (!top) return;
 
-function updateHero(chart) {
   if (el.weekOf) el.weekOf.textContent = formatWeekLabel(chart.week);
-  if (el.archiveCurrentWeek) el.archiveCurrentWeek.textContent = formatWeekLabel(chart.week);
-  if (el.archiveWeekCount) el.archiveWeekCount.textContent = String((state.manifest?.weeks || []).length || 0);
+  if (el.spotlightSongLink) el.spotlightSongLink.textContent = top.title || 'Untitled';
+  if (el.spotlightArtistLink) el.spotlightArtistLink.textContent = top.artist || 'Unknown artist';
+  if (el.spotlightSummary) {
+    el.spotlightSummary.textContent = `${top.title} by ${top.artist} leads the chart this week with ${Number(top.points || 0).toFixed(1)} points.`;
+  }
+  if (el.spotlightPoints) {
+    el.spotlightPoints.textContent = `${Number(top.points || 0).toFixed(1)} pts`;
+  }
 
-  const entries = chart.entries || [];
-  const topEntry = entries[0];
-  const biggestRise = [...entries]
+  applyMovementBadge(el.spotlightMovement, top.movement, true);
+  setImageWithFallback(el.spotlightCover, top.cover, `${top.title} cover art`);
+
+  el.spotlightSongLink?.replaceWith(el.spotlightSongLink.cloneNode(true));
+  el.spotlightArtistLink?.replaceWith(el.spotlightArtistLink.cloneNode(true));
+
+  el.spotlightSongLink = document.getElementById('spotlight-song-link');
+  el.spotlightArtistLink = document.getElementById('spotlight-artist-link');
+
+  el.spotlightSongLink?.addEventListener('click', () => renderSongView(top.artist, getSongKey(top.title, top.artist)));
+  el.spotlightArtistLink?.addEventListener('click', () => renderArtistView(top.artist));
+}
+
+function updateStats(chart) {
+  const entries = chart?.entries || [];
+  const newSongs = entries.filter((entry) => entry.movement?.type === 'new').length;
+  const reEntries = entries.filter((entry) => entry.movement?.type === 're').length;
+  const carryovers = entries.filter((entry) => !['new', 're'].includes(entry.movement?.type)).length;
+  const biggestRiseEntry = [...entries]
     .filter((entry) => entry.movement?.type === 'up')
     .sort((a, b) => (b.movement?.value || 0) - (a.movement?.value || 0))[0];
+  const topPoints = [...entries].sort((a, b) => Number(b.points || 0) - Number(a.points || 0))[0];
 
-  if (el.statNewSongs) el.statNewSongs.textContent = String(entries.filter((entry) => entry.movement?.type === 'new').length || 0);
-  if (el.statReEntries) el.statReEntries.textContent = String(entries.filter((entry) => entry.movement?.type === 're').length || 0);
-  if (el.statCarryovers) el.statCarryovers.textContent = String(entries.filter((entry) => !['new', 're'].includes(entry.movement?.type)).length || 0);
-  if (el.statBiggestRise) el.statBiggestRise.textContent = biggestRise ? `${biggestRise.title} ↑${biggestRise.movement.value}` : '—';
-  if (el.statTopPoints) el.statTopPoints.textContent = topEntry ? formatPoints(topEntry.points) : '—';
-
-  if (topEntry) {
-    if (el.spotlightTitle) el.spotlightTitle.textContent = 'No. 1 spotlight';
-    if (el.spotlightSongLink) {
-      el.spotlightSongLink.textContent = topEntry.title;
-      el.spotlightSongLink.onclick = () => renderSongView(topEntry.artist, getSongKey(topEntry.title, topEntry.artist));
-    }
-    if (el.spotlightArtistLink) {
-      el.spotlightArtistLink.textContent = topEntry.artist;
-      el.spotlightArtistLink.onclick = () => renderArtistView(topEntry.artist);
-    }
-    if (el.spotlightSummary) el.spotlightSummary.textContent = buildSpotlightSummary(topEntry);
-    if (el.spotlightPoints) el.spotlightPoints.textContent = formatPoints(topEntry.points);
-    if (el.spotlightCover) {
-      el.spotlightCover.src = `./${topEntry.cover}`;
-      el.spotlightCover.alt = `${topEntry.title} cover art`;
-      el.spotlightCover.onerror = () => {
-        el.spotlightCover.src = './covers/_placeholder.png';
-      };
-    }
-    if (el.spotlightMovement) applyMovementBadge(el.spotlightMovement, topEntry.movement);
-  }
+  if (el.statNewSongs) el.statNewSongs.textContent = newSongs ? String(newSongs) : '—';
+  if (el.statReEntries) el.statReEntries.textContent = reEntries ? String(reEntries) : '—';
+  if (el.statCarryovers) el.statCarryovers.textContent = carryovers ? String(carryovers) : '—';
+  if (el.statBiggestRise) el.statBiggestRise.textContent = biggestRiseEntry ? `+${biggestRiseEntry.movement.value}` : '—';
+  if (el.statTopPoints) el.statTopPoints.textContent = topPoints ? `${Number(topPoints.points || 0).toFixed(1)}` : '—';
 }
 
 function buildDetailPanel(entry) {
@@ -244,66 +248,101 @@ function buildDetailPanel(entry) {
       <ul>
         <li>Open the song page for archive history.</li>
         <li>Open the artist page to browse every charted song.</li>
-        <li>Use the song detail modal for quick stats.</li>
       </ul>
     </div>
   `;
 }
 
-function updateResultsSummary(filteredEntries) {
-  const total = state.currentChart?.entries?.length || 0;
-  const movementTextValue = state.filters.movement === 'all' ? 'all movement types' : `${state.filters.movement} movers`;
-  const queryText = state.filters.query ? ` matching “${state.filters.query}”` : '';
-  const rankText = ` in ranks ${state.filters.rankMin}-${state.filters.rankMax}`;
-  el.resultsSummary.textContent = `Showing ${filteredEntries.length} of ${total} entries for ${movementTextValue}${queryText}${rankText}.`;
+function getFilteredEntries(chart) {
+  const query = state.filters.query.trim().toLowerCase();
+  const movement = state.filters.movement;
+  const rankMin = Math.max(1, Number(state.filters.rankMin || 1));
+  const rankMax = Math.min(100, Number(state.filters.rankMax || 100));
+
+  return (chart?.entries || []).filter((entry) => {
+    const rank = Number(entry.rank || 0);
+    if (rank < rankMin || rank > rankMax) return false;
+    if (movement !== 'all' && entry.movement?.type !== movement) return false;
+    if (!query) return true;
+
+    const haystack = `${entry.title || ''} ${entry.artist || ''}`.toLowerCase();
+    return haystack.includes(query);
+  });
+}
+
+function updateResultsSummary(entries) {
+  if (!el.resultsSummary) return;
+  if (!entries.length) {
+    el.resultsSummary.textContent = 'No songs matched your current search and filters.';
+    return;
+  }
+
+  const rangeText = `${state.filters.rankMin}-${state.filters.rankMax}`;
+  const movementTextLabel = state.filters.movement === 'all' ? 'all movement types' : `${state.filters.movement} moves`;
+  const queryText = state.filters.query ? ` for "${state.filters.query}"` : '';
+  el.resultsSummary.textContent = `Showing ${entries.length} charted songs in ranks ${rangeText} across ${movementTextLabel}${queryText}.`;
 }
 
 function openSongModal(entry) {
-  if (!el.songModal || !entry) return;
-  el.songModalTitle.textContent = entry.title;
-  el.songModalArtist.textContent = entry.artist;
-  el.songModalArtist.onclick = () => renderArtistView(entry.artist);
-  el.songModalRank.textContent = `#${entry.rank}`;
-  el.songModalPoints.textContent = formatPoints(entry.points);
-  el.songModalListeners.textContent = String(entry.listeners ?? '—');
-  el.songModalLastWeek.textContent = String(entry.lastWeek ?? '—');
-  el.songModalPeak.textContent = String(entry.peak ?? '—');
-  el.songModalWeeks.textContent = String(entry.weeks ?? '—');
-  el.songModalSummary.textContent = buildSpotlightSummary(entry);
-  el.songModalCover.src = `./${entry.cover}`;
-  el.songModalCover.alt = `${entry.title} cover art`;
-  el.songModalCover.onerror = () => {
-    el.songModalCover.src = './covers/_placeholder.png';
-  };
-  el.songModalOpenSong.onclick = () => {
-    closeSongModal();
-    renderSongView(entry.artist, getSongKey(entry.title, entry.artist));
-  };
-  el.songModalOpenArtist.onclick = () => {
-    closeSongModal();
+  if (!el.songModal) return;
+
+  if (el.songModalTitle) el.songModalTitle.textContent = entry.title || 'Untitled';
+  if (el.songModalArtist) el.songModalArtist.textContent = entry.artist || 'Unknown artist';
+  if (el.songModalRank) el.songModalRank.textContent = `Rank #${entry.rank ?? '—'}`;
+  if (el.songModalPoints) el.songModalPoints.textContent = `${Number(entry.points || 0).toFixed(1)}`;
+  if (el.songModalListeners) el.songModalListeners.textContent = `${entry.listeners ?? '—'}`;
+  if (el.songModalLastWeek) el.songModalLastWeek.textContent = `${entry.lastWeek ?? '—'}`;
+  if (el.songModalPeak) el.songModalPeak.textContent = `${entry.peak ?? '—'}`;
+  if (el.songModalWeeks) el.songModalWeeks.textContent = `${entry.weeks ?? '—'}`;
+  if (el.songModalSummary) {
+    el.songModalSummary.textContent = `${entry.title} by ${entry.artist} is currently ranked #${entry.rank} with ${Number(entry.points || 0).toFixed(1)} points.`;
+  }
+
+  setImageWithFallback(el.songModalCover, entry.cover, `${entry.title} cover art`);
+  applyMovementBadge(el.songModalMovement, entry.movement, true);
+
+  el.songModalArtist?.replaceWith(el.songModalArtist.cloneNode(true));
+  el.songModalOpenSong?.replaceWith(el.songModalOpenSong.cloneNode(true));
+  el.songModalOpenArtist?.replaceWith(el.songModalOpenArtist.cloneNode(true));
+
+  el.songModalArtist = document.getElementById('song-modal-artist');
+  el.songModalOpenSong = document.getElementById('song-modal-open-song');
+  el.songModalOpenArtist = document.getElementById('song-modal-open-artist');
+
+  el.songModalArtist?.addEventListener('click', () => {
+    el.songModal.close();
     renderArtistView(entry.artist);
-  };
-  applyMovementBadge(el.songModalMovement, entry.movement);
+  });
+
+  el.songModalOpenSong?.addEventListener('click', () => {
+    el.songModal.close();
+    renderSongView(entry.artist, getSongKey(entry.title, entry.artist));
+  });
+
+  el.songModalOpenArtist?.addEventListener('click', () => {
+    el.songModal.close();
+    renderArtistView(entry.artist);
+  });
+
   if (typeof el.songModal.showModal === 'function') {
     el.songModal.showModal();
   }
 }
 
-function closeSongModal() {
-  if (el.songModal?.open) el.songModal.close();
-}
-
 function renderChart(chart) {
-  updateHero(chart);
+  updateArchiveRail();
+  updateSpotlight(chart);
+  updateStats(chart);
+
   el.viewRoot.innerHTML = '';
   el.backToChart.classList.add('hidden');
-  clampRankRange();
-  const filteredEntries = filterEntries(chart.entries || []);
+
+  const filteredEntries = getFilteredEntries(chart);
   state.filteredEntries = filteredEntries;
   updateResultsSummary(filteredEntries);
 
   if (!filteredEntries.length) {
-    el.viewRoot.innerHTML = '<div class="empty-state">No songs match the current search and filter settings.</div>';
+    el.viewRoot.innerHTML = '<div class="empty-state">No songs matched the current search and filter settings.</div>';
     return;
   }
 
@@ -317,16 +356,10 @@ function renderChart(chart) {
     if (rankEl) rankEl.textContent = entry.rank;
 
     const img = node.querySelector('.cover-image');
-    if (img) {
-      img.src = `./${entry.cover}`;
-      img.alt = `${entry.title} cover art`;
-      img.addEventListener('error', () => {
-        img.src = './covers/_placeholder.png';
-      }, { once: true });
-    }
+    setImageWithFallback(img, entry.cover, `${entry.title} cover art`);
 
     const moveEl = node.querySelector('.movement-badge');
-    if (moveEl) applyMovementBadge(moveEl, entry.movement);
+    applyMovementBadge(moveEl, entry.movement, false);
 
     const titleBtn = node.querySelector('.song-title-link');
     if (titleBtn) {
@@ -340,7 +373,7 @@ function renderChart(chart) {
       artistBtn.addEventListener('click', () => renderArtistView(entry.artist));
     }
 
-    const pointText = formatPoints(entry.points);
+    const pointText = `${Number(entry.points || 0).toFixed(1)} pts`;
 
     const desktopPtsEl = node.querySelector('.desktop-points');
     if (desktopPtsEl) desktopPtsEl.textContent = pointText;
@@ -390,7 +423,6 @@ function renderChart(chart) {
 function renderArtistView(artistName) {
   const artist = state.catalog?.artists?.[artistName];
   el.backToChart.classList.remove('hidden');
-  updateResultsSummary(state.filteredEntries || []);
 
   if (!artist) {
     el.viewRoot.innerHTML = `
@@ -427,7 +459,7 @@ function renderArtistView(artistName) {
     const card = document.createElement('article');
     card.className = 'artist-song-card';
     card.innerHTML = `
-      <img src="./${escapeHtml(song.cover || 'covers/_placeholder.png')}" alt="${escapeHtml(song.title)} cover art" loading="lazy" decoding="async" width="84" height="84">
+      <img src="${escapeHtml(imagePath(song.cover || 'covers/_placeholder.png'))}" alt="${escapeHtml(song.title)} cover art" loading="lazy" decoding="async" width="84" height="84">
       <div>
         <button type="button" class="artist-song-link">${escapeHtml(song.title)}</button>
         <p class="view-panel-subtitle">Peak ${escapeHtml(song.peak)} · ${escapeHtml(song.weeks)} weeks</p>
@@ -454,7 +486,6 @@ function renderSongView(artistName, songKey) {
   const artist = state.catalog?.artists?.[artistName];
   const song = artist?.songs?.[songKey];
   el.backToChart.classList.remove('hidden');
-  updateResultsSummary(state.filteredEntries || []);
 
   if (!song) {
     el.viewRoot.innerHTML = `
@@ -475,7 +506,7 @@ function renderSongView(artistName, songKey) {
     <p class="view-panel-subtitle">${escapeHtml(artistName)} · Peak ${escapeHtml(song.peak)} · ${escapeHtml(song.weeks)} weeks on chart</p>
     <div class="artist-song-grid">
       <article class="artist-song-card">
-        <img src="./${escapeHtml(song.cover || 'covers/_placeholder.png')}" alt="${escapeHtml(song.title)} cover art" loading="lazy" decoding="async" width="84" height="84">
+        <img src="${escapeHtml(imagePath(song.cover || 'covers/_placeholder.png'))}" alt="${escapeHtml(song.title)} cover art" loading="lazy" decoding="async" width="84" height="84">
         <div>
           <button type="button" class="artist-song-link">Browse this artist page</button>
           <p class="view-panel-subtitle">Return to ${escapeHtml(artistName)}&#39;s charted songs.</p>
@@ -513,6 +544,7 @@ function renderSongView(artistName, songKey) {
 }
 
 function populateWeekPicker(weeks, selectedWeek) {
+  if (!el.weekPicker) return;
   el.weekPicker.innerHTML = '';
   weeks.forEach((week) => {
     const option = document.createElement('option');
@@ -523,30 +555,72 @@ function populateWeekPicker(weeks, selectedWeek) {
   });
 }
 
-function renderArchiveRail(weeks, selectedWeek) {
-  if (!el.archiveNav) return;
-  el.archiveNav.innerHTML = '';
-  weeks.forEach((week, index) => {
-    const button = document.createElement('button');
-    button.type = 'button';
-    button.className = `archive-link${week === selectedWeek ? ' is-active' : ''}`;
-    button.innerHTML = `
-      <span class="archive-link-week">${escapeHtml(formatWeekLabel(week))}</span>
-      <span class="archive-link-meta">Week ${weeks.length - index}</span>
-    `;
-    button.addEventListener('click', async () => {
-      await loadWeek(week);
-    });
-    el.archiveNav.appendChild(button);
+function syncFilterUi() {
+  if (el.chartSearch) el.chartSearch.value = state.filters.query;
+  if (el.rankMin) el.rankMin.value = String(state.filters.rankMin);
+  if (el.rankMax) el.rankMax.value = String(state.filters.rankMax);
+
+  el.movementPills.forEach((pill) => {
+    pill.classList.toggle('is-active', pill.dataset.movementFilter === state.filters.movement);
   });
 }
 
-function setMovementFilter(value) {
-  state.filters.movement = value;
-  el.movementPills.forEach((pill) => {
-    pill.classList.toggle('is-active', pill.dataset.movementFilter === value);
-  });
+function resetFilters() {
+  state.filters.query = '';
+  state.filters.movement = 'all';
+  state.filters.rankMin = 1;
+  state.filters.rankMax = 100;
+  syncFilterUi();
   if (state.currentChart) renderChart(state.currentChart);
+}
+
+function bindFilterEvents() {
+  el.chartSearch?.addEventListener('input', (event) => {
+    state.filters.query = event.target.value || '';
+    if (state.currentChart) renderChart(state.currentChart);
+  });
+
+  el.clearSearch?.addEventListener('click', () => {
+    state.filters.query = '';
+    syncFilterUi();
+    if (state.currentChart) renderChart(state.currentChart);
+  });
+
+  el.rankMin?.addEventListener('input', (event) => {
+    state.filters.rankMin = Math.max(1, Math.min(100, Number(event.target.value || 1)));
+    if (state.currentChart) renderChart(state.currentChart);
+  });
+
+  el.rankMax?.addEventListener('input', (event) => {
+    state.filters.rankMax = Math.max(1, Math.min(100, Number(event.target.value || 100)));
+    if (state.currentChart) renderChart(state.currentChart);
+  });
+
+  el.resetFilters?.addEventListener('click', () => {
+    resetFilters();
+  });
+
+  el.movementPills.forEach((pill) => {
+    pill.addEventListener('click', () => {
+      state.filters.movement = pill.dataset.movementFilter || 'all';
+      syncFilterUi();
+      if (state.currentChart) renderChart(state.currentChart);
+    });
+  });
+
+  el.songModalClose?.addEventListener('click', () => {
+    el.songModal?.close();
+  });
+
+  el.songModal?.addEventListener('click', (event) => {
+    const rect = el.songModal.getBoundingClientRect();
+    const inDialog =
+      rect.top <= event.clientY &&
+      event.clientY <= rect.top + rect.height &&
+      rect.left <= event.clientX &&
+      event.clientX <= rect.left + rect.width;
+    if (!inDialog) el.songModal.close();
+  });
 }
 
 async function loadWeek(week) {
@@ -554,68 +628,14 @@ async function loadWeek(week) {
   state.currentWeek = week;
   state.currentChart = chart;
   populateWeekPicker(state.manifest.weeks, week);
-  renderArchiveRail(state.manifest.weeks, week);
+  updateArchiveRail();
   renderChart(chart);
-}
-
-function bindUi() {
-  el.weekPicker.addEventListener('change', async (event) => {
-    await loadWeek(event.target.value);
-  });
-
-  el.backToChart.addEventListener('click', () => {
-    if (state.currentChart) renderChart(state.currentChart);
-  });
-
-  el.chartSearch?.addEventListener('input', () => {
-    state.filters.query = el.chartSearch.value || '';
-    if (state.currentChart) renderChart(state.currentChart);
-  });
-
-  el.clearSearch?.addEventListener('click', () => {
-    if (!el.chartSearch) return;
-    el.chartSearch.value = '';
-    state.filters.query = '';
-    if (state.currentChart) renderChart(state.currentChart);
-  });
-
-  el.rankMin?.addEventListener('input', () => {
-    clampRankRange();
-    if (state.currentChart) renderChart(state.currentChart);
-  });
-
-  el.rankMax?.addEventListener('input', () => {
-    clampRankRange();
-    if (state.currentChart) renderChart(state.currentChart);
-  });
-
-  el.resetFilters?.addEventListener('click', () => {
-    state.filters.query = '';
-    state.filters.rankMin = 1;
-    state.filters.rankMax = Math.max(...(state.currentChart?.entries || []).map((entry) => Number(entry.rank || 0)), 100);
-    if (el.chartSearch) el.chartSearch.value = '';
-    if (el.rankMin) el.rankMin.value = '1';
-    if (el.rankMax) el.rankMax.value = String(state.filters.rankMax);
-    setMovementFilter('all');
-  });
-
-  el.movementPills.forEach((pill) => {
-    pill.addEventListener('click', () => setMovementFilter(pill.dataset.movementFilter || 'all'));
-  });
-
-  el.songModalClose?.addEventListener('click', closeSongModal);
-  el.songModal?.addEventListener('click', (event) => {
-    const rect = el.songModal.getBoundingClientRect();
-    const inside = event.clientX >= rect.left && event.clientX <= rect.right && event.clientY >= rect.top && event.clientY <= rect.bottom;
-    if (!inside) closeSongModal();
-  });
-  document.addEventListener('keydown', (event) => {
-    if (event.key === 'Escape') closeSongModal();
-  });
 }
 
 async function init() {
   initTheme();
+  bindFilterEvents();
+
   state.manifest = await fetchJson('./data/manifest.json');
   state.latest = await fetchJson('./data/latest.json');
   state.catalog = await fetchJson('./data/catalog.json');
@@ -624,17 +644,29 @@ async function init() {
   const initialWeek = state.latest?.week || weeks[0];
 
   if (!initialWeek) {
-    el.viewRoot.innerHTML = '<div class="empty-state">No chart weeks have been exported yet.</div>';
+    if (el.viewRoot) {
+      el.viewRoot.innerHTML = '<div class="empty-state">No chart weeks have been exported yet.</div>';
+    }
     return;
   }
 
   populateWeekPicker(weeks, initialWeek);
-  renderArchiveRail(weeks, initialWeek);
-  bindUi();
+  syncFilterUi();
+
+  el.weekPicker?.addEventListener('change', async (event) => {
+    await loadWeek(event.target.value);
+  });
+
+  el.backToChart?.addEventListener('click', () => {
+    if (state.currentChart) renderChart(state.currentChart);
+  });
+
   await loadWeek(initialWeek);
 }
 
 init().catch((error) => {
   console.error(error);
-  el.viewRoot.innerHTML = `<div class="empty-state">Could not load the chart site files. ${escapeHtml(error.message)}</div>`;
+  if (el.viewRoot) {
+    el.viewRoot.innerHTML = `<div class="empty-state">Could not load the chart site files. ${escapeHtml(error.message)}</div>`;
+  }
 });

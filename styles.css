@@ -314,7 +314,9 @@ input {
   padding: var(--space-4);
   border: 1px solid var(--color-border);
   border-radius: var(--radius-xl);
-  background: linear-gradient(180deg, rgba(255,255,255,0.025), rgba(255,255,255,0.01)), var(--color-surface);
+  background:
+    linear-gradient(180deg, rgba(255,255,255,0.025), rgba(255,255,255,0.01)),
+    var(--color-surface);
   box-shadow: var(--shadow-md);
 }
 
@@ -388,7 +390,9 @@ input {
   gap: var(--space-5);
   padding: clamp(var(--space-4), 2vw, var(--space-6));
   border: 1px solid var(--color-border);
-  background: linear-gradient(135deg, rgba(34, 224, 182, 0.12), rgba(255,255,255,0.02) 42%, rgba(255,255,255,0.01)), var(--color-surface);
+  background:
+    linear-gradient(135deg, rgba(34, 224, 182, 0.12), rgba(255,255,255,0.02) 42%, rgba(255,255,255,0.01)),
+    var(--color-surface);
   border-radius: var(--radius-xl);
   box-shadow: var(--shadow-md);
 }
@@ -604,9 +608,7 @@ input {
 .rank-range-sep,
 .results-summary,
 .view-panel-subtitle,
-.history-item,
-.detail-card p,
-.detail-card li {
+.history-item {
   color: var(--color-text-muted);
 }
 
@@ -864,13 +866,6 @@ input {
   border-radius: var(--radius-lg);
   border: 1px solid var(--color-border);
   background: var(--color-surface);
-}
-
-.view-panel h3 {
-  font-family: var(--font-display);
-  letter-spacing: 0.03em;
-  text-transform: uppercase;
-  font-size: var(--text-xl);
 }
 
 .view-panel-subtitle {
