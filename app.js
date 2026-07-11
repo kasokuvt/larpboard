@@ -18,7 +18,7 @@ const el = {
   statCarryovers: document.getElementById('stat-carryovers'),
   statClimbing: document.getElementById('stat-climbing'),
   statFalling: document.getElementById('stat-falling'),
-  statTotalListeners: document.getElementById('stat-total-listeners'),
+  statNoChange: document.getElementById('stat-no-change'),
   viewRoot: document.getElementById('view-root'),
   template: document.getElementById('chart-row-template'),
   backToChart: document.getElementById('back-to-chart'),
@@ -144,9 +144,9 @@ function updateHero(chart) {
     el.statFalling.textContent = count ? String(count) : '—';
   }
 
-  if (el.statTotalListeners) {
-    const total = entries.reduce((sum, entry) => sum + (Number(entry.listeners) || 0), 0);
-    el.statTotalListeners.textContent = total ? total.toLocaleString('en-US') : '—';
+  if (el.statNoChange) {
+    const count = entries.filter((entry) => entry.movement?.type === 'stay').length; || 0), 0);
+    el.statNoChange.textContent = count ? String(count) : '—';
   }
 }
 

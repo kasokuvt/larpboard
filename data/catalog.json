@@ -1,171 +1,209 @@
 {
   "artists": {
-    "The Long Faces": {
+    "Michael Jackson": {
       "songs": {
-        "the long faces - jane!": {
-          "title": "Jane!",
-          "cover": "covers/the_long_faces__jane.png",
+        "michael jackson - chicago": {
+          "title": "Chicago",
+          "cover": "covers/michael_jackson__chicago.png",
           "history": [
             {
-              "week": "2026-07-09",
+              "week": "2026-06-11",
               "rank": 1,
-              "points": 195.5,
+              "points": 130.5,
+              "listeners": 20
+            },
+            {
+              "week": "2026-06-18",
+              "rank": 5,
+              "points": 117.5,
+              "listeners": 25
+            },
+            {
+              "week": "2026-06-25",
+              "rank": 31,
+              "points": 76.0,
               "listeners": 23
+            },
+            {
+              "week": "2026-07-02",
+              "rank": 17,
+              "points": 78.5,
+              "listeners": 19
             }
           ],
           "peak": 1,
-          "weeks": 1
-        }
-      }
-    },
-    "pupsies": {
-      "songs": {
-        "pupsies - misery.": {
-          "title": "misery.",
-          "cover": "covers/pupsies__misery.png",
-          "history": [
-            {
-              "week": "2026-07-09",
-              "rank": 2,
-              "points": 187.0,
-              "listeners": 24
-            }
-          ],
-          "peak": 2,
-          "weeks": 1
-        }
-      }
-    },
-    "Malcolm Todd": {
-      "songs": {
-        "malcolm todd - earrings": {
-          "title": "Earrings",
-          "cover": "covers/malcolm_todd__earrings.jpg",
-          "history": [
-            {
-              "week": "2026-07-09",
-              "rank": 3,
-              "points": 135.5,
-              "listeners": 27
-            }
-          ],
-          "peak": 3,
-          "weeks": 1
+          "weeks": 4
         },
-        "malcolm todd - roommates": {
-          "title": "Roommates",
-          "cover": "covers/malcolm_todd__roommates.png",
+        "michael jackson - billie jean": {
+          "title": "Billie Jean",
+          "cover": "covers/michael_jackson__billie_jean.png",
           "history": [
             {
-              "week": "2026-07-09",
-              "rank": 18,
-              "points": 74.0,
+              "week": "2026-06-11",
+              "rank": 23,
+              "points": 74.5,
               "listeners": 17
-            }
-          ],
-          "peak": 18,
-          "weeks": 1
-        },
-        "malcolm todd - malcolm in the middle": {
-          "title": "Malcolm In The Middle",
-          "cover": "covers/malcolm_todd__malcolm_in_the_middle.png",
-          "history": [
+            },
+            {
+              "week": "2026-06-18",
+              "rank": 11,
+              "points": 98.5,
+              "listeners": 22
+            },
+            {
+              "week": "2026-06-25",
+              "rank": 16,
+              "points": 99.5,
+              "listeners": 19
+            },
             {
               "week": "2026-07-09",
-              "rank": 32,
-              "points": 65.5,
-              "listeners": 5
-            }
-          ],
-          "peak": 32,
-          "weeks": 1
-        },
-        "malcolm todd - sweet boy": {
-          "title": "Sweet Boy",
-          "cover": "covers/malcolm_todd__sweet_boy.png",
-          "history": [
-            {
-              "week": "2026-07-09",
-              "rank": 50,
-              "points": 59.0,
+              "rank": 94,
+              "points": 50.0,
               "listeners": 15
             }
           ],
-          "peak": 50,
-          "weeks": 1
+          "peak": 11,
+          "weeks": 4
+        },
+        "michael jackson - beat it": {
+          "title": "Beat It",
+          "cover": "covers/michael_jackson__beat_it.png",
+          "history": [
+            {
+              "week": "2026-06-11",
+              "rank": 61,
+              "points": 53.5,
+              "listeners": 14
+            },
+            {
+              "week": "2026-06-18",
+              "rank": 24,
+              "points": 73.5,
+              "listeners": 14
+            },
+            {
+              "week": "2026-06-25",
+              "rank": 55,
+              "points": 59.5,
+              "listeners": 17
+            }
+          ],
+          "peak": 24,
+          "weeks": 3
         }
       }
     },
-    "Toby Fox": {
+    "That Handsome Devil": {
       "songs": {
-        "toby fox - cutie mew mew magic": {
-          "title": "Cutie Mew Mew Magic",
-          "cover": "covers/toby_fox__cutie_mew_mew_magic.jpg",
+        "that handsome devil - charlie's inferno": {
+          "title": "Charlie's Inferno",
+          "cover": "covers/that_handsome_devil__charlie_s_inferno.png",
           "history": [
             {
-              "week": "2026-07-09",
-              "rank": 4,
-              "points": 134.0,
-              "listeners": 11
-            }
-          ],
-          "peak": 4,
-          "weeks": 1
-        },
-        "toby fox - flower man": {
-          "title": "Flower Man",
-          "cover": "covers/toby_fox__flower_man.jpg",
-          "history": [
+              "week": "2026-06-11",
+              "rank": 2,
+              "points": 130.0,
+              "listeners": 24
+            },
+            {
+              "week": "2026-06-18",
+              "rank": 10,
+              "points": 99.0,
+              "listeners": 19
+            },
+            {
+              "week": "2026-06-25",
+              "rank": 14,
+              "points": 104.0,
+              "listeners": 18
+            },
+            {
+              "week": "2026-07-02",
+              "rank": 37,
+              "points": 65.5,
+              "listeners": 14
+            },
             {
               "week": "2026-07-09",
-              "rank": 7,
-              "points": 102.0,
+              "rank": 9,
+              "points": 96.0,
               "listeners": 14
             }
           ],
-          "peak": 7,
-          "weeks": 1
-        },
-        "toby fox - rude buster": {
-          "title": "Rude Buster",
-          "cover": "covers/toby_fox__rude_buster.png",
-          "history": [
-            {
-              "week": "2026-07-09",
-              "rank": 14,
-              "points": 81.0,
-              "listeners": 10
-            }
-          ],
-          "peak": 14,
-          "weeks": 1
-        }
-      }
-    },
-    "Dominic Fike": {
-      "songs": {
-        "dominic fike - babydoll": {
-          "title": "Babydoll",
-          "cover": "covers/dominic_fike__babydoll.png",
-          "history": [
-            {
-              "week": "2026-07-09",
-              "rank": 5,
-              "points": 126.5,
-              "listeners": 25
-            }
-          ],
-          "peak": 5,
-          "weeks": 1
+          "peak": 2,
+          "weeks": 5
         }
       }
     },
     "Radiohead": {
       "songs": {
+        "radiohead - no surprises": {
+          "title": "No Surprises",
+          "cover": "covers/radiohead__no_surprises.png",
+          "history": [
+            {
+              "week": "2026-06-11",
+              "rank": 3,
+              "points": 121.0,
+              "listeners": 20
+            },
+            {
+              "week": "2026-06-18",
+              "rank": 13,
+              "points": 91.5,
+              "listeners": 17
+            },
+            {
+              "week": "2026-06-25",
+              "rank": 52,
+              "points": 61.0,
+              "listeners": 13
+            },
+            {
+              "week": "2026-07-02",
+              "rank": 46,
+              "points": 61.0,
+              "listeners": 12
+            },
+            {
+              "week": "2026-07-09",
+              "rank": 27,
+              "points": 67.5,
+              "listeners": 15
+            }
+          ],
+          "peak": 3,
+          "weeks": 5
+        },
         "radiohead - creep": {
           "title": "Creep",
           "cover": "covers/radiohead__creep.png",
           "history": [
+            {
+              "week": "2026-06-11",
+              "rank": 26,
+              "points": 72.0,
+              "listeners": 19
+            },
+            {
+              "week": "2026-06-18",
+              "rank": 26,
+              "points": 71.0,
+              "listeners": 23
+            },
+            {
+              "week": "2026-06-25",
+              "rank": 65,
+              "points": 57.5,
+              "listeners": 20
+            },
+            {
+              "week": "2026-07-02",
+              "rank": 58,
+              "points": 57.5,
+              "listeners": 23
+            },
             {
               "week": "2026-07-09",
               "rank": 6,
@@ -174,21 +212,61 @@
             }
           ],
           "peak": 6,
-          "weeks": 1
+          "weeks": 5
         },
-        "radiohead - no surprises": {
-          "title": "No Surprises",
-          "cover": "covers/radiohead__no_surprises.png",
+        "radiohead - karma police": {
+          "title": "Karma Police",
+          "cover": "covers/radiohead__karma_police.png",
           "history": [
             {
-              "week": "2026-07-09",
-              "rank": 26,
-              "points": 67.5,
-              "listeners": 15
+              "week": "2026-06-11",
+              "rank": 39,
+              "points": 61.0,
+              "listeners": 11
+            },
+            {
+              "week": "2026-06-18",
+              "rank": 94,
+              "points": 50.0,
+              "listeners": 13
             }
           ],
-          "peak": 26,
+          "peak": 39,
+          "weeks": 2
+        },
+        "radiohead - exit music (for a film)": {
+          "title": "Exit Music (for a Film)",
+          "cover": "covers/radiohead__exit_music_for_a_film.png",
+          "history": [
+            {
+              "week": "2026-06-11",
+              "rank": 76,
+              "points": 50.0,
+              "listeners": 12
+            }
+          ],
+          "peak": 76,
           "weeks": 1
+        },
+        "radiohead - all i need": {
+          "title": "All I Need",
+          "cover": "covers/radiohead__all_i_need.png",
+          "history": [
+            {
+              "week": "2026-06-25",
+              "rank": 82,
+              "points": 51.5,
+              "listeners": 9
+            },
+            {
+              "week": "2026-07-09",
+              "rank": 85,
+              "points": 52.5,
+              "listeners": 9
+            }
+          ],
+          "peak": 82,
+          "weeks": 2
         },
         "radiohead - let down": {
           "title": "Let Down",
@@ -202,20 +280,6 @@
             }
           ],
           "peak": 63,
-          "weeks": 1
-        },
-        "radiohead - all i need": {
-          "title": "All I Need",
-          "cover": "covers/radiohead__all_i_need.png",
-          "history": [
-            {
-              "week": "2026-07-09",
-              "rank": 85,
-              "points": 52.5,
-              "listeners": 9
-            }
-          ],
-          "peak": 85,
           "weeks": 1
         },
         "radiohead - fake plastic trees": {
@@ -234,6 +298,1212 @@
         }
       }
     },
+    "Kanye West": {
+      "songs": {
+        "kanye west - gemini season": {
+          "title": "GEMINI SEASON",
+          "cover": "covers/kanye_west__gemini_season.jpg",
+          "history": [
+            {
+              "week": "2026-06-11",
+              "rank": 4,
+              "points": 109.5,
+              "listeners": 10
+            },
+            {
+              "week": "2026-06-18",
+              "rank": 91,
+              "points": 51.0,
+              "listeners": 8
+            }
+          ],
+          "peak": 4,
+          "weeks": 2
+        },
+        "kanye west - father stretch my hands pt. 1": {
+          "title": "Father Stretch My Hands Pt. 1",
+          "cover": "covers/kanye_west__father_stretch_my_hands_pt_1.png",
+          "history": [
+            {
+              "week": "2026-06-11",
+              "rank": 57,
+              "points": 54.5,
+              "listeners": 11
+            }
+          ],
+          "peak": 57,
+          "weeks": 1
+        },
+        "kanye west - punch drunk": {
+          "title": "PUNCH DRUNK",
+          "cover": "covers/kanye_west__punch_drunk.png",
+          "history": [
+            {
+              "week": "2026-06-11",
+              "rank": 59,
+              "points": 54.0,
+              "listeners": 8
+            },
+            {
+              "week": "2026-06-25",
+              "rank": 15,
+              "points": 103.0,
+              "listeners": 12
+            },
+            {
+              "week": "2026-07-02",
+              "rank": 96,
+              "points": 51.0,
+              "listeners": 8
+            }
+          ],
+          "peak": 15,
+          "weeks": 3
+        },
+        "kanye west - touch the sky": {
+          "title": "Touch the Sky",
+          "cover": "covers/kanye_west__touch_the_sky.png",
+          "history": [
+            {
+              "week": "2026-06-11",
+              "rank": 62,
+              "points": 53.5,
+              "listeners": 11
+            },
+            {
+              "week": "2026-06-25",
+              "rank": 80,
+              "points": 51.5,
+              "listeners": 14
+            }
+          ],
+          "peak": 62,
+          "weeks": 2
+        },
+        "kanye west - champion": {
+          "title": "Champion",
+          "cover": "covers/kanye_west__champion.png",
+          "history": [
+            {
+              "week": "2026-06-11",
+              "rank": 64,
+              "points": 52.5,
+              "listeners": 13
+            },
+            {
+              "week": "2026-06-18",
+              "rank": 18,
+              "points": 82.0,
+              "listeners": 15
+            },
+            {
+              "week": "2026-07-02",
+              "rank": 80,
+              "points": 53.5,
+              "listeners": 7
+            }
+          ],
+          "peak": 18,
+          "weeks": 3
+        },
+        "kanye west - heard 'em say": {
+          "title": "Heard 'Em Say",
+          "cover": "covers/kanye_west__heard_em_say.png",
+          "history": [
+            {
+              "week": "2026-06-11",
+              "rank": 78,
+              "points": 50.0,
+              "listeners": 6
+            }
+          ],
+          "peak": 78,
+          "weeks": 1
+        },
+        "kanye west - heartless": {
+          "title": "Heartless",
+          "cover": "covers/kanye_west__heartless.png",
+          "history": [
+            {
+              "week": "2026-06-11",
+              "rank": 84,
+              "points": 49.0,
+              "listeners": 14
+            },
+            {
+              "week": "2026-06-25",
+              "rank": 96,
+              "points": 48.5,
+              "listeners": 12
+            }
+          ],
+          "peak": 84,
+          "weeks": 2
+        },
+        "kanye west - i wonder": {
+          "title": "I Wonder",
+          "cover": "covers/kanye_west__i_wonder.png",
+          "history": [
+            {
+              "week": "2026-06-11",
+              "rank": 91,
+              "points": 48.0,
+              "listeners": 15
+            },
+            {
+              "week": "2026-06-18",
+              "rank": 37,
+              "points": 63.5,
+              "listeners": 13
+            }
+          ],
+          "peak": 37,
+          "weeks": 2
+        },
+        "kanye west - dark fantasy": {
+          "title": "Dark Fantasy",
+          "cover": "covers/kanye_west__dark_fantasy.png",
+          "history": [
+            {
+              "week": "2026-06-18",
+              "rank": 52,
+              "points": 58.5,
+              "listeners": 11
+            }
+          ],
+          "peak": 52,
+          "weeks": 1
+        },
+        "kanye west - runaway": {
+          "title": "Runaway",
+          "cover": "covers/kanye_west__runaway.png",
+          "history": [
+            {
+              "week": "2026-06-18",
+              "rank": 53,
+              "points": 58.5,
+              "listeners": 11
+            }
+          ],
+          "peak": 53,
+          "weeks": 1
+        },
+        "kanye west - flashing lights": {
+          "title": "Flashing Lights",
+          "cover": "covers/kanye_west__flashing_lights.png",
+          "history": [
+            {
+              "week": "2026-06-18",
+              "rank": 59,
+              "points": 57.5,
+              "listeners": 14
+            },
+            {
+              "week": "2026-07-09",
+              "rank": 56,
+              "points": 58.0,
+              "listeners": 23
+            }
+          ],
+          "peak": 56,
+          "weeks": 2
+        },
+        "kanye west - stronger": {
+          "title": "Stronger",
+          "cover": "covers/kanye_west__stronger.png",
+          "history": [
+            {
+              "week": "2026-06-18",
+              "rank": 67,
+              "points": 56.0,
+              "listeners": 14
+            }
+          ],
+          "peak": 67,
+          "weeks": 1
+        },
+        "kanye west - can't tell me nothing": {
+          "title": "Can't Tell Me Nothing",
+          "cover": "covers/kanye_west__can_t_tell_me_nothing.png",
+          "history": [
+            {
+              "week": "2026-06-18",
+              "rank": 86,
+              "points": 52.5,
+              "listeners": 11
+            },
+            {
+              "week": "2026-07-02",
+              "rank": 18,
+              "points": 76.0,
+              "listeners": 11
+            },
+            {
+              "week": "2026-07-09",
+              "rank": 19,
+              "points": 73.5,
+              "listeners": 16
+            }
+          ],
+          "peak": 18,
+          "weeks": 3
+        },
+        "kanye west - king": {
+          "title": "KING",
+          "cover": "covers/kanye_west__king.png",
+          "history": [
+            {
+              "week": "2026-06-25",
+              "rank": 1,
+              "points": 182.5,
+              "listeners": 15
+            },
+            {
+              "week": "2026-07-02",
+              "rank": 61,
+              "points": 57.5,
+              "listeners": 9
+            },
+            {
+              "week": "2026-07-09",
+              "rank": 88,
+              "points": 52.0,
+              "listeners": 7
+            }
+          ],
+          "peak": 1,
+          "weeks": 3
+        },
+        "kanye west - all the love (feat. andre troutman)": {
+          "title": "ALL THE LOVE (feat. Andre Troutman)",
+          "cover": "covers/kanye_west__all_the_love_feat_andre_troutman.png",
+          "history": [
+            {
+              "week": "2026-06-25",
+              "rank": 3,
+              "points": 150.0,
+              "listeners": 14
+            },
+            {
+              "week": "2026-07-02",
+              "rank": 94,
+              "points": 51.0,
+              "listeners": 11
+            }
+          ],
+          "peak": 3,
+          "weeks": 2
+        },
+        "kanye west - i can’t wait (feat. ms. lauryn hill)": {
+          "title": "I CAN’T WAIT (feat. Ms. Lauryn Hill)",
+          "cover": "covers/kanye_west__i_can_t_wait_feat_ms_lauryn_hill.jpg",
+          "history": [
+            {
+              "week": "2026-06-25",
+              "rank": 4,
+              "points": 147.0,
+              "listeners": 23
+            }
+          ],
+          "peak": 4,
+          "weeks": 1
+        },
+        "kanye west - father (feat. travis scott)": {
+          "title": "FATHER (feat. Travis Scott)",
+          "cover": "covers/kanye_west__father_feat_travis_scott.png",
+          "history": [
+            {
+              "week": "2026-06-25",
+              "rank": 5,
+              "points": 136.5,
+              "listeners": 13
+            },
+            {
+              "week": "2026-07-02",
+              "rank": 67,
+              "points": 56.0,
+              "listeners": 10
+            }
+          ],
+          "peak": 5,
+          "weeks": 2
+        },
+        "kanye west - this a must": {
+          "title": "THIS A MUST",
+          "cover": "covers/kanye_west__this_a_must.png",
+          "history": [
+            {
+              "week": "2026-06-25",
+              "rank": 7,
+              "points": 127.0,
+              "listeners": 12
+            }
+          ],
+          "peak": 7,
+          "weeks": 1
+        },
+        "kanye west - mission control": {
+          "title": "MISSION CONTROL",
+          "cover": "covers/kanye_west__mission_control.png",
+          "history": [
+            {
+              "week": "2026-06-25",
+              "rank": 8,
+              "points": 117.5,
+              "listeners": 18
+            }
+          ],
+          "peak": 8,
+          "weeks": 1
+        },
+        "kanye west - ok (feat. don toliver)": {
+          "title": "OK (Feat. Don Toliver)",
+          "cover": "covers/kanye_west__ok_feat_don_toliver.jpg",
+          "history": [
+            {
+              "week": "2026-06-25",
+              "rank": 10,
+              "points": 114.5,
+              "listeners": 14
+            }
+          ],
+          "peak": 10,
+          "weeks": 1
+        },
+        "kanye west - this one here": {
+          "title": "THIS ONE HERE",
+          "cover": "covers/kanye_west__this_one_here.png",
+          "history": [
+            {
+              "week": "2026-06-25",
+              "rank": 19,
+              "points": 97.0,
+              "listeners": 13
+            }
+          ],
+          "peak": 19,
+          "weeks": 1
+        },
+        "kanye west - sisters and brothers": {
+          "title": "SISTERS AND BROTHERS",
+          "cover": "covers/kanye_west__sisters_and_brothers.png",
+          "history": [
+            {
+              "week": "2026-06-25",
+              "rank": 38,
+              "points": 71.0,
+              "listeners": 10
+            }
+          ],
+          "peak": 38,
+          "weeks": 1
+        },
+        "kanye west - white lines (feat. andre troutman)": {
+          "title": "WHITE LINES (feat. Andre Troutman)",
+          "cover": "covers/kanye_west__white_lines_feat_andre_troutman.png",
+          "history": [
+            {
+              "week": "2026-06-25",
+              "rank": 39,
+              "points": 70.5,
+              "listeners": 13
+            }
+          ],
+          "peak": 39,
+          "weeks": 1
+        },
+        "kanye west - whatever works": {
+          "title": "WHATEVER WORKS",
+          "cover": "covers/kanye_west__whatever_works.png",
+          "history": [
+            {
+              "week": "2026-06-25",
+              "rank": 43,
+              "points": 66.0,
+              "listeners": 10
+            }
+          ],
+          "peak": 43,
+          "weeks": 1
+        },
+        "kanye west - all of the lights": {
+          "title": "All of the Lights",
+          "cover": "covers/kanye_west__all_of_the_lights.png",
+          "history": [
+            {
+              "week": "2026-06-25",
+              "rank": 59,
+              "points": 59.0,
+              "listeners": 12
+            },
+            {
+              "week": "2026-07-09",
+              "rank": 91,
+              "points": 50.5,
+              "listeners": 13
+            }
+          ],
+          "peak": 59,
+          "weeks": 2
+        },
+        "kanye west - bully (feat. ceelo green)": {
+          "title": "BULLY (feat. CeeLo Green)",
+          "cover": "covers/kanye_west__bully_feat_ceelo_green.png",
+          "history": [
+            {
+              "week": "2026-06-25",
+              "rank": 60,
+              "points": 59.0,
+              "listeners": 11
+            }
+          ],
+          "peak": 60,
+          "weeks": 1
+        },
+        "kanye west - highs and lows": {
+          "title": "HIGHS AND LOWS",
+          "cover": "covers/kanye_west__highs_and_lows.png",
+          "history": [
+            {
+              "week": "2026-06-25",
+              "rank": 62,
+              "points": 58.0,
+              "listeners": 13
+            }
+          ],
+          "peak": 62,
+          "weeks": 1
+        },
+        "kanye west - mama’s favorite (feat. nine vicious)": {
+          "title": "MAMA’S FAVORITE (feat. Nine Vicious)",
+          "cover": "covers/kanye_west__mama_s_favorite_feat_nine_vicious.jpg",
+          "history": [
+            {
+              "week": "2026-06-25",
+              "rank": 64,
+              "points": 58.0,
+              "listeners": 10
+            }
+          ],
+          "peak": 64,
+          "weeks": 1
+        },
+        "kanye west - preacher man": {
+          "title": "PREACHER MAN",
+          "cover": "covers/kanye_west__preacher_man.png",
+          "history": [
+            {
+              "week": "2026-06-25",
+              "rank": 69,
+              "points": 54.5,
+              "listeners": 9
+            }
+          ],
+          "peak": 69,
+          "weeks": 1
+        },
+        "kanye west - circles": {
+          "title": "CIRCLES",
+          "cover": "covers/kanye_west__circles.png",
+          "history": [
+            {
+              "week": "2026-06-25",
+              "rank": 70,
+              "points": 54.5,
+              "listeners": 9
+            }
+          ],
+          "peak": 70,
+          "weeks": 1
+        },
+        "kanye west - bound 2": {
+          "title": "Bound 2",
+          "cover": "covers/kanye_west__bound_2.png",
+          "history": [
+            {
+              "week": "2026-06-25",
+              "rank": 84,
+              "points": 51.0,
+              "listeners": 15
+            },
+            {
+              "week": "2026-07-02",
+              "rank": 77,
+              "points": 54.0,
+              "listeners": 10
+            }
+          ],
+          "peak": 77,
+          "weeks": 2
+        },
+        "kanye west - mission control (feat. the wrldfms tony williams)": {
+          "title": "MISSION CONTROL (feat. THE WRLDFMS Tony Williams)",
+          "cover": "covers/kanye_west__mission_control_feat_the_wrldfms_tony_williams.png",
+          "history": [
+            {
+              "week": "2026-07-02",
+              "rank": 63,
+              "points": 57.0,
+              "listeners": 3
+            }
+          ],
+          "peak": 63,
+          "weeks": 1
+        },
+        "kanye west - ghost town": {
+          "title": "Ghost Town",
+          "cover": "covers/kanye_west__ghost_town.png",
+          "history": [
+            {
+              "week": "2026-07-02",
+              "rank": 72,
+              "points": 55.0,
+              "listeners": 7
+            }
+          ],
+          "peak": 72,
+          "weeks": 1
+        }
+      }
+    },
+    "Malcolm Todd": {
+      "songs": {
+        "malcolm todd - earrings": {
+          "title": "Earrings",
+          "cover": "covers/malcolm_todd__earrings.jpg",
+          "history": [
+            {
+              "week": "2026-06-11",
+              "rank": 5,
+              "points": 108.0,
+              "listeners": 27
+            },
+            {
+              "week": "2026-06-18",
+              "rank": 1,
+              "points": 174.5,
+              "listeners": 28
+            },
+            {
+              "week": "2026-06-25",
+              "rank": 6,
+              "points": 131.0,
+              "listeners": 24
+            },
+            {
+              "week": "2026-07-02",
+              "rank": 4,
+              "points": 156.5,
+              "listeners": 28
+            },
+            {
+              "week": "2026-07-09",
+              "rank": 3,
+              "points": 135.5,
+              "listeners": 27
+            }
+          ],
+          "peak": 1,
+          "weeks": 5
+        },
+        "malcolm todd - chest pain (i love)": {
+          "title": "Chest Pain (I Love)",
+          "cover": "covers/malcolm_todd__chest_pain_i_love.png",
+          "history": [
+            {
+              "week": "2026-06-11",
+              "rank": 8,
+              "points": 102.5,
+              "listeners": 15
+            },
+            {
+              "week": "2026-06-18",
+              "rank": 16,
+              "points": 82.5,
+              "listeners": 18
+            },
+            {
+              "week": "2026-06-25",
+              "rank": 93,
+              "points": 49.0,
+              "listeners": 13
+            },
+            {
+              "week": "2026-07-02",
+              "rank": 90,
+              "points": 51.5,
+              "listeners": 13
+            }
+          ],
+          "peak": 8,
+          "weeks": 4
+        },
+        "malcolm todd - malcolm in the middle": {
+          "title": "Malcolm In The Middle",
+          "cover": "covers/malcolm_todd__malcolm_in_the_middle.png",
+          "history": [
+            {
+              "week": "2026-06-11",
+              "rank": 9,
+              "points": 102.5,
+              "listeners": 12
+            },
+            {
+              "week": "2026-06-18",
+              "rank": 12,
+              "points": 94.5,
+              "listeners": 9
+            },
+            {
+              "week": "2026-06-25",
+              "rank": 41,
+              "points": 66.5,
+              "listeners": 12
+            },
+            {
+              "week": "2026-07-02",
+              "rank": 43,
+              "points": 63.0,
+              "listeners": 7
+            },
+            {
+              "week": "2026-07-09",
+              "rank": 32,
+              "points": 65.5,
+              "listeners": 5
+            }
+          ],
+          "peak": 9,
+          "weeks": 5
+        },
+        "malcolm todd - difficult love": {
+          "title": "Difficult Love",
+          "cover": "covers/malcolm_todd__difficult_love.png",
+          "history": [
+            {
+              "week": "2026-06-11",
+              "rank": 10,
+              "points": 98.0,
+              "listeners": 14
+            },
+            {
+              "week": "2026-06-18",
+              "rank": 31,
+              "points": 67.5,
+              "listeners": 11
+            }
+          ],
+          "peak": 10,
+          "weeks": 2
+        },
+        "malcolm todd - jean skirt": {
+          "title": "Jean Skirt",
+          "cover": "covers/malcolm_todd__jean_skirt.png",
+          "history": [
+            {
+              "week": "2026-06-11",
+              "rank": 11,
+              "points": 98.0,
+              "listeners": 11
+            }
+          ],
+          "peak": 11,
+          "weeks": 1
+        },
+        "malcolm todd - free.99": {
+          "title": "Free.99",
+          "cover": "covers/malcolm_todd__free_99.png",
+          "history": [
+            {
+              "week": "2026-06-11",
+              "rank": 16,
+              "points": 86.5,
+              "listeners": 12
+            },
+            {
+              "week": "2026-06-18",
+              "rank": 22,
+              "points": 74.5,
+              "listeners": 11
+            }
+          ],
+          "peak": 16,
+          "weeks": 2
+        },
+        "malcolm todd - obsessica": {
+          "title": "Obsessica",
+          "cover": "covers/malcolm_todd__obsessica.png",
+          "history": [
+            {
+              "week": "2026-06-11",
+              "rank": 20,
+              "points": 79.5,
+              "listeners": 12
+            }
+          ],
+          "peak": 20,
+          "weeks": 1
+        },
+        "malcolm todd - i saw your face": {
+          "title": "I Saw Your Face",
+          "cover": "covers/malcolm_todd__i_saw_your_face.png",
+          "history": [
+            {
+              "week": "2026-06-11",
+              "rank": 25,
+              "points": 72.5,
+              "listeners": 11
+            },
+            {
+              "week": "2026-06-18",
+              "rank": 57,
+              "points": 58.0,
+              "listeners": 11
+            },
+            {
+              "week": "2026-06-25",
+              "rank": 89,
+              "points": 49.5,
+              "listeners": 8
+            }
+          ],
+          "peak": 25,
+          "weeks": 3
+        },
+        "malcolm todd - roommates": {
+          "title": "Roommates",
+          "cover": "covers/malcolm_todd__roommates.png",
+          "history": [
+            {
+              "week": "2026-06-11",
+              "rank": 28,
+              "points": 69.0,
+              "listeners": 22
+            },
+            {
+              "week": "2026-06-18",
+              "rank": 23,
+              "points": 74.0,
+              "listeners": 15
+            },
+            {
+              "week": "2026-06-25",
+              "rank": 26,
+              "points": 87.0,
+              "listeners": 16
+            },
+            {
+              "week": "2026-07-02",
+              "rank": 73,
+              "points": 54.5,
+              "listeners": 14
+            },
+            {
+              "week": "2026-07-09",
+              "rank": 18,
+              "points": 74.0,
+              "listeners": 17
+            }
+          ],
+          "peak": 18,
+          "weeks": 5
+        },
+        "malcolm todd - x's & o's": {
+          "title": "X's & O's",
+          "cover": "covers/malcolm_todd__x_s_o_s.png",
+          "history": [
+            {
+              "week": "2026-06-11",
+              "rank": 29,
+              "points": 68.5,
+              "listeners": 11
+            }
+          ],
+          "peak": 29,
+          "weeks": 1
+        },
+        "malcolm todd - ain't that the truth": {
+          "title": "Ain't That The Truth",
+          "cover": "covers/malcolm_todd__ain_t_that_the_truth.png",
+          "history": [
+            {
+              "week": "2026-06-11",
+              "rank": 31,
+              "points": 67.0,
+              "listeners": 12
+            }
+          ],
+          "peak": 31,
+          "weeks": 1
+        },
+        "malcolm todd - sweet boy": {
+          "title": "Sweet Boy",
+          "cover": "covers/malcolm_todd__sweet_boy.png",
+          "history": [
+            {
+              "week": "2026-06-11",
+              "rank": 33,
+              "points": 66.5,
+              "listeners": 20
+            },
+            {
+              "week": "2026-06-18",
+              "rank": 19,
+              "points": 80.0,
+              "listeners": 19
+            },
+            {
+              "week": "2026-06-25",
+              "rank": 13,
+              "points": 107.5,
+              "listeners": 20
+            },
+            {
+              "week": "2026-07-02",
+              "rank": 15,
+              "points": 80.0,
+              "listeners": 21
+            },
+            {
+              "week": "2026-07-09",
+              "rank": 51,
+              "points": 59.0,
+              "listeners": 15
+            }
+          ],
+          "peak": 13,
+          "weeks": 5
+        },
+        "malcolm todd - gun to my head": {
+          "title": "Gun To My Head",
+          "cover": "covers/malcolm_todd__gun_to_my_head.png",
+          "history": [
+            {
+              "week": "2026-06-11",
+              "rank": 38,
+              "points": 61.5,
+              "listeners": 10
+            },
+            {
+              "week": "2026-06-18",
+              "rank": 39,
+              "points": 63.0,
+              "listeners": 9
+            },
+            {
+              "week": "2026-06-25",
+              "rank": 87,
+              "points": 50.0,
+              "listeners": 5
+            }
+          ],
+          "peak": 38,
+          "weeks": 3
+        },
+        "malcolm todd - breathe": {
+          "title": "Breathe",
+          "cover": "covers/malcolm_todd__breathe.png",
+          "history": [
+            {
+              "week": "2026-06-11",
+              "rank": 43,
+              "points": 60.0,
+              "listeners": 11
+            },
+            {
+              "week": "2026-06-18",
+              "rank": 33,
+              "points": 66.0,
+              "listeners": 9
+            }
+          ],
+          "peak": 33,
+          "weeks": 2
+        },
+        "malcolm todd - do that again": {
+          "title": "Do That Again",
+          "cover": "covers/malcolm_todd__do_that_again.png",
+          "history": [
+            {
+              "week": "2026-06-11",
+              "rank": 65,
+              "points": 52.5,
+              "listeners": 10
+            },
+            {
+              "week": "2026-06-18",
+              "rank": 99,
+              "points": 50.0,
+              "listeners": 8
+            }
+          ],
+          "peak": 65,
+          "weeks": 2
+        },
+        "malcolm todd - attention": {
+          "title": "Attention",
+          "cover": "covers/malcolm_todd__attention.png",
+          "history": [
+            {
+              "week": "2026-06-11",
+              "rank": 75,
+              "points": 50.0,
+              "listeners": 12
+            }
+          ],
+          "peak": 75,
+          "weeks": 1
+        }
+      }
+    },
+    "The Long Faces": {
+      "songs": {
+        "the long faces - jane!": {
+          "title": "Jane!",
+          "cover": "covers/the_long_faces__jane.png",
+          "history": [
+            {
+              "week": "2026-06-11",
+              "rank": 6,
+              "points": 106.5,
+              "listeners": 24
+            },
+            {
+              "week": "2026-06-18",
+              "rank": 2,
+              "points": 145.0,
+              "listeners": 24
+            },
+            {
+              "week": "2026-06-25",
+              "rank": 23,
+              "points": 93.0,
+              "listeners": 21
+            },
+            {
+              "week": "2026-07-02",
+              "rank": 5,
+              "points": 151.5,
+              "listeners": 24
+            },
+            {
+              "week": "2026-07-09",
+              "rank": 2,
+              "points": 195.5,
+              "listeners": 23
+            }
+          ],
+          "peak": 2,
+          "weeks": 5
+        }
+      }
+    },
+    "wifiskeleton": {
+      "songs": {
+        "wifiskeleton - nope your too late i already died": {
+          "title": "Nope your too late i already died",
+          "cover": "covers/wifiskeleton__nope_your_too_late_i_already_died.png",
+          "history": [
+            {
+              "week": "2026-06-11",
+              "rank": 7,
+              "points": 102.5,
+              "listeners": 18
+            },
+            {
+              "week": "2026-06-18",
+              "rank": 7,
+              "points": 103.5,
+              "listeners": 19
+            },
+            {
+              "week": "2026-06-25",
+              "rank": 45,
+              "points": 64.5,
+              "listeners": 19
+            },
+            {
+              "week": "2026-07-02",
+              "rank": 13,
+              "points": 81.0,
+              "listeners": 19
+            },
+            {
+              "week": "2026-07-09",
+              "rank": 48,
+              "points": 60.0,
+              "listeners": 15
+            }
+          ],
+          "peak": 7,
+          "weeks": 5
+        },
+        "wifiskeleton - my twenty first reason </3": {
+          "title": "my twenty first reason </3",
+          "cover": "covers/wifiskeleton__my_twenty_first_reason_3.png",
+          "history": [
+            {
+              "week": "2026-06-18",
+              "rank": 54,
+              "points": 58.5,
+              "listeners": 10
+            }
+          ],
+          "peak": 54,
+          "weeks": 1
+        },
+        "wifiskeleton - isnt it obvious": {
+          "title": "isnt it obvious",
+          "cover": "covers/wifiskeleton__isnt_it_obvious.png",
+          "history": [
+            {
+              "week": "2026-06-18",
+              "rank": 63,
+              "points": 57.0,
+              "listeners": 9
+            }
+          ],
+          "peak": 63,
+          "weeks": 1
+        },
+        "wifiskeleton - lovefool demo": {
+          "title": "lovefool demo",
+          "cover": "covers/wifiskeleton__lovefool_demo.png",
+          "history": [
+            {
+              "week": "2026-06-18",
+              "rank": 98,
+              "points": 50.0,
+              "listeners": 8
+            }
+          ],
+          "peak": 98,
+          "weeks": 1
+        },
+        "wifiskeleton - bipolar": {
+          "title": "Bipolar",
+          "cover": "covers/wifiskeleton__bipolar.png",
+          "history": [
+            {
+              "week": "2026-07-09",
+              "rank": 53,
+              "points": 59.0,
+              "listeners": 14
+            }
+          ],
+          "peak": 53,
+          "weeks": 1
+        }
+      }
+    },
+    "Lex Amarni": {
+      "songs": {
+        "lex amarni - the kill 2": {
+          "title": "the kill 2",
+          "cover": "covers/lex_amarni__the_kill_2.jpg",
+          "history": [
+            {
+              "week": "2026-06-11",
+              "rank": 12,
+              "points": 96.5,
+              "listeners": 8
+            },
+            {
+              "week": "2026-06-18",
+              "rank": 6,
+              "points": 110.5,
+              "listeners": 12
+            },
+            {
+              "week": "2026-06-25",
+              "rank": 46,
+              "points": 64.5,
+              "listeners": 10
+            }
+          ],
+          "peak": 6,
+          "weeks": 3
+        }
+      }
+    },
+    "chrmbchrmb": {
+      "songs": {
+        "chrmbchrmb - matrix (bl studio loop)": {
+          "title": "matrix (BL studio loop)",
+          "cover": "covers/chrmbchrmb__matrix_bl_studio_loop.png",
+          "history": [
+            {
+              "week": "2026-06-11",
+              "rank": 13,
+              "points": 96.0,
+              "listeners": 10
+            },
+            {
+              "week": "2026-06-18",
+              "rank": 8,
+              "points": 102.0,
+              "listeners": 14
+            },
+            {
+              "week": "2026-06-25",
+              "rank": 30,
+              "points": 76.5,
+              "listeners": 11
+            },
+            {
+              "week": "2026-07-09",
+              "rank": 23,
+              "points": 70.0,
+              "listeners": 13
+            }
+          ],
+          "peak": 8,
+          "weeks": 4
+        }
+      }
+    },
+    "Sidney Gish": {
+      "songs": {
+        "sidney gish - impostor syndrome": {
+          "title": "Impostor Syndrome",
+          "cover": "covers/sidney_gish__impostor_syndrome.png",
+          "history": [
+            {
+              "week": "2026-06-11",
+              "rank": 14,
+              "points": 90.0,
+              "listeners": 22
+            },
+            {
+              "week": "2026-06-18",
+              "rank": 3,
+              "points": 139.0,
+              "listeners": 23
+            },
+            {
+              "week": "2026-06-25",
+              "rank": 22,
+              "points": 94.0,
+              "listeners": 21
+            },
+            {
+              "week": "2026-07-02",
+              "rank": 6,
+              "points": 128.5,
+              "listeners": 27
+            },
+            {
+              "week": "2026-07-09",
+              "rank": 11,
+              "points": 86.5,
+              "listeners": 18
+            }
+          ],
+          "peak": 3,
+          "weeks": 5
+        }
+      }
+    },
     "Cuntsniffer": {
       "songs": {
         "cuntsniffer - meant to be": {
@@ -241,31 +1511,4009 @@
           "cover": "covers/cuntsniffer__meant_to_be.jpg",
           "history": [
             {
-              "week": "2026-07-09",
-              "rank": 8,
-              "points": 99.0,
+              "week": "2026-06-11",
+              "rank": 15,
+              "points": 89.5,
+              "listeners": 9
+            },
+            {
+              "week": "2026-06-18",
+              "rank": 9,
+              "points": 99.5,
+              "listeners": 14
+            },
+            {
+              "week": "2026-06-25",
+              "rank": 11,
+              "points": 114.0,
               "listeners": 17
+            },
+            {
+              "week": "2026-07-02",
+              "rank": 7,
+              "points": 103.5,
+              "listeners": 20
+            },
+            {
+              "week": "2026-07-09",
+              "rank": 7,
+              "points": 103.0,
+              "listeners": 18
             }
           ],
-          "peak": 8,
+          "peak": 7,
+          "weeks": 5
+        }
+      }
+    },
+    "PIXY": {
+      "songs": {
+        "pixy - legacy": {
+          "title": "LEGACY",
+          "cover": "covers/pixy__legacy.jpg",
+          "history": [
+            {
+              "week": "2026-06-11",
+              "rank": 17,
+              "points": 83.5,
+              "listeners": 8
+            }
+          ],
+          "peak": 17,
           "weeks": 1
         }
       }
     },
-    "That Handsome Devil": {
+    "Laufey": {
       "songs": {
-        "that handsome devil - charlie's inferno": {
-          "title": "Charlie's Inferno",
-          "cover": "covers/that_handsome_devil__charlie_s_inferno.png",
+        "laufey - too little, too late": {
+          "title": "Too Little, Too Late",
+          "cover": "covers/laufey__too_little_too_late.png",
           "history": [
             {
+              "week": "2026-06-11",
+              "rank": 18,
+              "points": 80.0,
+              "listeners": 16
+            },
+            {
+              "week": "2026-06-18",
+              "rank": 44,
+              "points": 60.0,
+              "listeners": 13
+            },
+            {
+              "week": "2026-06-25",
+              "rank": 72,
+              "points": 54.0,
+              "listeners": 12
+            },
+            {
+              "week": "2026-07-02",
+              "rank": 99,
+              "points": 50.5,
+              "listeners": 11
+            },
+            {
               "week": "2026-07-09",
-              "rank": 9,
-              "points": 96.0,
+              "rank": 46,
+              "points": 60.5,
+              "listeners": 9
+            }
+          ],
+          "peak": 18,
+          "weeks": 5
+        },
+        "laufey - from the start": {
+          "title": "From the Start",
+          "cover": "covers/laufey__from_the_start.png",
+          "history": [
+            {
+              "week": "2026-06-11",
+              "rank": 19,
+              "points": 79.5,
+              "listeners": 19
+            },
+            {
+              "week": "2026-07-02",
+              "rank": 83,
+              "points": 52.5,
+              "listeners": 17
+            }
+          ],
+          "peak": 19,
+          "weeks": 2
+        },
+        "laufey - lover girl": {
+          "title": "Lover Girl",
+          "cover": "covers/laufey__lover_girl.png",
+          "history": [
+            {
+              "week": "2026-06-11",
+              "rank": 80,
+              "points": 49.5,
+              "listeners": 14
+            },
+            {
+              "week": "2026-06-18",
+              "rank": 90,
+              "points": 51.5,
+              "listeners": 14
+            },
+            {
+              "week": "2026-06-25",
+              "rank": 56,
+              "points": 59.5,
+              "listeners": 16
+            },
+            {
+              "week": "2026-07-02",
+              "rank": 31,
+              "points": 68.0,
+              "listeners": 16
+            }
+          ],
+          "peak": 31,
+          "weeks": 4
+        }
+      }
+    },
+    "Foo Fighters": {
+      "songs": {
+        "foo fighters - everlong": {
+          "title": "Everlong",
+          "cover": "covers/foo_fighters__everlong.png",
+          "history": [
+            {
+              "week": "2026-06-11",
+              "rank": 21,
+              "points": 76.5,
+              "listeners": 15
+            },
+            {
+              "week": "2026-06-18",
+              "rank": 15,
+              "points": 85.5,
+              "listeners": 16
+            },
+            {
+              "week": "2026-07-02",
+              "rank": 40,
+              "points": 64.0,
+              "listeners": 13
+            },
+            {
+              "week": "2026-07-09",
+              "rank": 16,
+              "points": 77.0,
+              "listeners": 18
+            }
+          ],
+          "peak": 15,
+          "weeks": 4
+        }
+      }
+    },
+    "Steve Lacy": {
+      "songs": {
+        "steve lacy - the feeling": {
+          "title": "The Feeling",
+          "cover": "covers/steve_lacy__the_feeling.png",
+          "history": [
+            {
+              "week": "2026-06-11",
+              "rank": 22,
+              "points": 76.0,
+              "listeners": 7
+            }
+          ],
+          "peak": 22,
+          "weeks": 1
+        },
+        "steve lacy - bad habit": {
+          "title": "Bad Habit",
+          "cover": "covers/steve_lacy__bad_habit.png",
+          "history": [
+            {
+              "week": "2026-06-11",
+              "rank": 40,
+              "points": 60.5,
+              "listeners": 14
+            },
+            {
+              "week": "2026-06-18",
+              "rank": 36,
+              "points": 63.5,
+              "listeners": 13
+            },
+            {
+              "week": "2026-06-25",
+              "rank": 21,
+              "points": 94.5,
+              "listeners": 19
+            },
+            {
+              "week": "2026-07-02",
+              "rank": 11,
+              "points": 89.0,
+              "listeners": 17
+            }
+          ],
+          "peak": 11,
+          "weeks": 4
+        },
+        "steve lacy - dark red": {
+          "title": "Dark Red",
+          "cover": "covers/steve_lacy__dark_red.png",
+          "history": [
+            {
+              "week": "2026-06-11",
+              "rank": 82,
+              "points": 49.5,
+              "listeners": 11
+            },
+            {
+              "week": "2026-07-09",
+              "rank": 96,
+              "points": 50.0,
+              "listeners": 10
+            }
+          ],
+          "peak": 82,
+          "weeks": 2
+        }
+      }
+    },
+    "Daniel Caesar": {
+      "songs": {
+        "daniel caesar - superpowers": {
+          "title": "Superpowers",
+          "cover": "covers/daniel_caesar__superpowers.png",
+          "history": [
+            {
+              "week": "2026-06-11",
+              "rank": 24,
+              "points": 74.0,
+              "listeners": 9
+            },
+            {
+              "week": "2026-06-18",
+              "rank": 66,
+              "points": 56.5,
+              "listeners": 6
+            }
+          ],
+          "peak": 24,
+          "weeks": 2
+        }
+      }
+    },
+    "The Jackson 5": {
+      "songs": {
+        "the jackson 5 - i want you back": {
+          "title": "I Want You Back",
+          "cover": "covers/the_jackson_5__i_want_you_back.png",
+          "history": [
+            {
+              "week": "2026-06-11",
+              "rank": 27,
+              "points": 69.5,
+              "listeners": 8
+            }
+          ],
+          "peak": 27,
+          "weeks": 1
+        },
+        "the jackson 5 - abc": {
+          "title": "ABC",
+          "cover": "covers/the_jackson_5__abc.png",
+          "history": [
+            {
+              "week": "2026-06-18",
+              "rank": 80,
+              "points": 54.5,
+              "listeners": 4
+            }
+          ],
+          "peak": 80,
+          "weeks": 1
+        }
+      }
+    },
+    "AZALI": {
+      "songs": {
+        "azali - playful massacre": {
+          "title": "PLAYFUL MASSACRE",
+          "cover": "covers/azali__playful_massacre.png",
+          "history": [
+            {
+              "week": "2026-06-11",
+              "rank": 30,
+              "points": 67.5,
+              "listeners": 8
+            }
+          ],
+          "peak": 30,
+          "weeks": 1
+        },
+        "azali - battle under a broken sky": {
+          "title": "BATTLE UNDER A BROKEN SKY",
+          "cover": "covers/azali__battle_under_a_broken_sky.png",
+          "history": [
+            {
+              "week": "2026-06-11",
+              "rank": 50,
+              "points": 57.5,
+              "listeners": 4
+            }
+          ],
+          "peak": 50,
+          "weeks": 1
+        },
+        "azali - chaos construct": {
+          "title": "CHAOS CONSTRUCT",
+          "cover": "covers/azali__chaos_construct.png",
+          "history": [
+            {
+              "week": "2026-06-11",
+              "rank": 70,
+              "points": 51.5,
+              "listeners": 8
+            }
+          ],
+          "peak": 70,
+          "weeks": 1
+        }
+      }
+    },
+    "Matt Martians": {
+      "songs": {
+        "matt martians - an eater": {
+          "title": "An Eater",
+          "cover": "covers/matt_martians__an_eater.png",
+          "history": [
+            {
+              "week": "2026-06-11",
+              "rank": 32,
+              "points": 67.0,
+              "listeners": 9
+            },
+            {
+              "week": "2026-06-18",
+              "rank": 21,
+              "points": 76.0,
+              "listeners": 13
+            },
+            {
+              "week": "2026-06-25",
+              "rank": 61,
+              "points": 59.0,
+              "listeners": 11
+            },
+            {
+              "week": "2026-07-02",
+              "rank": 92,
+              "points": 51.0,
+              "listeners": 13
+            },
+            {
+              "week": "2026-07-09",
+              "rank": 36,
+              "points": 64.0,
+              "listeners": 9
+            }
+          ],
+          "peak": 21,
+          "weeks": 5
+        }
+      }
+    },
+    "King Gnu": {
+      "songs": {
+        "king gnu - aizo": {
+          "title": "AIZO",
+          "cover": "covers/king_gnu__aizo.png",
+          "history": [
+            {
+              "week": "2026-06-11",
+              "rank": 34,
+              "points": 65.0,
+              "listeners": 9
+            },
+            {
+              "week": "2026-06-18",
+              "rank": 73,
+              "points": 56.0,
+              "listeners": 6
+            },
+            {
+              "week": "2026-07-09",
+              "rank": 61,
+              "points": 57.5,
+              "listeners": 7
+            }
+          ],
+          "peak": 34,
+          "weeks": 3
+        }
+      }
+    },
+    "Joey Valence & Brae": {
+      "songs": {
+        "joey valence & brae - punk tactics": {
+          "title": "PUNK TACTICS",
+          "cover": "covers/joey_valence_brae__punk_tactics.png",
+          "history": [
+            {
+              "week": "2026-06-11",
+              "rank": 35,
+              "points": 64.0,
+              "listeners": 6
+            },
+            {
+              "week": "2026-06-18",
+              "rank": 77,
+              "points": 54.5,
+              "listeners": 9
+            }
+          ],
+          "peak": 35,
+          "weeks": 2
+        }
+      }
+    },
+    "Tame Impala": {
+      "songs": {
+        "tame impala - dracula": {
+          "title": "Dracula",
+          "cover": "covers/tame_impala__dracula.png",
+          "history": [
+            {
+              "week": "2026-06-11",
+              "rank": 36,
+              "points": 61.5,
+              "listeners": 13
+            },
+            {
+              "week": "2026-06-18",
+              "rank": 60,
+              "points": 57.5,
+              "listeners": 8
+            },
+            {
+              "week": "2026-06-25",
+              "rank": 44,
+              "points": 65.0,
+              "listeners": 12
+            }
+          ],
+          "peak": 36,
+          "weeks": 3
+        },
+        "tame impala - the less i know the better": {
+          "title": "The Less I Know the Better",
+          "cover": "covers/tame_impala__the_less_i_know_the_better.png",
+          "history": [
+            {
+              "week": "2026-06-11",
+              "rank": 63,
+              "points": 53.0,
+              "listeners": 11
+            },
+            {
+              "week": "2026-06-18",
+              "rank": 42,
+              "points": 61.0,
+              "listeners": 14
+            },
+            {
+              "week": "2026-07-02",
+              "rank": 35,
+              "points": 66.0,
+              "listeners": 16
+            },
+            {
+              "week": "2026-07-09",
+              "rank": 52,
+              "points": 59.0,
+              "listeners": 15
+            }
+          ],
+          "peak": 35,
+          "weeks": 4
+        },
+        "tame impala - new person, same old mistakes": {
+          "title": "New Person, Same Old Mistakes",
+          "cover": "covers/tame_impala__new_person_same_old_mistakes.png",
+          "history": [
+            {
+              "week": "2026-07-02",
+              "rank": 98,
+              "points": 50.5,
+              "listeners": 13
+            },
+            {
+              "week": "2026-07-09",
+              "rank": 50,
+              "points": 59.5,
+              "listeners": 9
+            }
+          ],
+          "peak": 50,
+          "weeks": 2
+        }
+      }
+    },
+    "Lustra": {
+      "songs": {
+        "lustra - scotty doesn't know": {
+          "title": "Scotty Doesn't Know",
+          "cover": "covers/lustra__scotty_doesn_t_know.png",
+          "history": [
+            {
+              "week": "2026-06-11",
+              "rank": 37,
+              "points": 61.5,
+              "listeners": 11
+            }
+          ],
+          "peak": 37,
+          "weeks": 1
+        }
+      }
+    },
+    "Buckshot": {
+      "songs": {
+        "buckshot - fever": {
+          "title": "fever",
+          "cover": "covers/buckshot__fever.png",
+          "history": [
+            {
+              "week": "2026-06-11",
+              "rank": 41,
+              "points": 60.5,
+              "listeners": 9
+            },
+            {
+              "week": "2026-06-18",
+              "rank": 47,
+              "points": 59.5,
+              "listeners": 16
+            },
+            {
+              "week": "2026-06-25",
+              "rank": 85,
+              "points": 51.0,
+              "listeners": 10
+            },
+            {
+              "week": "2026-07-02",
+              "rank": 29,
+              "points": 69.0,
+              "listeners": 10
+            },
+            {
+              "week": "2026-07-09",
+              "rank": 95,
+              "points": 50.0,
+              "listeners": 10
+            }
+          ],
+          "peak": 29,
+          "weeks": 5
+        }
+      }
+    },
+    "The Living Tombstone": {
+      "songs": {
+        "the living tombstone - it's been so long": {
+          "title": "It's Been So Long",
+          "cover": "covers/the_living_tombstone__it_s_been_so_long.png",
+          "history": [
+            {
+              "week": "2026-06-11",
+              "rank": 42,
+              "points": 60.0,
+              "listeners": 14
+            },
+            {
+              "week": "2026-06-18",
+              "rank": 68,
+              "points": 56.0,
+              "listeners": 13
+            },
+            {
+              "week": "2026-07-09",
+              "rank": 17,
+              "points": 75.5,
               "listeners": 14
             }
           ],
+          "peak": 17,
+          "weeks": 3
+        },
+        "the living tombstone - my ordinary life": {
+          "title": "My Ordinary Life",
+          "cover": "covers/the_living_tombstone__my_ordinary_life.png",
+          "history": [
+            {
+              "week": "2026-06-11",
+              "rank": 52,
+              "points": 56.5,
+              "listeners": 15
+            },
+            {
+              "week": "2026-06-25",
+              "rank": 36,
+              "points": 72.5,
+              "listeners": 17
+            },
+            {
+              "week": "2026-07-02",
+              "rank": 20,
+              "points": 74.5,
+              "listeners": 18
+            },
+            {
+              "week": "2026-07-09",
+              "rank": 28,
+              "points": 66.5,
+              "listeners": 13
+            }
+          ],
+          "peak": 20,
+          "weeks": 4
+        },
+        "the living tombstone - i can't fix you": {
+          "title": "I Can't Fix You",
+          "cover": "covers/the_living_tombstone__i_can_t_fix_you.jpg",
+          "history": [
+            {
+              "week": "2026-06-11",
+              "rank": 81,
+              "points": 49.5,
+              "listeners": 13
+            },
+            {
+              "week": "2026-07-09",
+              "rank": 45,
+              "points": 60.5,
+              "listeners": 10
+            }
+          ],
+          "peak": 45,
+          "weeks": 2
+        },
+        "the living tombstone - five nights at freddy's": {
+          "title": "Five Nights at Freddy's",
+          "cover": "covers/the_living_tombstone__five_nights_at_freddy_s.png",
+          "history": [
+            {
+              "week": "2026-06-11",
+              "rank": 95,
+              "points": 48.0,
+              "listeners": 6
+            }
+          ],
+          "peak": 95,
+          "weeks": 1
+        },
+        "the living tombstone - discord": {
+          "title": "Discord",
+          "cover": "covers/the_living_tombstone__discord.png",
+          "history": [
+            {
+              "week": "2026-06-18",
+              "rank": 87,
+              "points": 52.5,
+              "listeners": 11
+            }
+          ],
+          "peak": 87,
+          "weeks": 1
+        },
+        "the living tombstone - i can't fix you (feat. crusher-p)": {
+          "title": "I Can't Fix You (feat. Crusher-P)",
+          "cover": "covers/the_living_tombstone__i_can_t_fix_you_feat_crusher_p.jpg",
+          "history": [
+            {
+              "week": "2026-07-02",
+              "rank": 21,
+              "points": 74.0,
+              "listeners": 10
+            }
+          ],
+          "peak": 21,
+          "weeks": 1
+        }
+      }
+    },
+    "Gwen Stefani": {
+      "songs": {
+        "gwen stefani - bubble pop electric": {
+          "title": "Bubble Pop Electric",
+          "cover": "covers/gwen_stefani__bubble_pop_electric.png",
+          "history": [
+            {
+              "week": "2026-06-11",
+              "rank": 44,
+              "points": 60.0,
+              "listeners": 11
+            }
+          ],
+          "peak": 44,
+          "weeks": 1
+        }
+      }
+    },
+    "Ravyn Lenae": {
+      "songs": {
+        "ravyn lenae - love me not": {
+          "title": "Love Me Not",
+          "cover": "covers/ravyn_lenae__love_me_not.png",
+          "history": [
+            {
+              "week": "2026-06-11",
+              "rank": 45,
+              "points": 59.0,
+              "listeners": 14
+            },
+            {
+              "week": "2026-07-02",
+              "rank": 41,
+              "points": 63.5,
+              "listeners": 16
+            },
+            {
+              "week": "2026-07-09",
+              "rank": 57,
+              "points": 58.0,
+              "listeners": 16
+            }
+          ],
+          "peak": 41,
+          "weeks": 3
+        }
+      }
+    },
+    "Chris Rainbow": {
+      "songs": {
+        "chris rainbow - be like a woman": {
+          "title": "Be Like a Woman",
+          "cover": "covers/chris_rainbow__be_like_a_woman.png",
+          "history": [
+            {
+              "week": "2026-06-11",
+              "rank": 46,
+              "points": 58.5,
+              "listeners": 11
+            }
+          ],
+          "peak": 46,
+          "weeks": 1
+        }
+      }
+    },
+    "beabadoobee": {
+      "songs": {
+        "beabadoobee - the perfect pair": {
+          "title": "the perfect pair",
+          "cover": "covers/beabadoobee__the_perfect_pair.png",
+          "history": [
+            {
+              "week": "2026-06-11",
+              "rank": 47,
+              "points": 58.5,
+              "listeners": 10
+            }
+          ],
+          "peak": 47,
+          "weeks": 1
+        }
+      }
+    },
+    "Original Mix - Weezer": {
+      "songs": {
+        "original mix - weezer - say it ain't so": {
+          "title": "Say It Ain't So",
+          "cover": "covers/original_mix_weezer__say_it_ain_t_so.jpg",
+          "history": [
+            {
+              "week": "2026-06-11",
+              "rank": 48,
+              "points": 57.5,
+              "listeners": 12
+            },
+            {
+              "week": "2026-06-18",
+              "rank": 56,
+              "points": 58.0,
+              "listeners": 14
+            }
+          ],
+          "peak": 48,
+          "weeks": 2
+        }
+      }
+    },
+    "TV Girl": {
+      "songs": {
+        "tv girl - cigarettes out the window": {
+          "title": "Cigarettes out the Window",
+          "cover": "covers/tv_girl__cigarettes_out_the_window.png",
+          "history": [
+            {
+              "week": "2026-06-11",
+              "rank": 49,
+              "points": 57.5,
+              "listeners": 11
+            }
+          ],
+          "peak": 49,
+          "weeks": 1
+        },
+        "tv girl - the blonde": {
+          "title": "The Blonde",
+          "cover": "covers/tv_girl__the_blonde.png",
+          "history": [
+            {
+              "week": "2026-06-18",
+              "rank": 27,
+              "points": 69.5,
+              "listeners": 12
+            },
+            {
+              "week": "2026-07-09",
+              "rank": 98,
+              "points": 49.5,
+              "listeners": 12
+            }
+          ],
+          "peak": 27,
+          "weeks": 2
+        },
+        "tv girl - blue hair": {
+          "title": "Blue Hair",
+          "cover": "covers/tv_girl__blue_hair.png",
+          "history": [
+            {
+              "week": "2026-06-18",
+              "rank": 69,
+              "points": 56.0,
+              "listeners": 12
+            }
+          ],
+          "peak": 69,
+          "weeks": 1
+        },
+        "tv girl - not allowed": {
+          "title": "Not Allowed",
+          "cover": "covers/tv_girl__not_allowed.png",
+          "history": [
+            {
+              "week": "2026-06-25",
+              "rank": 37,
+              "points": 71.0,
+              "listeners": 15
+            },
+            {
+              "week": "2026-07-02",
+              "rank": 16,
+              "points": 79.0,
+              "listeners": 18
+            }
+          ],
+          "peak": 16,
+          "weeks": 2
+        },
+        "tv girl - taking what's not yours": {
+          "title": "Taking What's Not Yours",
+          "cover": "covers/tv_girl__taking_what_s_not_yours.png",
+          "history": [
+            {
+              "week": "2026-06-25",
+              "rank": 95,
+              "points": 48.5,
+              "listeners": 13
+            },
+            {
+              "week": "2026-07-02",
+              "rank": 33,
+              "points": 67.5,
+              "listeners": 15
+            },
+            {
+              "week": "2026-07-09",
+              "rank": 29,
+              "points": 66.0,
+              "listeners": 19
+            }
+          ],
+          "peak": 29,
+          "weeks": 3
+        },
+        "tv girl - lovers rock": {
+          "title": "Lovers Rock",
+          "cover": "covers/tv_girl__lovers_rock.png",
+          "history": [
+            {
+              "week": "2026-07-02",
+              "rank": 39,
+              "points": 64.0,
+              "listeners": 22
+            },
+            {
+              "week": "2026-07-09",
+              "rank": 44,
+              "points": 60.5,
+              "listeners": 20
+            }
+          ],
+          "peak": 39,
+          "weeks": 2
+        }
+      }
+    },
+    "GROUNDBREAKING": {
+      "songs": {
+        "groundbreaking - the bonnie song": {
+          "title": "The Bonnie Song",
+          "cover": "covers/groundbreaking__the_bonnie_song.png",
+          "history": [
+            {
+              "week": "2026-06-11",
+              "rank": 51,
+              "points": 57.0,
+              "listeners": 7
+            }
+          ],
+          "peak": 51,
+          "weeks": 1
+        },
+        "groundbreaking - the bonnie song (remastered)": {
+          "title": "The Bonnie Song (Remastered)",
+          "cover": "covers/groundbreaking__the_bonnie_song_remastered.jpg",
+          "history": [
+            {
+              "week": "2026-06-18",
+              "rank": 83,
+              "points": 53.0,
+              "listeners": 6
+            }
+          ],
+          "peak": 83,
+          "weeks": 1
+        }
+      }
+    },
+    "Panchiko": {
+      "songs": {
+        "panchiko - d>e>a>t>h>m>e>t>a>l": {
+          "title": "D>E>A>T>H>M>E>T>A>L",
+          "cover": "covers/panchiko__d_e_a_t_h_m_e_t_a_l.png",
+          "history": [
+            {
+              "week": "2026-06-11",
+              "rank": 53,
+              "points": 56.5,
+              "listeners": 7
+            },
+            {
+              "week": "2026-06-18",
+              "rank": 32,
+              "points": 66.0,
+              "listeners": 12
+            },
+            {
+              "week": "2026-07-02",
+              "rank": 55,
+              "points": 59.0,
+              "listeners": 17
+            },
+            {
+              "week": "2026-07-09",
+              "rank": 100,
+              "points": 49.0,
+              "listeners": 13
+            }
+          ],
+          "peak": 32,
+          "weeks": 4
+        },
+        "panchiko - laputa": {
+          "title": "Laputa",
+          "cover": "covers/panchiko__laputa.png",
+          "history": [
+            {
+              "week": "2026-06-25",
+              "rank": 53,
+              "points": 61.0,
+              "listeners": 11
+            }
+          ],
+          "peak": 53,
+          "weeks": 1
+        }
+      }
+    },
+    "The Marías": {
+      "songs": {
+        "the marías - no one noticed": {
+          "title": "No One Noticed",
+          "cover": "covers/the_mar_as__no_one_noticed.png",
+          "history": [
+            {
+              "week": "2026-06-11",
+              "rank": 54,
+              "points": 56.0,
+              "listeners": 19
+            },
+            {
+              "week": "2026-07-09",
+              "rank": 47,
+              "points": 60.0,
+              "listeners": 24
+            }
+          ],
+          "peak": 47,
+          "weeks": 2
+        },
+        "the marías - sienna": {
+          "title": "Sienna",
+          "cover": "covers/the_mar_as__sienna.png",
+          "history": [
+            {
+              "week": "2026-07-02",
+              "rank": 81,
+              "points": 53.0,
+              "listeners": 13
+            }
+          ],
+          "peak": 81,
+          "weeks": 1
+        }
+      }
+    },
+    "Lil Peep": {
+      "songs": {
+        "lil peep - nuts": {
+          "title": "nuts",
+          "cover": "covers/lil_peep__nuts.png",
+          "history": [
+            {
+              "week": "2026-06-11",
+              "rank": 55,
+              "points": 56.0,
+              "listeners": 8
+            }
+          ],
+          "peak": 55,
+          "weeks": 1
+        }
+      }
+    },
+    "Glass Animals": {
+      "songs": {
+        "glass animals - take a slice": {
+          "title": "Take A Slice",
+          "cover": "covers/glass_animals__take_a_slice.png",
+          "history": [
+            {
+              "week": "2026-06-11",
+              "rank": 56,
+              "points": 55.0,
+              "listeners": 9
+            }
+          ],
+          "peak": 56,
+          "weeks": 1
+        }
+      }
+    },
+    "PinkPantheress": {
+      "songs": {
+        "pinkpantheress - girl like me": {
+          "title": "Girl Like Me",
+          "cover": "covers/pinkpantheress__girl_like_me.png",
+          "history": [
+            {
+              "week": "2026-06-11",
+              "rank": 58,
+              "points": 54.0,
+              "listeners": 10
+            },
+            {
+              "week": "2026-06-18",
+              "rank": 43,
+              "points": 61.0,
+              "listeners": 12
+            },
+            {
+              "week": "2026-07-02",
+              "rank": 44,
+              "points": 62.0,
+              "listeners": 12
+            },
+            {
+              "week": "2026-07-09",
+              "rank": 81,
+              "points": 53.0,
+              "listeners": 10
+            }
+          ],
+          "peak": 43,
+          "weeks": 4
+        },
+        "pinkpantheress - stateside + zara larsson": {
+          "title": "Stateside + Zara Larsson",
+          "cover": "covers/pinkpantheress__stateside_zara_larsson.jpg",
+          "history": [
+            {
+              "week": "2026-06-11",
+              "rank": 68,
+              "points": 52.0,
+              "listeners": 12
+            },
+            {
+              "week": "2026-06-18",
+              "rank": 40,
+              "points": 62.5,
+              "listeners": 17
+            },
+            {
+              "week": "2026-06-25",
+              "rank": 27,
+              "points": 82.0,
+              "listeners": 17
+            },
+            {
+              "week": "2026-07-09",
+              "rank": 22,
+              "points": 70.5,
+              "listeners": 16
+            }
+          ],
+          "peak": 22,
+          "weeks": 4
+        }
+      }
+    },
+    "Dominic Fike": {
+      "songs": {
+        "dominic fike - babydoll": {
+          "title": "Babydoll",
+          "cover": "covers/dominic_fike__babydoll.png",
+          "history": [
+            {
+              "week": "2026-06-11",
+              "rank": 60,
+              "points": 53.5,
+              "listeners": 18
+            },
+            {
+              "week": "2026-07-02",
+              "rank": 52,
+              "points": 59.5,
+              "listeners": 17
+            },
+            {
+              "week": "2026-07-09",
+              "rank": 5,
+              "points": 126.5,
+              "listeners": 25
+            }
+          ],
+          "peak": 5,
+          "weeks": 3
+        }
+      }
+    },
+    "My Chemical Romance": {
+      "songs": {
+        "my chemical romance - famous last words": {
+          "title": "Famous Last Words",
+          "cover": "covers/my_chemical_romance__famous_last_words.png",
+          "history": [
+            {
+              "week": "2026-06-11",
+              "rank": 66,
+              "points": 52.5,
+              "listeners": 6
+            }
+          ],
+          "peak": 66,
+          "weeks": 1
+        },
+        "my chemical romance - helena": {
+          "title": "Helena",
+          "cover": "covers/my_chemical_romance__helena.png",
+          "history": [
+            {
+              "week": "2026-06-18",
+              "rank": 74,
+              "points": 55.5,
+              "listeners": 10
+            }
+          ],
+          "peak": 74,
+          "weeks": 1
+        }
+      }
+    },
+    "CORTIS": {
+      "songs": {
+        "cortis - redred": {
+          "title": "REDRED",
+          "cover": "covers/cortis__redred.png",
+          "history": [
+            {
+              "week": "2026-06-11",
+              "rank": 67,
+              "points": 52.5,
+              "listeners": 4
+            }
+          ],
+          "peak": 67,
+          "weeks": 1
+        }
+      }
+    },
+    "duskydemise": {
+      "songs": {
+        "duskydemise - bedrott": {
+          "title": "bedrott",
+          "cover": "covers/duskydemise__bedrott.jpg",
+          "history": [
+            {
+              "week": "2026-06-11",
+              "rank": 69,
+              "points": 52.0,
+              "listeners": 9
+            },
+            {
+              "week": "2026-06-18",
+              "rank": 20,
+              "points": 76.0,
+              "listeners": 19
+            },
+            {
+              "week": "2026-06-25",
+              "rank": 29,
+              "points": 76.5,
+              "listeners": 15
+            },
+            {
+              "week": "2026-07-02",
+              "rank": 9,
+              "points": 97.5,
+              "listeners": 24
+            },
+            {
+              "week": "2026-07-09",
+              "rank": 13,
+              "points": 82.5,
+              "listeners": 25
+            }
+          ],
           "peak": 9,
+          "weeks": 5
+        }
+      }
+    },
+    "Corbon Amodio": {
+      "songs": {
+        "corbon amodio - lucy~": {
+          "title": "lucy~",
+          "cover": "covers/corbon_amodio__lucy.png",
+          "history": [
+            {
+              "week": "2026-06-11",
+              "rank": 71,
+              "points": 51.5,
+              "listeners": 7
+            },
+            {
+              "week": "2026-07-02",
+              "rank": 42,
+              "points": 63.0,
+              "listeners": 9
+            },
+            {
+              "week": "2026-07-09",
+              "rank": 86,
+              "points": 52.0,
+              "listeners": 10
+            }
+          ],
+          "peak": 42,
+          "weeks": 3
+        }
+      }
+    },
+    "C418": {
+      "songs": {
+        "c418 - subwoofer lullaby": {
+          "title": "Subwoofer Lullaby",
+          "cover": "covers/c418__subwoofer_lullaby.png",
+          "history": [
+            {
+              "week": "2026-06-11",
+              "rank": 72,
+              "points": 51.0,
+              "listeners": 8
+            }
+          ],
+          "peak": 72,
+          "weeks": 1
+        }
+      }
+    },
+    "Devi McCallion": {
+      "songs": {
+        "devi mccallion - i want things to be beautiful": {
+          "title": "I WANT THINGS TO BE BEAUTIFUL",
+          "cover": "covers/devi_mccallion__i_want_things_to_be_beautiful.png",
+          "history": [
+            {
+              "week": "2026-06-11",
+              "rank": 73,
+              "points": 50.5,
+              "listeners": 11
+            },
+            {
+              "week": "2026-07-02",
+              "rank": 53,
+              "points": 59.5,
+              "listeners": 16
+            }
+          ],
+          "peak": 53,
+          "weeks": 2
+        }
+      }
+    },
+    "Gorillaz": {
+      "songs": {
+        "gorillaz - clint eastwood": {
+          "title": "Clint Eastwood",
+          "cover": "covers/gorillaz__clint_eastwood.png",
+          "history": [
+            {
+              "week": "2026-06-11",
+              "rank": 74,
+              "points": 50.5,
+              "listeners": 7
+            }
+          ],
+          "peak": 74,
+          "weeks": 1
+        },
+        "gorillaz - feel good inc.": {
+          "title": "Feel Good Inc.",
+          "cover": "covers/gorillaz__feel_good_inc.png",
+          "history": [
+            {
+              "week": "2026-06-11",
+              "rank": 96,
+              "points": 47.5,
+              "listeners": 14
+            },
+            {
+              "week": "2026-06-18",
+              "rank": 17,
+              "points": 82.5,
+              "listeners": 17
+            }
+          ],
+          "peak": 17,
+          "weeks": 2
+        }
+      }
+    },
+    "K'naan": {
+      "songs": {
+        "k'naan - bang bang": {
+          "title": "Bang Bang",
+          "cover": "covers/k_naan__bang_bang.png",
+          "history": [
+            {
+              "week": "2026-06-11",
+              "rank": 77,
+              "points": 50.0,
+              "listeners": 8
+            },
+            {
+              "week": "2026-06-18",
+              "rank": 78,
+              "points": 54.5,
+              "listeners": 8
+            }
+          ],
+          "peak": 77,
+          "weeks": 2
+        }
+      }
+    },
+    "Alex G": {
+      "songs": {
+        "alex g - 16 mirrors": {
+          "title": "16 Mirrors",
+          "cover": "covers/alex_g__16_mirrors.png",
+          "history": [
+            {
+              "week": "2026-06-11",
+              "rank": 79,
+              "points": 50.0,
+              "listeners": 5
+            }
+          ],
+          "peak": 79,
+          "weeks": 1
+        },
+        "alex g - sarah": {
+          "title": "Sarah",
+          "cover": "covers/alex_g__sarah.png",
+          "history": [
+            {
+              "week": "2026-07-09",
+              "rank": 59,
+              "points": 57.5,
+              "listeners": 13
+            }
+          ],
+          "peak": 59,
+          "weeks": 1
+        }
+      }
+    },
+    "Toby Fox": {
+      "songs": {
+        "toby fox - big shot": {
+          "title": "BIG SHOT",
+          "cover": "covers/toby_fox__big_shot.png",
+          "history": [
+            {
+              "week": "2026-06-11",
+              "rank": 83,
+              "points": 49.5,
+              "listeners": 6
+            }
+          ],
+          "peak": 83,
+          "weeks": 1
+        },
+        "toby fox - cutie mew mew magic": {
+          "title": "Cutie Mew Mew Magic",
+          "cover": "covers/toby_fox__cutie_mew_mew_magic.jpg",
+          "history": [
+            {
+              "week": "2026-06-25",
+              "rank": 12,
+              "points": 113.0,
+              "listeners": 6
+            },
+            {
+              "week": "2026-07-02",
+              "rank": 1,
+              "points": 199.0,
+              "listeners": 14
+            },
+            {
+              "week": "2026-07-09",
+              "rank": 4,
+              "points": 134.0,
+              "listeners": 11
+            }
+          ],
+          "peak": 1,
+          "weeks": 3
+        },
+        "toby fox - the world revolving": {
+          "title": "THE WORLD REVOLVING",
+          "cover": "covers/toby_fox__the_world_revolving.png",
+          "history": [
+            {
+              "week": "2026-06-25",
+              "rank": 24,
+              "points": 91.0,
+              "listeners": 10
+            },
+            {
+              "week": "2026-07-02",
+              "rank": 22,
+              "points": 73.0,
+              "listeners": 10
+            }
+          ],
+          "peak": 22,
+          "weeks": 2
+        },
+        "toby fox - flower man": {
+          "title": "Flower Man",
+          "cover": "covers/toby_fox__flower_man.jpg",
+          "history": [
+            {
+              "week": "2026-06-25",
+              "rank": 25,
+              "points": 89.5,
+              "listeners": 7
+            },
+            {
+              "week": "2026-07-02",
+              "rank": 2,
+              "points": 179.0,
+              "listeners": 19
+            },
+            {
+              "week": "2026-07-09",
+              "rank": 8,
+              "points": 102.0,
+              "listeners": 14
+            }
+          ],
+          "peak": 2,
+          "weeks": 3
+        },
+        "toby fox - rude buster": {
+          "title": "Rude Buster",
+          "cover": "covers/toby_fox__rude_buster.png",
+          "history": [
+            {
+              "week": "2026-06-25",
+              "rank": 35,
+              "points": 73.0,
+              "listeners": 10
+            },
+            {
+              "week": "2026-07-02",
+              "rank": 59,
+              "points": 57.5,
+              "listeners": 13
+            },
+            {
+              "week": "2026-07-09",
+              "rank": 14,
+              "points": 81.0,
+              "listeners": 10
+            }
+          ],
+          "peak": 14,
+          "weeks": 3
+        },
+        "toby fox - sunset of seven suns": {
+          "title": "Sunset of Seven Suns",
+          "cover": "covers/toby_fox__sunset_of_seven_suns.png",
+          "history": [
+            {
+              "week": "2026-07-02",
+              "rank": 27,
+              "points": 69.5,
+              "listeners": 12
+            }
+          ],
+          "peak": 27,
+          "weeks": 1
+        },
+        "toby fox - running sky": {
+          "title": "Running Sky",
+          "cover": "covers/toby_fox__running_sky.png",
+          "history": [
+            {
+              "week": "2026-07-02",
+              "rank": 78,
+              "points": 54.0,
+              "listeners": 8
+            }
+          ],
+          "peak": 78,
+          "weeks": 1
+        },
+        "toby fox - black knife": {
+          "title": "Black Knife",
+          "cover": "covers/toby_fox__black_knife.png",
+          "history": [
+            {
+              "week": "2026-07-02",
+              "rank": 95,
+              "points": 51.0,
+              "listeners": 10
+            }
+          ],
+          "peak": 95,
+          "weeks": 1
+        }
+      }
+    },
+    "Electric Light Orchestra": {
+      "songs": {
+        "electric light orchestra - mr. blue sky": {
+          "title": "Mr. Blue Sky",
+          "cover": "covers/electric_light_orchestra__mr_blue_sky.png",
+          "history": [
+            {
+              "week": "2026-06-11",
+              "rank": 85,
+              "points": 49.0,
+              "listeners": 11
+            },
+            {
+              "week": "2026-07-09",
+              "rank": 82,
+              "points": 53.0,
+              "listeners": 9
+            }
+          ],
+          "peak": 82,
+          "weeks": 2
+        }
+      }
+    },
+    "Green Day": {
+      "songs": {
+        "green day - basket case": {
+          "title": "Basket Case",
+          "cover": "covers/green_day__basket_case.png",
+          "history": [
+            {
+              "week": "2026-06-11",
+              "rank": 86,
+              "points": 49.0,
+              "listeners": 10
+            }
+          ],
+          "peak": 86,
+          "weeks": 1
+        },
+        "green day - brain stew": {
+          "title": "Brain Stew",
+          "cover": "covers/green_day__brain_stew.png",
+          "history": [
+            {
+              "week": "2026-07-09",
+              "rank": 12,
+              "points": 83.0,
+              "listeners": 13
+            }
+          ],
+          "peak": 12,
+          "weeks": 1
+        }
+      }
+    },
+    "ultra slowed - LONOWN": {
+      "songs": {
+        "ultra slowed - lonown - worry": {
+          "title": "worry",
+          "cover": "covers/ultra_slowed_lonown__worry.jpg",
+          "history": [
+            {
+              "week": "2026-06-11",
+              "rank": 87,
+              "points": 49.0,
+              "listeners": 8
+            }
+          ],
+          "peak": 87,
+          "weeks": 1
+        }
+      }
+    },
+    "Jeff Buckley": {
+      "songs": {
+        "jeff buckley - lover, you should've come over": {
+          "title": "Lover, You Should've Come Over",
+          "cover": "covers/jeff_buckley__lover_you_should_ve_come_over.png",
+          "history": [
+            {
+              "week": "2026-06-11",
+              "rank": 88,
+              "points": 49.0,
+              "listeners": 6
+            }
+          ],
+          "peak": 88,
+          "weeks": 1
+        }
+      }
+    },
+    "Mitski": {
+      "songs": {
+        "mitski - washing machine heart": {
+          "title": "Washing Machine Heart",
+          "cover": "covers/mitski__washing_machine_heart.png",
+          "history": [
+            {
+              "week": "2026-06-11",
+              "rank": 89,
+              "points": 48.5,
+              "listeners": 12
+            },
+            {
+              "week": "2026-06-18",
+              "rank": 88,
+              "points": 52.5,
+              "listeners": 10
+            },
+            {
+              "week": "2026-07-09",
+              "rank": 84,
+              "points": 52.5,
+              "listeners": 11
+            }
+          ],
+          "peak": 84,
+          "weeks": 3
+        }
+      }
+    },
+    "Vince Staples": {
+      "songs": {
+        "vince staples - blackberry marmalade": {
+          "title": "Blackberry Marmalade",
+          "cover": "covers/vince_staples__blackberry_marmalade.png",
+          "history": [
+            {
+              "week": "2026-06-11",
+              "rank": 90,
+              "points": 48.5,
+              "listeners": 4
+            }
+          ],
+          "peak": 90,
+          "weeks": 1
+        }
+      }
+    },
+    "2012 Remaster - Michael Jackson": {
+      "songs": {
+        "2012 remaster - michael jackson - smooth criminal": {
+          "title": "Smooth Criminal",
+          "cover": "covers/2012_remaster_michael_jackson__smooth_criminal.jpg",
+          "history": [
+            {
+              "week": "2026-06-11",
+              "rank": 92,
+              "points": 48.0,
+              "listeners": 14
+            }
+          ],
+          "peak": 92,
+          "weeks": 1
+        },
+        "2012 remaster - michael jackson - bad": {
+          "title": "Bad",
+          "cover": "covers/2012_remaster_michael_jackson__bad.jpg",
+          "history": [
+            {
+              "week": "2026-07-02",
+              "rank": 26,
+              "points": 72.0,
+              "listeners": 10
+            }
+          ],
+          "peak": 26,
+          "weeks": 1
+        }
+      }
+    },
+    "TLC": {
+      "songs": {
+        "tlc - no scrubs": {
+          "title": "No Scrubs",
+          "cover": "covers/tlc__no_scrubs.png",
+          "history": [
+            {
+              "week": "2026-06-11",
+              "rank": 93,
+              "points": 48.0,
+              "listeners": 9
+            },
+            {
+              "week": "2026-06-18",
+              "rank": 96,
+              "points": 50.0,
+              "listeners": 10
+            }
+          ],
+          "peak": 93,
+          "weeks": 2
+        }
+      }
+    },
+    "Axie": {
+      "songs": {
+        "axie - terrible things": {
+          "title": "TERRIBLE THINGS",
+          "cover": "covers/axie__terrible_things.png",
+          "history": [
+            {
+              "week": "2026-06-11",
+              "rank": 94,
+              "points": 48.0,
+              "listeners": 8
+            }
+          ],
+          "peak": 94,
+          "weeks": 1
+        }
+      }
+    },
+    "Wheatus": {
+      "songs": {
+        "wheatus - teenage dirtbag": {
+          "title": "Teenage Dirtbag",
+          "cover": "covers/wheatus__teenage_dirtbag.png",
+          "history": [
+            {
+              "week": "2026-06-11",
+              "rank": 97,
+              "points": 47.5,
+              "listeners": 13
+            },
+            {
+              "week": "2026-07-02",
+              "rank": 88,
+              "points": 52.0,
+              "listeners": 10
+            }
+          ],
+          "peak": 88,
+          "weeks": 2
+        }
+      }
+    },
+    "The Neighbourhood": {
+      "songs": {
+        "the neighbourhood - sweater weather": {
+          "title": "Sweater Weather",
+          "cover": "covers/the_neighbourhood__sweater_weather.png",
+          "history": [
+            {
+              "week": "2026-06-11",
+              "rank": 98,
+              "points": 47.5,
+              "listeners": 11
+            }
+          ],
+          "peak": 98,
+          "weeks": 1
+        }
+      }
+    },
+    "Cigarettes After Sex": {
+      "songs": {
+        "cigarettes after sex - apocalypse": {
+          "title": "Apocalypse",
+          "cover": "covers/cigarettes_after_sex__apocalypse.png",
+          "history": [
+            {
+              "week": "2026-06-11",
+              "rank": 99,
+              "points": 47.5,
+              "listeners": 9
+            }
+          ],
+          "peak": 99,
+          "weeks": 1
+        }
+      }
+    },
+    "Two Door Cinema Club": {
+      "songs": {
+        "two door cinema club - what you know": {
+          "title": "What You Know",
+          "cover": "covers/two_door_cinema_club__what_you_know.png",
+          "history": [
+            {
+              "week": "2026-06-11",
+              "rank": 100,
+              "points": 47.5,
+              "listeners": 4
+            },
+            {
+              "week": "2026-06-18",
+              "rank": 92,
+              "points": 51.0,
+              "listeners": 5
+            }
+          ],
+          "peak": 92,
+          "weeks": 2
+        }
+      }
+    },
+    "Oliver Tree": {
+      "songs": {
+        "oliver tree - life goes on": {
+          "title": "Life Goes On",
+          "cover": "covers/oliver_tree__life_goes_on.png",
+          "history": [
+            {
+              "week": "2026-06-18",
+              "rank": 4,
+              "points": 131.0,
+              "listeners": 20
+            },
+            {
+              "week": "2026-07-02",
+              "rank": 28,
+              "points": 69.5,
+              "listeners": 10
+            }
+          ],
+          "peak": 4,
+          "weeks": 2
+        },
+        "oliver tree - alien boy": {
+          "title": "Alien Boy",
+          "cover": "covers/oliver_tree__alien_boy.png",
+          "history": [
+            {
+              "week": "2026-06-18",
+              "rank": 14,
+              "points": 89.0,
+              "listeners": 14
+            },
+            {
+              "week": "2026-06-25",
+              "rank": 20,
+              "points": 95.0,
+              "listeners": 13
+            },
+            {
+              "week": "2026-07-02",
+              "rank": 25,
+              "points": 72.0,
+              "listeners": 11
+            },
+            {
+              "week": "2026-07-09",
+              "rank": 25,
+              "points": 69.5,
+              "listeners": 9
+            }
+          ],
+          "peak": 14,
+          "weeks": 4
+        },
+        "oliver tree - jerk": {
+          "title": "Jerk",
+          "cover": "covers/oliver_tree__jerk.png",
+          "history": [
+            {
+              "week": "2026-06-18",
+              "rank": 30,
+              "points": 68.0,
+              "listeners": 9
+            },
+            {
+              "week": "2026-06-25",
+              "rank": 9,
+              "points": 116.5,
+              "listeners": 11
+            },
+            {
+              "week": "2026-07-02",
+              "rank": 12,
+              "points": 87.5,
+              "listeners": 9
+            }
+          ],
+          "peak": 9,
+          "weeks": 3
+        },
+        "oliver tree - hurt": {
+          "title": "Hurt",
+          "cover": "covers/oliver_tree__hurt.png",
+          "history": [
+            {
+              "week": "2026-06-18",
+              "rank": 62,
+              "points": 57.0,
+              "listeners": 10
+            },
+            {
+              "week": "2026-06-25",
+              "rank": 58,
+              "points": 59.5,
+              "listeners": 10
+            }
+          ],
+          "peak": 58,
+          "weeks": 2
+        }
+      }
+    },
+    "Lit": {
+      "songs": {
+        "lit - my own worst enemy": {
+          "title": "My Own Worst Enemy",
+          "cover": "covers/lit__my_own_worst_enemy.png",
+          "history": [
+            {
+              "week": "2026-06-18",
+              "rank": 25,
+              "points": 73.0,
+              "listeners": 8
+            },
+            {
+              "week": "2026-06-25",
+              "rank": 74,
+              "points": 53.0,
+              "listeners": 10
+            }
+          ],
+          "peak": 25,
+          "weeks": 2
+        }
+      }
+    },
+    "System of a Down": {
+      "songs": {
+        "system of a down - chop suey!": {
+          "title": "Chop Suey!",
+          "cover": "covers/system_of_a_down__chop_suey.png",
+          "history": [
+            {
+              "week": "2026-06-18",
+              "rank": 28,
+              "points": 69.5,
+              "listeners": 10
+            },
+            {
+              "week": "2026-06-25",
+              "rank": 32,
+              "points": 76.0,
+              "listeners": 11
+            },
+            {
+              "week": "2026-07-02",
+              "rank": 14,
+              "points": 80.5,
+              "listeners": 15
+            }
+          ],
+          "peak": 14,
+          "weeks": 3
+        },
+        "system of a down - lonely day": {
+          "title": "Lonely Day",
+          "cover": "covers/system_of_a_down__lonely_day.png",
+          "history": [
+            {
+              "week": "2026-07-02",
+              "rank": 87,
+              "points": 52.0,
+              "listeners": 13
+            }
+          ],
+          "peak": 87,
+          "weeks": 1
+        }
+      }
+    },
+    "Arctic Monkeys": {
+      "songs": {
+        "arctic monkeys - 505": {
+          "title": "505",
+          "cover": "covers/arctic_monkeys__505.png",
+          "history": [
+            {
+              "week": "2026-06-18",
+              "rank": 29,
+              "points": 69.0,
+              "listeners": 18
+            },
+            {
+              "week": "2026-06-25",
+              "rank": 68,
+              "points": 54.5,
+              "listeners": 15
+            }
+          ],
+          "peak": 29,
+          "weeks": 2
+        }
+      }
+    },
+    "ridgeclub": {
+      "songs": {
+        "ridgeclub - do i clench my fists? (slowed + reverb)": {
+          "title": "do i clench my fists? (slowed + reverb)",
+          "cover": "covers/ridgeclub__do_i_clench_my_fists_slowed_reverb.jpg",
+          "history": [
+            {
+              "week": "2026-06-18",
+              "rank": 34,
+              "points": 66.0,
+              "listeners": 6
+            }
+          ],
+          "peak": 34,
+          "weeks": 1
+        }
+      }
+    },
+    "Tyler, The Creator": {
+      "songs": {
+        "tyler, the creator - see you again (feat. kali uchis)": {
+          "title": "See You Again (feat. Kali Uchis)",
+          "cover": "covers/tyler_the_creator__see_you_again_feat_kali_uchis.png",
+          "history": [
+            {
+              "week": "2026-06-18",
+              "rank": 35,
+              "points": 65.5,
+              "listeners": 19
+            },
+            {
+              "week": "2026-06-25",
+              "rank": 75,
+              "points": 52.5,
+              "listeners": 21
+            }
+          ],
+          "peak": 35,
+          "weeks": 2
+        },
+        "tyler, the creator - are we still friends?": {
+          "title": "ARE WE STILL FRIENDS?",
+          "cover": "covers/tyler_the_creator__are_we_still_friends.png",
+          "history": [
+            {
+              "week": "2026-06-25",
+              "rank": 63,
+              "points": 58.0,
+              "listeners": 13
+            },
+            {
+              "week": "2026-07-09",
+              "rank": 70,
+              "points": 55.5,
+              "listeners": 11
+            }
+          ],
+          "peak": 63,
+          "weeks": 2
+        },
+        "tyler, the creator - that guy": {
+          "title": "THAT GUY",
+          "cover": "covers/tyler_the_creator__that_guy.png",
+          "history": [
+            {
+              "week": "2026-07-02",
+              "rank": 38,
+              "points": 65.0,
+              "listeners": 12
+            }
+          ],
+          "peak": 38,
+          "weeks": 1
+        }
+      }
+    },
+    "Billy Idol": {
+      "songs": {
+        "billy idol - eyes without a face": {
+          "title": "Eyes Without a Face",
+          "cover": "covers/billy_idol__eyes_without_a_face.png",
+          "history": [
+            {
+              "week": "2026-06-18",
+              "rank": 38,
+              "points": 63.5,
+              "listeners": 9
+            }
+          ],
+          "peak": 38,
+          "weeks": 1
+        }
+      }
+    },
+    "Sublime": {
+      "songs": {
+        "sublime - santeria": {
+          "title": "Santeria",
+          "cover": "covers/sublime__santeria.png",
+          "history": [
+            {
+              "week": "2026-06-18",
+              "rank": 41,
+              "points": 62.0,
+              "listeners": 7
+            }
+          ],
+          "peak": 41,
+          "weeks": 1
+        }
+      }
+    },
+    "Olivia Rodrigo": {
+      "songs": {
+        "olivia rodrigo - u + me = <3": {
+          "title": "u + me = <3",
+          "cover": "covers/olivia_rodrigo__u_me_3.jpg",
+          "history": [
+            {
+              "week": "2026-06-18",
+              "rank": 45,
+              "points": 60.0,
+              "listeners": 5
+            },
+            {
+              "week": "2026-06-25",
+              "rank": 67,
+              "points": 56.0,
+              "listeners": 7
+            }
+          ],
+          "peak": 45,
+          "weeks": 2
+        },
+        "olivia rodrigo - the cure": {
+          "title": "the cure",
+          "cover": "covers/olivia_rodrigo__the_cure.png",
+          "history": [
+            {
+              "week": "2026-06-18",
+              "rank": 50,
+              "points": 59.5,
+              "listeners": 6
+            },
+            {
+              "week": "2026-06-25",
+              "rank": 54,
+              "points": 61.0,
+              "listeners": 8
+            }
+          ],
+          "peak": 50,
+          "weeks": 2
+        },
+        "olivia rodrigo - drop dead": {
+          "title": "drop dead",
+          "cover": "covers/olivia_rodrigo__drop_dead.png",
+          "history": [
+            {
+              "week": "2026-06-18",
+              "rank": 71,
+              "points": 56.0,
+              "listeners": 8
+            },
+            {
+              "week": "2026-06-25",
+              "rank": 33,
+              "points": 74.5,
+              "listeners": 7
+            },
+            {
+              "week": "2026-07-09",
+              "rank": 21,
+              "points": 71.5,
+              "listeners": 10
+            }
+          ],
+          "peak": 21,
+          "weeks": 3
+        },
+        "olivia rodrigo - my way": {
+          "title": "my way",
+          "cover": "covers/olivia_rodrigo__my_way.png",
+          "history": [
+            {
+              "week": "2026-06-18",
+              "rank": 76,
+              "points": 55.0,
+              "listeners": 5
+            }
+          ],
+          "peak": 76,
+          "weeks": 1
+        },
+        "olivia rodrigo - stupid song": {
+          "title": "stupid song",
+          "cover": "covers/olivia_rodrigo__stupid_song.png",
+          "history": [
+            {
+              "week": "2026-06-18",
+              "rank": 89,
+              "points": 52.0,
+              "listeners": 8
+            }
+          ],
+          "peak": 89,
+          "weeks": 1
+        },
+        "olivia rodrigo - honeybee": {
+          "title": "honeybee",
+          "cover": "covers/olivia_rodrigo__honeybee.png",
+          "history": [
+            {
+              "week": "2026-06-25",
+              "rank": 77,
+              "points": 52.5,
+              "listeners": 7
+            }
+          ],
+          "peak": 77,
+          "weeks": 1
+        }
+      }
+    },
+    "Weezer": {
+      "songs": {
+        "weezer - i just threw out the love of my dreams": {
+          "title": "I Just Threw Out the Love of My Dreams",
+          "cover": "covers/weezer__i_just_threw_out_the_love_of_my_dreams.png",
+          "history": [
+            {
+              "week": "2026-06-18",
+              "rank": 46,
+              "points": 59.5,
+              "listeners": 18
+            },
+            {
+              "week": "2026-06-25",
+              "rank": 48,
+              "points": 62.0,
+              "listeners": 13
+            },
+            {
+              "week": "2026-07-02",
+              "rank": 84,
+              "points": 52.0,
+              "listeners": 15
+            }
+          ],
+          "peak": 46,
+          "weeks": 3
+        },
+        "weezer - go away": {
+          "title": "Go Away",
+          "cover": "covers/weezer__go_away.png",
+          "history": [
+            {
+              "week": "2026-06-18",
+              "rank": 61,
+              "points": 57.0,
+              "listeners": 14
+            },
+            {
+              "week": "2026-07-09",
+              "rank": 40,
+              "points": 62.5,
+              "listeners": 14
+            }
+          ],
+          "peak": 40,
+          "weeks": 2
+        }
+      }
+    },
+    "Kenshi Yonezu": {
+      "songs": {
+        "kenshi yonezu - kick back": {
+          "title": "KICK BACK",
+          "cover": "covers/kenshi_yonezu__kick_back.png",
+          "history": [
+            {
+              "week": "2026-06-18",
+              "rank": 48,
+              "points": 59.5,
+              "listeners": 10
+            }
+          ],
+          "peak": 48,
+          "weeks": 1
+        },
+        "kenshi yonezu - iris out": {
+          "title": "IRIS OUT",
+          "cover": "covers/kenshi_yonezu__iris_out.png",
+          "history": [
+            {
+              "week": "2026-06-18",
+              "rank": 65,
+              "points": 57.0,
+              "listeners": 5
+            }
+          ],
+          "peak": 65,
+          "weeks": 1
+        }
+      }
+    },
+    "Red Hot Chili Peppers": {
+      "songs": {
+        "red hot chili peppers - can't stop": {
+          "title": "Can't Stop",
+          "cover": "covers/red_hot_chili_peppers__can_t_stop.png",
+          "history": [
+            {
+              "week": "2026-06-18",
+              "rank": 49,
+              "points": 59.5,
+              "listeners": 9
+            }
+          ],
+          "peak": 49,
+          "weeks": 1
+        }
+      }
+    },
+    "OsamaSon": {
+      "songs": {
+        "osamason - addicted": {
+          "title": "addicted",
+          "cover": "covers/osamason__addicted.png",
+          "history": [
+            {
+              "week": "2026-06-18",
+              "rank": 51,
+              "points": 59.0,
+              "listeners": 7
+            }
+          ],
+          "peak": 51,
+          "weeks": 1
+        }
+      }
+    },
+    "Juice WRLD": {
+      "songs": {
+        "juice wrld - lucid dreams": {
+          "title": "Lucid Dreams",
+          "cover": "covers/juice_wrld__lucid_dreams.png",
+          "history": [
+            {
+              "week": "2026-06-18",
+              "rank": 55,
+              "points": 58.5,
+              "listeners": 9
+            },
+            {
+              "week": "2026-07-02",
+              "rank": 79,
+              "points": 53.5,
+              "listeners": 8
+            }
+          ],
+          "peak": 55,
+          "weeks": 2
+        }
+      }
+    },
+    "Linkin Park": {
+      "songs": {
+        "linkin park - in the end": {
+          "title": "In the End",
+          "cover": "covers/linkin_park__in_the_end.png",
+          "history": [
+            {
+              "week": "2026-06-18",
+              "rank": 58,
+              "points": 58.0,
+              "listeners": 10
+            }
+          ],
+          "peak": 58,
+          "weeks": 1
+        },
+        "linkin park - somewhere i belong": {
+          "title": "Somewhere I Belong",
+          "cover": "covers/linkin_park__somewhere_i_belong.png",
+          "history": [
+            {
+              "week": "2026-06-25",
+              "rank": 49,
+              "points": 62.0,
+              "listeners": 9
+            },
+            {
+              "week": "2026-07-09",
+              "rank": 30,
+              "points": 66.0,
+              "listeners": 12
+            }
+          ],
+          "peak": 30,
+          "weeks": 2
+        },
+        "linkin park - faint": {
+          "title": "Faint",
+          "cover": "covers/linkin_park__faint.png",
+          "history": [
+            {
+              "week": "2026-07-09",
+              "rank": 38,
+              "points": 63.0,
+              "listeners": 14
+            }
+          ],
+          "peak": 38,
+          "weeks": 1
+        }
+      }
+    },
+    "laura les": {
+      "songs": {
+        "laura les - haunted": {
+          "title": "Haunted",
+          "cover": "covers/laura_les__haunted.png",
+          "history": [
+            {
+              "week": "2026-06-18",
+              "rank": 64,
+              "points": 57.0,
+              "listeners": 8
+            }
+          ],
+          "peak": 64,
+          "weeks": 1
+        }
+      }
+    },
+    "Pierce the Veil": {
+      "songs": {
+        "pierce the veil - king for a day": {
+          "title": "King for a Day",
+          "cover": "covers/pierce_the_veil__king_for_a_day.png",
+          "history": [
+            {
+              "week": "2026-06-18",
+              "rank": 70,
+              "points": 56.0,
+              "listeners": 12
+            },
+            {
+              "week": "2026-07-09",
+              "rank": 73,
+              "points": 55.0,
+              "listeners": 7
+            }
+          ],
+          "peak": 70,
+          "weeks": 2
+        },
+        "pierce the veil - bulls in the bronx": {
+          "title": "Bulls in the Bronx",
+          "cover": "covers/pierce_the_veil__bulls_in_the_bronx.png",
+          "history": [
+            {
+              "week": "2026-06-25",
+              "rank": 66,
+              "points": 56.5,
+              "listeners": 9
+            }
+          ],
+          "peak": 66,
+          "weeks": 1
+        }
+      }
+    },
+    "Adventure Time": {
+      "songs": {
+        "adventure time - everything stays (feat. olivia olson)": {
+          "title": "Everything Stays (feat. Olivia Olson)",
+          "cover": "covers/adventure_time__everything_stays_feat_olivia_olson.jpg",
+          "history": [
+            {
+              "week": "2026-06-18",
+              "rank": 72,
+              "points": 56.0,
+              "listeners": 7
+            }
+          ],
+          "peak": 72,
+          "weeks": 1
+        }
+      }
+    },
+    "Miraidempa": {
+      "songs": {
+        "miraidempa - unslept": {
+          "title": "Unslept",
+          "cover": "covers/miraidempa__unslept.png",
+          "history": [
+            {
+              "week": "2026-06-18",
+              "rank": 75,
+              "points": 55.0,
+              "listeners": 10
+            }
+          ],
+          "peak": 75,
+          "weeks": 1
+        }
+      }
+    },
+    "Bunii": {
+      "songs": {
+        "bunii - amnesia": {
+          "title": "amnesia",
+          "cover": "covers/bunii__amnesia.png",
+          "history": [
+            {
+              "week": "2026-06-18",
+              "rank": 79,
+              "points": 54.5,
+              "listeners": 6
+            },
+            {
+              "week": "2026-06-25",
+              "rank": 78,
+              "points": 52.5,
+              "listeners": 7
+            }
+          ],
+          "peak": 78,
+          "weeks": 2
+        }
+      }
+    },
+    "lolwtfitsjake": {
+      "songs": {
+        "lolwtfitsjake - the crazy in your eyes": {
+          "title": "The Crazy In Your Eyes",
+          "cover": "covers/lolwtfitsjake__the_crazy_in_your_eyes.png",
+          "history": [
+            {
+              "week": "2026-06-18",
+              "rank": 81,
+              "points": 54.0,
+              "listeners": 3
+            }
+          ],
+          "peak": 81,
+          "weeks": 1
+        }
+      }
+    },
+    "rusino": {
+      "songs": {
+        "rusino - looping the rooms": {
+          "title": "Looping the Rooms",
+          "cover": "covers/rusino__looping_the_rooms.png",
+          "history": [
+            {
+              "week": "2026-06-18",
+              "rank": 82,
+              "points": 53.0,
+              "listeners": 12
+            },
+            {
+              "week": "2026-07-02",
+              "rank": 85,
+              "points": 52.0,
+              "listeners": 15
+            },
+            {
+              "week": "2026-07-09",
+              "rank": 43,
+              "points": 61.0,
+              "listeners": 16
+            }
+          ],
+          "peak": 43,
+          "weeks": 3
+        }
+      }
+    },
+    "lexycat": {
+      "songs": {
+        "lexycat - glitter ✩‧₊˚": {
+          "title": "glitter ✩‧₊˚",
+          "cover": "covers/lexycat__glitter.png",
+          "history": [
+            {
+              "week": "2026-06-18",
+              "rank": 84,
+              "points": 53.0,
+              "listeners": 5
+            },
+            {
+              "week": "2026-07-09",
+              "rank": 31,
+              "points": 65.5,
+              "listeners": 7
+            }
+          ],
+          "peak": 31,
+          "weeks": 2
+        }
+      }
+    },
+    "Evanescence": {
+      "songs": {
+        "evanescence - bring me to life": {
+          "title": "Bring Me to Life",
+          "cover": "covers/evanescence__bring_me_to_life.png",
+          "history": [
+            {
+              "week": "2026-06-18",
+              "rank": 85,
+              "points": 52.5,
+              "listeners": 13
+            },
+            {
+              "week": "2026-07-02",
+              "rank": 89,
+              "points": 52.0,
+              "listeners": 8
+            }
+          ],
+          "peak": 85,
+          "weeks": 2
+        }
+      }
+    },
+    "Dan Salvato": {
+      "songs": {
+        "dan salvato - my confession": {
+          "title": "My Confession",
+          "cover": "covers/dan_salvato__my_confession.png",
+          "history": [
+            {
+              "week": "2026-06-18",
+              "rank": 93,
+              "points": 50.5,
+              "listeners": 4
+            }
+          ],
+          "peak": 93,
+          "weeks": 1
+        }
+      }
+    },
+    "Panic! at the Disco": {
+      "songs": {
+        "panic! at the disco - i write sins not tragedies": {
+          "title": "I Write Sins Not Tragedies",
+          "cover": "covers/panic_at_the_disco__i_write_sins_not_tragedies.png",
+          "history": [
+            {
+              "week": "2026-06-18",
+              "rank": 95,
+              "points": 50.0,
+              "listeners": 10
+            }
+          ],
+          "peak": 95,
+          "weeks": 1
+        }
+      }
+    },
+    "Lemon Demon": {
+      "songs": {
+        "lemon demon - fine": {
+          "title": "Fine",
+          "cover": "covers/lemon_demon__fine.png",
+          "history": [
+            {
+              "week": "2026-06-18",
+              "rank": 97,
+              "points": 50.0,
+              "listeners": 10
+            },
+            {
+              "week": "2026-07-02",
+              "rank": 48,
+              "points": 60.5,
+              "listeners": 11
+            }
+          ],
+          "peak": 48,
+          "weeks": 2
+        }
+      }
+    },
+    "Twentythree": {
+      "songs": {
+        "twentythree - queen st": {
+          "title": "Queen St",
+          "cover": "covers/twentythree__queen_st.png",
+          "history": [
+            {
+              "week": "2026-06-18",
+              "rank": 100,
+              "points": 50.0,
+              "listeners": 6
+            },
+            {
+              "week": "2026-07-02",
+              "rank": 62,
+              "points": 57.5,
+              "listeners": 4
+            },
+            {
+              "week": "2026-07-09",
+              "rank": 39,
+              "points": 63.0,
+              "listeners": 7
+            }
+          ],
+          "peak": 39,
+          "weeks": 3
+        }
+      }
+    },
+    "Stevie Wonder": {
+      "songs": {
+        "stevie wonder - isn't she lovely": {
+          "title": "Isn't She Lovely",
+          "cover": "covers/stevie_wonder__isn_t_she_lovely.png",
+          "history": [
+            {
+              "week": "2026-06-25",
+              "rank": 2,
+              "points": 154.0,
+              "listeners": 14
+            },
+            {
+              "week": "2026-07-02",
+              "rank": 8,
+              "points": 99.0,
+              "listeners": 11
+            },
+            {
+              "week": "2026-07-09",
+              "rank": 89,
+              "points": 51.5,
+              "listeners": 9
+            }
+          ],
+          "peak": 2,
+          "weeks": 3
+        }
+      }
+    },
+    "pupsies": {
+      "songs": {
+        "pupsies - misery.": {
+          "title": "misery.",
+          "cover": "covers/pupsies__misery.png",
+          "history": [
+            {
+              "week": "2026-06-25",
+              "rank": 17,
+              "points": 99.0,
+              "listeners": 8
+            },
+            {
+              "week": "2026-07-02",
+              "rank": 3,
+              "points": 169.5,
+              "listeners": 22
+            },
+            {
+              "week": "2026-07-09",
+              "rank": 1,
+              "points": 203.0,
+              "listeners": 25
+            }
+          ],
+          "peak": 1,
+          "weeks": 3
+        }
+      }
+    },
+    "Imogen Heap": {
+      "songs": {
+        "imogen heap - headlock": {
+          "title": "Headlock",
+          "cover": "covers/imogen_heap__headlock.png",
+          "history": [
+            {
+              "week": "2026-06-25",
+              "rank": 18,
+              "points": 97.5,
+              "listeners": 22
+            },
+            {
+              "week": "2026-07-02",
+              "rank": 34,
+              "points": 66.5,
+              "listeners": 22
+            },
+            {
+              "week": "2026-07-09",
+              "rank": 90,
+              "points": 51.0,
+              "listeners": 15
+            }
+          ],
+          "peak": 18,
+          "weeks": 3
+        }
+      }
+    },
+    "Soundgarden": {
+      "songs": {
+        "soundgarden - black hole sun": {
+          "title": "Black Hole Sun",
+          "cover": "covers/soundgarden__black_hole_sun.png",
+          "history": [
+            {
+              "week": "2026-06-25",
+              "rank": 28,
+              "points": 80.5,
+              "listeners": 15
+            },
+            {
+              "week": "2026-07-02",
+              "rank": 93,
+              "points": 51.0,
+              "listeners": 13
+            },
+            {
+              "week": "2026-07-09",
+              "rank": 67,
+              "points": 56.5,
+              "listeners": 12
+            }
+          ],
+          "peak": 28,
+          "weeks": 3
+        }
+      }
+    },
+    "Jamie Paige": {
+      "songs": {
+        "jamie paige - birdbrain": {
+          "title": "BIRDBRAIN",
+          "cover": "covers/jamie_paige__birdbrain.jpg",
+          "history": [
+            {
+              "week": "2026-06-25",
+              "rank": 34,
+              "points": 74.0,
+              "listeners": 11
+            }
+          ],
+          "peak": 34,
+          "weeks": 1
+        },
+        "jamie paige - machine love": {
+          "title": "Machine Love",
+          "cover": "covers/jamie_paige__machine_love.png",
+          "history": [
+            {
+              "week": "2026-07-09",
+              "rank": 37,
+              "points": 64.0,
+              "listeners": 7
+            }
+          ],
+          "peak": 37,
+          "weeks": 1
+        }
+      }
+    },
+    "F3miii": {
+      "songs": {
+        "f3miii - noble": {
+          "title": "NOBLE",
+          "cover": "covers/f3miii__noble.png",
+          "history": [
+            {
+              "week": "2026-06-25",
+              "rank": 40,
+              "points": 70.0,
+              "listeners": 9
+            }
+          ],
+          "peak": 40,
+          "weeks": 1
+        }
+      }
+    },
+    "Her's": {
+      "songs": {
+        "her's - harvey": {
+          "title": "Harvey",
+          "cover": "covers/her_s__harvey.png",
+          "history": [
+            {
+              "week": "2026-06-25",
+              "rank": 42,
+              "points": 66.5,
+              "listeners": 6
+            },
+            {
+              "week": "2026-07-02",
+              "rank": 56,
+              "points": 58.5,
+              "listeners": 9
+            },
+            {
+              "week": "2026-07-09",
+              "rank": 33,
+              "points": 65.0,
+              "listeners": 11
+            }
+          ],
+          "peak": 33,
+          "weeks": 3
+        }
+      }
+    },
+    "Nirvana": {
+      "songs": {
+        "nirvana - heart-shaped box": {
+          "title": "Heart-Shaped Box",
+          "cover": "covers/nirvana__heart_shaped_box.png",
+          "history": [
+            {
+              "week": "2026-06-25",
+              "rank": 47,
+              "points": 62.5,
+              "listeners": 12
+            }
+          ],
+          "peak": 47,
+          "weeks": 1
+        },
+        "nirvana - all apologies": {
+          "title": "All Apologies",
+          "cover": "covers/nirvana__all_apologies.png",
+          "history": [
+            {
+              "week": "2026-07-02",
+              "rank": 76,
+              "points": 54.0,
+              "listeners": 10
+            }
+          ],
+          "peak": 76,
+          "weeks": 1
+        },
+        "nirvana - breed": {
+          "title": "Breed",
+          "cover": "covers/nirvana__breed.png",
+          "history": [
+            {
+              "week": "2026-07-09",
+              "rank": 41,
+              "points": 62.5,
+              "listeners": 8
+            }
+          ],
+          "peak": 41,
+          "weeks": 1
+        }
+      }
+    },
+    "Clarion": {
+      "songs": {
+        "clarion - hello juliet": {
+          "title": "Hello Juliet",
+          "cover": "covers/clarion__hello_juliet.png",
+          "history": [
+            {
+              "week": "2026-06-25",
+              "rank": 50,
+              "points": 61.5,
+              "listeners": 15
+            }
+          ],
+          "peak": 50,
+          "weeks": 1
+        }
+      }
+    },
+    "Mac DeMarco": {
+      "songs": {
+        "mac demarco - for the first time": {
+          "title": "For the First Time",
+          "cover": "covers/mac_demarco__for_the_first_time.png",
+          "history": [
+            {
+              "week": "2026-06-25",
+              "rank": 51,
+              "points": 61.5,
+              "listeners": 12
+            },
+            {
+              "week": "2026-07-02",
+              "rank": 66,
+              "points": 56.0,
+              "listeners": 12
+            }
+          ],
+          "peak": 51,
+          "weeks": 2
+        },
+        "mac demarco - no other heart": {
+          "title": "No Other Heart",
+          "cover": "covers/mac_demarco__no_other_heart.png",
+          "history": [
+            {
+              "week": "2026-07-02",
+              "rank": 19,
+              "points": 76.0,
+              "listeners": 8
+            }
+          ],
+          "peak": 19,
+          "weeks": 1
+        },
+        "mac demarco - heart to heart": {
+          "title": "Heart to Heart",
+          "cover": "covers/mac_demarco__heart_to_heart.png",
+          "history": [
+            {
+              "week": "2026-07-09",
+              "rank": 20,
+              "points": 72.0,
+              "listeners": 11
+            }
+          ],
+          "peak": 20,
+          "weeks": 1
+        }
+      }
+    },
+    "Childish Gambino": {
+      "songs": {
+        "childish gambino - l.e.s.": {
+          "title": "L.E.S.",
+          "cover": "covers/childish_gambino__l_e_s.png",
+          "history": [
+            {
+              "week": "2026-06-25",
+              "rank": 57,
+              "points": 59.5,
+              "listeners": 12
+            }
+          ],
+          "peak": 57,
+          "weeks": 1
+        }
+      }
+    },
+    "Justin Timberlake": {
+      "songs": {
+        "justin timberlake - sexyback (feat. timbaland)": {
+          "title": "SexyBack (feat. Timbaland)",
+          "cover": "covers/justin_timberlake__sexyback_feat_timbaland.jpg",
+          "history": [
+            {
+              "week": "2026-06-25",
+              "rank": 71,
+              "points": 54.5,
+              "listeners": 8
+            }
+          ],
+          "peak": 71,
+          "weeks": 1
+        }
+      }
+    },
+    "Feist": {
+      "songs": {
+        "feist - my moon my man": {
+          "title": "My Moon My Man",
+          "cover": "covers/feist__my_moon_my_man.png",
+          "history": [
+            {
+              "week": "2026-06-25",
+              "rank": 73,
+              "points": 54.0,
+              "listeners": 8
+            }
+          ],
+          "peak": 73,
+          "weeks": 1
+        }
+      }
+    },
+    "She & Him": {
+      "songs": {
+        "she & him - i thought i saw your face today": {
+          "title": "I Thought I Saw Your Face Today",
+          "cover": "covers/she_him__i_thought_i_saw_your_face_today.png",
+          "history": [
+            {
+              "week": "2026-06-25",
+              "rank": 76,
+              "points": 52.5,
+              "listeners": 13
+            },
+            {
+              "week": "2026-07-09",
+              "rank": 64,
+              "points": 57.0,
+              "listeners": 8
+            }
+          ],
+          "peak": 64,
+          "weeks": 2
+        }
+      }
+    },
+    "Ax and the Hatchetmen": {
+      "songs": {
+        "ax and the hatchetmen - hotel room": {
+          "title": "Hotel Room",
+          "cover": "covers/ax_and_the_hatchetmen__hotel_room.png",
+          "history": [
+            {
+              "week": "2026-06-25",
+              "rank": 79,
+              "points": 52.0,
+              "listeners": 10
+            }
+          ],
+          "peak": 79,
+          "weeks": 1
+        }
+      }
+    },
+    "Joji": {
+      "songs": {
+        "joji - slow dancing in the dark": {
+          "title": "SLOW DANCING IN THE DARK",
+          "cover": "covers/joji__slow_dancing_in_the_dark.png",
+          "history": [
+            {
+              "week": "2026-06-25",
+              "rank": 81,
+              "points": 51.5,
+              "listeners": 11
+            }
+          ],
+          "peak": 81,
+          "weeks": 1
+        }
+      }
+    },
+    "Rihanna": {
+      "songs": {
+        "rihanna - don't stop the music": {
+          "title": "Don't Stop the Music",
+          "cover": "covers/rihanna__don_t_stop_the_music.png",
+          "history": [
+            {
+              "week": "2026-06-25",
+              "rank": 83,
+              "points": 51.5,
+              "listeners": 7
+            }
+          ],
+          "peak": 83,
+          "weeks": 1
+        }
+      }
+    },
+    "Justin Bieber": {
+      "songs": {
+        "justin bieber - beauty and a beat": {
+          "title": "Beauty and a Beat",
+          "cover": "covers/justin_bieber__beauty_and_a_beat.png",
+          "history": [
+            {
+              "week": "2026-06-25",
+              "rank": 86,
+              "points": 50.0,
+              "listeners": 8
+            }
+          ],
+          "peak": 86,
+          "weeks": 1
+        }
+      }
+    },
+    "Three Days Grace": {
+      "songs": {
+        "three days grace - animal i have become": {
+          "title": "Animal I Have Become",
+          "cover": "covers/three_days_grace__animal_i_have_become.png",
+          "history": [
+            {
+              "week": "2026-06-25",
+              "rank": 88,
+              "points": 49.5,
+              "listeners": 10
+            }
+          ],
+          "peak": 88,
+          "weeks": 1
+        }
+      }
+    },
+    "3OH!3": {
+      "songs": {
+        "3oh!3 - richman": {
+          "title": "Richman",
+          "cover": "covers/3oh_3__richman.png",
+          "history": [
+            {
+              "week": "2026-06-25",
+              "rank": 90,
+              "points": 49.5,
+              "listeners": 7
+            }
+          ],
+          "peak": 90,
+          "weeks": 1
+        }
+      }
+    },
+    "Flavor Foley": {
+      "songs": {
+        "flavor foley - spoken for": {
+          "title": "Spoken For",
+          "cover": "covers/flavor_foley__spoken_for.png",
+          "history": [
+            {
+              "week": "2026-06-25",
+              "rank": 91,
+              "points": 49.5,
+              "listeners": 6
+            }
+          ],
+          "peak": 91,
+          "weeks": 1
+        }
+      }
+    },
+    "高中正義": {
+      "songs": {
+        "高中正義 - brasilian skies": {
+          "title": "BRASILIAN SKIES",
+          "cover": "covers/__brasilian_skies.png",
+          "history": [
+            {
+              "week": "2026-06-25",
+              "rank": 92,
+              "points": 49.5,
+              "listeners": 5
+            }
+          ],
+          "peak": 92,
+          "weeks": 1
+        }
+      }
+    },
+    "Deftones": {
+      "songs": {
+        "deftones - sextape": {
+          "title": "Sextape",
+          "cover": "covers/deftones__sextape.png",
+          "history": [
+            {
+              "week": "2026-06-25",
+              "rank": 94,
+              "points": 49.0,
+              "listeners": 10
+            },
+            {
+              "week": "2026-07-02",
+              "rank": 65,
+              "points": 56.5,
+              "listeners": 9
+            }
+          ],
+          "peak": 65,
+          "weeks": 2
+        },
+        "deftones - change (in the house of flies)": {
+          "title": "Change (In the House of Flies)",
+          "cover": "covers/deftones__change_in_the_house_of_flies.png",
+          "history": [
+            {
+              "week": "2026-07-02",
+              "rank": 70,
+              "points": 55.0,
+              "listeners": 9
+            }
+          ],
+          "peak": 70,
+          "weeks": 1
+        },
+        "deftones - my own summer (shove it)": {
+          "title": "My Own Summer (Shove It)",
+          "cover": "covers/deftones__my_own_summer_shove_it.png",
+          "history": [
+            {
+              "week": "2026-07-02",
+              "rank": 86,
+              "points": 52.0,
+              "listeners": 14
+            },
+            {
+              "week": "2026-07-09",
+              "rank": 54,
+              "points": 59.0,
+              "listeners": 9
+            }
+          ],
+          "peak": 54,
+          "weeks": 2
+        },
+        "deftones - be quiet and drive (far away)": {
+          "title": "Be Quiet and Drive (Far Away)",
+          "cover": "covers/deftones__be_quiet_and_drive_far_away.png",
+          "history": [
+            {
+              "week": "2026-07-09",
+              "rank": 24,
+              "points": 69.5,
+              "listeners": 10
+            }
+          ],
+          "peak": 24,
+          "weeks": 1
+        },
+        "deftones - cherry waves": {
+          "title": "Cherry Waves",
+          "cover": "covers/deftones__cherry_waves.png",
+          "history": [
+            {
+              "week": "2026-07-09",
+              "rank": 76,
+              "points": 54.5,
+              "listeners": 7
+            }
+          ],
+          "peak": 76,
+          "weeks": 1
+        }
+      }
+    },
+    "Fried By Fluoride": {
+      "songs": {
+        "fried by fluoride - the love i lost": {
+          "title": "The Love I Lost",
+          "cover": "covers/fried_by_fluoride__the_love_i_lost.png",
+          "history": [
+            {
+              "week": "2026-06-25",
+              "rank": 97,
+              "points": 48.0,
+              "listeners": 10
+            }
+          ],
+          "peak": 97,
+          "weeks": 1
+        }
+      }
+    },
+    "The Weeknd": {
+      "songs": {
+        "the weeknd - die for you": {
+          "title": "Die for You",
+          "cover": "covers/the_weeknd__die_for_you.png",
+          "history": [
+            {
+              "week": "2026-06-25",
+              "rank": 98,
+              "points": 48.0,
+              "listeners": 7
+            }
+          ],
+          "peak": 98,
+          "weeks": 1
+        },
+        "the weeknd - the hills": {
+          "title": "The Hills",
+          "cover": "covers/the_weeknd__the_hills.png",
+          "history": [
+            {
+              "week": "2026-07-02",
+              "rank": 47,
+              "points": 61.0,
+              "listeners": 9
+            },
+            {
+              "week": "2026-07-09",
+              "rank": 60,
+              "points": 57.5,
+              "listeners": 9
+            }
+          ],
+          "peak": 47,
+          "weeks": 2
+        }
+      }
+    },
+    "DAGames": {
+      "songs": {
+        "dagames - get out": {
+          "title": "Get Out",
+          "cover": "covers/dagames__get_out.png",
+          "history": [
+            {
+              "week": "2026-06-25",
+              "rank": 99,
+              "points": 48.0,
+              "listeners": 6
+            }
+          ],
+          "peak": 99,
+          "weeks": 1
+        }
+      }
+    },
+    "All Time Low": {
+      "songs": {
+        "all time low - dear maria, count me in": {
+          "title": "Dear Maria, Count Me In",
+          "cover": "covers/all_time_low__dear_maria_count_me_in.png",
+          "history": [
+            {
+              "week": "2026-06-25",
+              "rank": 100,
+              "points": 47.5,
+              "listeners": 5
+            }
+          ],
+          "peak": 100,
+          "weeks": 1
+        }
+      }
+    },
+    "Gigi Perez": {
+      "songs": {
+        "gigi perez - sailor song": {
+          "title": "Sailor Song",
+          "cover": "covers/gigi_perez__sailor_song.png",
+          "history": [
+            {
+              "week": "2026-07-02",
+              "rank": 10,
+              "points": 94.5,
+              "listeners": 15
+            },
+            {
+              "week": "2026-07-09",
+              "rank": 34,
+              "points": 64.5,
+              "listeners": 11
+            }
+          ],
+          "peak": 10,
+          "weeks": 2
+        }
+      }
+    },
+    "Puzzle": {
+      "songs": {
+        "puzzle - loose cannon": {
+          "title": "Loose Cannon",
+          "cover": "covers/puzzle__loose_cannon.png",
+          "history": [
+            {
+              "week": "2026-07-02",
+              "rank": 23,
+              "points": 72.5,
+              "listeners": 12
+            }
+          ],
+          "peak": 23,
+          "weeks": 1
+        }
+      }
+    },
+    "Ken Carson": {
+      "songs": {
+        "ken carson - deaf note (with playboi carti)": {
+          "title": "deaf note (With Playboi Carti)",
+          "cover": "covers/ken_carson__deaf_note_with_playboi_carti.png",
+          "history": [
+            {
+              "week": "2026-07-02",
+              "rank": 24,
+              "points": 72.0,
+              "listeners": 12
+            },
+            {
+              "week": "2026-07-09",
+              "rank": 77,
+              "points": 54.0,
+              "listeners": 15
+            }
+          ],
+          "peak": 24,
+          "weeks": 2
+        },
+        "ken carson - wrist": {
+          "title": "wrist",
+          "cover": "covers/ken_carson__wrist.png",
+          "history": [
+            {
+              "week": "2026-07-02",
+              "rank": 30,
+              "points": 69.0,
+              "listeners": 8
+            }
+          ],
+          "peak": 30,
+          "weeks": 1
+        },
+        "ken carson - wheredoistart": {
+          "title": "wheredoistart",
+          "cover": "covers/ken_carson__wheredoistart.png",
+          "history": [
+            {
+              "week": "2026-07-02",
+              "rank": 32,
+              "points": 68.0,
+              "listeners": 12
+            },
+            {
+              "week": "2026-07-09",
+              "rank": 83,
+              "points": 52.5,
+              "listeners": 17
+            }
+          ],
+          "peak": 32,
+          "weeks": 2
+        },
+        "ken carson - shadeson (with 2hollis)": {
+          "title": "shadeson (with 2hollis)",
+          "cover": "covers/ken_carson__shadeson_with_2hollis.png",
+          "history": [
+            {
+              "week": "2026-07-02",
+              "rank": 60,
+              "points": 57.5,
+              "listeners": 9
+            }
+          ],
+          "peak": 60,
+          "weeks": 1
+        },
+        "ken carson - gynecologist": {
+          "title": "gynecologist",
+          "cover": "covers/ken_carson__gynecologist.png",
+          "history": [
+            {
+              "week": "2026-07-02",
+              "rank": 71,
+              "points": 55.0,
+              "listeners": 8
+            }
+          ],
+          "peak": 71,
+          "weeks": 1
+        },
+        "ken carson - knocking": {
+          "title": "knocking",
+          "cover": "covers/ken_carson__knocking.png",
+          "history": [
+            {
+              "week": "2026-07-09",
+              "rank": 26,
+              "points": 68.5,
+              "listeners": 8
+            }
+          ],
+          "peak": 26,
+          "weeks": 1
+        },
+        "ken carson - ghost (with lil uzi vert)": {
+          "title": "ghost (with lil uzi vert)",
+          "cover": "covers/ken_carson__ghost_with_lil_uzi_vert.png",
+          "history": [
+            {
+              "week": "2026-07-09",
+              "rank": 72,
+              "points": 55.0,
+              "listeners": 10
+            }
+          ],
+          "peak": 72,
+          "weeks": 1
+        }
+      }
+    },
+    "Lil Uzi Vert": {
+      "songs": {
+        "lil uzi vert - xo tour llif3": {
+          "title": "XO TOUR Llif3",
+          "cover": "covers/lil_uzi_vert__xo_tour_llif3.png",
+          "history": [
+            {
+              "week": "2026-07-02",
+              "rank": 36,
+              "points": 66.0,
+              "listeners": 10
+            },
+            {
+              "week": "2026-07-09",
+              "rank": 66,
+              "points": 56.5,
+              "listeners": 13
+            }
+          ],
+          "peak": 36,
+          "weeks": 2
+        }
+      }
+    },
+    "J. Cole": {
+      "songs": {
+        "j. cole - no role modelz": {
+          "title": "No Role Modelz",
+          "cover": "covers/j_cole__no_role_modelz.png",
+          "history": [
+            {
+              "week": "2026-07-02",
+              "rank": 45,
+              "points": 61.0,
+              "listeners": 12
+            }
+          ],
+          "peak": 45,
+          "weeks": 1
+        }
+      }
+    },
+    "Wolf Parade": {
+      "songs": {
+        "wolf parade - i'll believe in anything": {
+          "title": "I'll Believe in Anything",
+          "cover": "covers/wolf_parade__i_ll_believe_in_anything.png",
+          "history": [
+            {
+              "week": "2026-07-02",
+              "rank": 49,
+              "points": 60.5,
+              "listeners": 10
+            },
+            {
+              "week": "2026-07-09",
+              "rank": 80,
+              "points": 53.5,
+              "listeners": 8
+            }
+          ],
+          "peak": 49,
+          "weeks": 2
+        }
+      }
+    },
+    "2011 Remaster - The Smiths": {
+      "songs": {
+        "2011 remaster - the smiths - there is a light that never goes out": {
+          "title": "There Is a Light That Never Goes Out",
+          "cover": "covers/2011_remaster_the_smiths__there_is_a_light_that_never_goes_out.jpg",
+          "history": [
+            {
+              "week": "2026-07-02",
+              "rank": 50,
+              "points": 60.5,
+              "listeners": 6
+            }
+          ],
+          "peak": 50,
+          "weeks": 1
+        },
+        "2011 remaster - the smiths - heaven knows i'm miserable now": {
+          "title": "Heaven Knows I'm Miserable Now",
+          "cover": "covers/2011_remaster_the_smiths__heaven_knows_i_m_miserable_now.jpg",
+          "history": [
+            {
+              "week": "2026-07-02",
+              "rank": 74,
+              "points": 54.5,
+              "listeners": 14
+            }
+          ],
+          "peak": 74,
+          "weeks": 1
+        }
+      }
+    },
+    "End Credits - Steven Universe": {
+      "songs": {
+        "end credits - steven universe - love like you (feat. rebecca sugar)": {
+          "title": "Love Like You (feat. Rebecca Sugar)",
+          "cover": "covers/end_credits_steven_universe__love_like_you_feat_rebecca_sugar.jpg",
+          "history": [
+            {
+              "week": "2026-07-02",
+              "rank": 51,
+              "points": 60.0,
+              "listeners": 12
+            }
+          ],
+          "peak": 51,
+          "weeks": 1
+        }
+      }
+    },
+    "Rosa Walton": {
+      "songs": {
+        "rosa walton - i really want to stay at your house": {
+          "title": "I Really Want to Stay at Your House",
+          "cover": "covers/rosa_walton__i_really_want_to_stay_at_your_house.jpg",
+          "history": [
+            {
+              "week": "2026-07-02",
+              "rank": 54,
+              "points": 59.5,
+              "listeners": 10
+            }
+          ],
+          "peak": 54,
+          "weeks": 1
+        }
+      }
+    },
+    "The Cardigans": {
+      "songs": {
+        "the cardigans - lovefool": {
+          "title": "Lovefool",
+          "cover": "covers/the_cardigans__lovefool.png",
+          "history": [
+            {
+              "week": "2026-07-02",
+              "rank": 57,
+              "points": 58.0,
+              "listeners": 9
+            }
+          ],
+          "peak": 57,
+          "weeks": 1
+        }
+      }
+    },
+    "Demo - Frou Frou": {
+      "songs": {
+        "demo - frou frou - a new kind of love": {
+          "title": "A New Kind Of Love",
+          "cover": "covers/demo_frou_frou__a_new_kind_of_love.jpg",
+          "history": [
+            {
+              "week": "2026-07-02",
+              "rank": 64,
+              "points": 56.5,
+              "listeners": 10
+            }
+          ],
+          "peak": 64,
+          "weeks": 1
+        }
+      }
+    },
+    "Lyn": {
+      "songs": {
+        "lyn - last surprise": {
+          "title": "Last Surprise",
+          "cover": "covers/lyn__last_surprise.png",
+          "history": [
+            {
+              "week": "2026-07-02",
+              "rank": 68,
+              "points": 56.0,
+              "listeners": 7
+            }
+          ],
+          "peak": 68,
+          "weeks": 1
+        }
+      }
+    },
+    "Cafuné": {
+      "songs": {
+        "cafuné - tek it": {
+          "title": "Tek It",
+          "cover": "covers/cafun__tek_it.png",
+          "history": [
+            {
+              "week": "2026-07-02",
+              "rank": 69,
+              "points": 55.0,
+              "listeners": 16
+            }
+          ],
+          "peak": 69,
+          "weeks": 1
+        }
+      }
+    },
+    "Kendrick Lamar": {
+      "songs": {
+        "kendrick lamar - tv off (feat. lefty gunplay)": {
+          "title": "tv off (feat. Lefty Gunplay)",
+          "cover": "covers/kendrick_lamar__tv_off_feat_lefty_gunplay.png",
+          "history": [
+            {
+              "week": "2026-07-02",
+              "rank": 75,
+              "points": 54.0,
+              "listeners": 11
+            }
+          ],
+          "peak": 75,
+          "weeks": 1
+        },
+        "kendrick lamar - pride.": {
+          "title": "PRIDE.",
+          "cover": "covers/kendrick_lamar__pride.png",
+          "history": [
+            {
+              "week": "2026-07-09",
+              "rank": 75,
+              "points": 54.5,
+              "listeners": 11
+            }
+          ],
+          "peak": 75,
+          "weeks": 1
+        }
+      }
+    },
+    "Julia Wolf": {
+      "songs": {
+        "julia wolf - in my room": {
+          "title": "In My Room",
+          "cover": "covers/julia_wolf__in_my_room.png",
+          "history": [
+            {
+              "week": "2026-07-02",
+              "rank": 82,
+              "points": 53.0,
+              "listeners": 10
+            }
+          ],
+          "peak": 82,
+          "weeks": 1
+        }
+      }
+    },
+    "Kikuo": {
+      "songs": {
+        "kikuo - ふたつの木馬 (feat. 初音ミク)": {
+          "title": "ふたつの木馬 (feat. 初音ミク)",
+          "cover": "covers/kikuo__feat.jpg",
+          "history": [
+            {
+              "week": "2026-07-02",
+              "rank": 91,
+              "points": 51.5,
+              "listeners": 5
+            }
+          ],
+          "peak": 91,
+          "weeks": 1
+        }
+      }
+    },
+    "new version - Franz Ferdinand": {
+      "songs": {
+        "new version - franz ferdinand - this fffire": {
+          "title": "This fffire",
+          "cover": "covers/new_version_franz_ferdinand__this_fffire.jpg",
+          "history": [
+            {
+              "week": "2026-07-02",
+              "rank": 97,
+              "points": 51.0,
+              "listeners": 6
+            }
+          ],
+          "peak": 97,
+          "weeks": 1
+        }
+      }
+    },
+    "The Sweater Song - Weezer": {
+      "songs": {
+        "the sweater song - weezer - undone": {
+          "title": "Undone",
+          "cover": "covers/the_sweater_song_weezer__undone.jpg",
+          "history": [
+            {
+              "week": "2026-07-02",
+              "rank": 100,
+              "points": 50.5,
+              "listeners": 11
+            }
+          ],
+          "peak": 100,
           "weeks": 1
         }
       }
@@ -284,60 +5532,6 @@
             }
           ],
           "peak": 10,
-          "weeks": 1
-        }
-      }
-    },
-    "Sidney Gish": {
-      "songs": {
-        "sidney gish - impostor syndrome": {
-          "title": "Impostor Syndrome",
-          "cover": "covers/sidney_gish__impostor_syndrome.png",
-          "history": [
-            {
-              "week": "2026-07-09",
-              "rank": 11,
-              "points": 86.5,
-              "listeners": 18
-            }
-          ],
-          "peak": 11,
-          "weeks": 1
-        }
-      }
-    },
-    "Green Day": {
-      "songs": {
-        "green day - brain stew": {
-          "title": "Brain Stew",
-          "cover": "covers/green_day__brain_stew.png",
-          "history": [
-            {
-              "week": "2026-07-09",
-              "rank": 12,
-              "points": 83.0,
-              "listeners": 13
-            }
-          ],
-          "peak": 12,
-          "weeks": 1
-        }
-      }
-    },
-    "duskydemise": {
-      "songs": {
-        "duskydemise - bedrott": {
-          "title": "bedrott",
-          "cover": "covers/duskydemise__bedrott.jpg",
-          "history": [
-            {
-              "week": "2026-07-09",
-              "rank": 13,
-              "points": 82.5,
-              "listeners": 25
-            }
-          ],
-          "peak": 13,
           "weeks": 1
         }
       }
@@ -402,472 +5596,6 @@
         }
       }
     },
-    "Foo Fighters": {
-      "songs": {
-        "foo fighters - everlong": {
-          "title": "Everlong",
-          "cover": "covers/foo_fighters__everlong.png",
-          "history": [
-            {
-              "week": "2026-07-09",
-              "rank": 16,
-              "points": 77.0,
-              "listeners": 18
-            }
-          ],
-          "peak": 16,
-          "weeks": 1
-        }
-      }
-    },
-    "The Living Tombstone": {
-      "songs": {
-        "the living tombstone - it's been so long": {
-          "title": "It's Been So Long",
-          "cover": "covers/the_living_tombstone__it_s_been_so_long.png",
-          "history": [
-            {
-              "week": "2026-07-09",
-              "rank": 17,
-              "points": 75.5,
-              "listeners": 14
-            }
-          ],
-          "peak": 17,
-          "weeks": 1
-        },
-        "the living tombstone - my ordinary life": {
-          "title": "My Ordinary Life",
-          "cover": "covers/the_living_tombstone__my_ordinary_life.png",
-          "history": [
-            {
-              "week": "2026-07-09",
-              "rank": 28,
-              "points": 66.5,
-              "listeners": 13
-            }
-          ],
-          "peak": 28,
-          "weeks": 1
-        },
-        "the living tombstone - i can't fix you": {
-          "title": "I Can't Fix You",
-          "cover": "covers/the_living_tombstone__i_can_t_fix_you.jpg",
-          "history": [
-            {
-              "week": "2026-07-09",
-              "rank": 44,
-              "points": 60.5,
-              "listeners": 10
-            }
-          ],
-          "peak": 44,
-          "weeks": 1
-        }
-      }
-    },
-    "Kanye West": {
-      "songs": {
-        "kanye west - can't tell me nothing": {
-          "title": "Can't Tell Me Nothing",
-          "cover": "covers/kanye_west__can_t_tell_me_nothing.png",
-          "history": [
-            {
-              "week": "2026-07-09",
-              "rank": 19,
-              "points": 73.5,
-              "listeners": 16
-            }
-          ],
-          "peak": 19,
-          "weeks": 1
-        },
-        "kanye west - flashing lights": {
-          "title": "Flashing Lights",
-          "cover": "covers/kanye_west__flashing_lights.png",
-          "history": [
-            {
-              "week": "2026-07-09",
-              "rank": 56,
-              "points": 58.0,
-              "listeners": 23
-            }
-          ],
-          "peak": 56,
-          "weeks": 1
-        },
-        "kanye west - king": {
-          "title": "KING",
-          "cover": "covers/kanye_west__king.png",
-          "history": [
-            {
-              "week": "2026-07-09",
-              "rank": 88,
-              "points": 52.0,
-              "listeners": 7
-            }
-          ],
-          "peak": 88,
-          "weeks": 1
-        },
-        "kanye west - all of the lights": {
-          "title": "All of the Lights",
-          "cover": "covers/kanye_west__all_of_the_lights.png",
-          "history": [
-            {
-              "week": "2026-07-09",
-              "rank": 91,
-              "points": 50.5,
-              "listeners": 13
-            }
-          ],
-          "peak": 91,
-          "weeks": 1
-        }
-      }
-    },
-    "Mac DeMarco": {
-      "songs": {
-        "mac demarco - heart to heart": {
-          "title": "Heart to Heart",
-          "cover": "covers/mac_demarco__heart_to_heart.png",
-          "history": [
-            {
-              "week": "2026-07-09",
-              "rank": 20,
-              "points": 72.0,
-              "listeners": 11
-            }
-          ],
-          "peak": 20,
-          "weeks": 1
-        }
-      }
-    },
-    "Olivia Rodrigo": {
-      "songs": {
-        "olivia rodrigo - drop dead": {
-          "title": "drop dead",
-          "cover": "covers/olivia_rodrigo__drop_dead.png",
-          "history": [
-            {
-              "week": "2026-07-09",
-              "rank": 21,
-              "points": 71.5,
-              "listeners": 10
-            }
-          ],
-          "peak": 21,
-          "weeks": 1
-        }
-      }
-    },
-    "PinkPantheress": {
-      "songs": {
-        "pinkpantheress - stateside + zara larsson": {
-          "title": "Stateside + Zara Larsson",
-          "cover": "covers/pinkpantheress__stateside_zara_larsson.jpg",
-          "history": [
-            {
-              "week": "2026-07-09",
-              "rank": 22,
-              "points": 70.5,
-              "listeners": 16
-            }
-          ],
-          "peak": 22,
-          "weeks": 1
-        },
-        "pinkpantheress - girl like me": {
-          "title": "Girl Like Me",
-          "cover": "covers/pinkpantheress__girl_like_me.png",
-          "history": [
-            {
-              "week": "2026-07-09",
-              "rank": 81,
-              "points": 53.0,
-              "listeners": 10
-            }
-          ],
-          "peak": 81,
-          "weeks": 1
-        }
-      }
-    },
-    "Oliver Tree": {
-      "songs": {
-        "oliver tree - alien boy": {
-          "title": "Alien Boy",
-          "cover": "covers/oliver_tree__alien_boy.png",
-          "history": [
-            {
-              "week": "2026-07-09",
-              "rank": 23,
-              "points": 70.5,
-              "listeners": 9
-            }
-          ],
-          "peak": 23,
-          "weeks": 1
-        }
-      }
-    },
-    "Deftones": {
-      "songs": {
-        "deftones - be quiet and drive (far away)": {
-          "title": "Be Quiet and Drive (Far Away)",
-          "cover": "covers/deftones__be_quiet_and_drive_far_away.png",
-          "history": [
-            {
-              "week": "2026-07-09",
-              "rank": 24,
-              "points": 69.5,
-              "listeners": 10
-            }
-          ],
-          "peak": 24,
-          "weeks": 1
-        },
-        "deftones - my own summer (shove it)": {
-          "title": "My Own Summer (Shove It)",
-          "cover": "covers/deftones__my_own_summer_shove_it.png",
-          "history": [
-            {
-              "week": "2026-07-09",
-              "rank": 53,
-              "points": 59.0,
-              "listeners": 9
-            }
-          ],
-          "peak": 53,
-          "weeks": 1
-        },
-        "deftones - cherry waves": {
-          "title": "Cherry Waves",
-          "cover": "covers/deftones__cherry_waves.png",
-          "history": [
-            {
-              "week": "2026-07-09",
-              "rank": 76,
-              "points": 54.5,
-              "listeners": 7
-            }
-          ],
-          "peak": 76,
-          "weeks": 1
-        }
-      }
-    },
-    "Ken Carson": {
-      "songs": {
-        "ken carson - knocking": {
-          "title": "knocking",
-          "cover": "covers/ken_carson__knocking.png",
-          "history": [
-            {
-              "week": "2026-07-09",
-              "rank": 25,
-              "points": 68.5,
-              "listeners": 8
-            }
-          ],
-          "peak": 25,
-          "weeks": 1
-        },
-        "ken carson - ghost (with lil uzi vert)": {
-          "title": "ghost (with lil uzi vert)",
-          "cover": "covers/ken_carson__ghost_with_lil_uzi_vert.png",
-          "history": [
-            {
-              "week": "2026-07-09",
-              "rank": 72,
-              "points": 55.0,
-              "listeners": 10
-            }
-          ],
-          "peak": 72,
-          "weeks": 1
-        },
-        "ken carson - deaf note (with playboi carti)": {
-          "title": "deaf note (With Playboi Carti)",
-          "cover": "covers/ken_carson__deaf_note_with_playboi_carti.png",
-          "history": [
-            {
-              "week": "2026-07-09",
-              "rank": 77,
-              "points": 54.0,
-              "listeners": 15
-            }
-          ],
-          "peak": 77,
-          "weeks": 1
-        },
-        "ken carson - wheredoistart": {
-          "title": "wheredoistart",
-          "cover": "covers/ken_carson__wheredoistart.png",
-          "history": [
-            {
-              "week": "2026-07-09",
-              "rank": 83,
-              "points": 52.5,
-              "listeners": 17
-            }
-          ],
-          "peak": 83,
-          "weeks": 1
-        }
-      }
-    },
-    "chrmbchrmb": {
-      "songs": {
-        "chrmbchrmb - matrix (bl studio loop)": {
-          "title": "matrix (BL studio loop)",
-          "cover": "covers/chrmbchrmb__matrix_bl_studio_loop.png",
-          "history": [
-            {
-              "week": "2026-07-09",
-              "rank": 27,
-              "points": 67.5,
-              "listeners": 12
-            }
-          ],
-          "peak": 27,
-          "weeks": 1
-        }
-      }
-    },
-    "TV Girl": {
-      "songs": {
-        "tv girl - taking what's not yours": {
-          "title": "Taking What's Not Yours",
-          "cover": "covers/tv_girl__taking_what_s_not_yours.png",
-          "history": [
-            {
-              "week": "2026-07-09",
-              "rank": 29,
-              "points": 66.0,
-              "listeners": 19
-            }
-          ],
-          "peak": 29,
-          "weeks": 1
-        },
-        "tv girl - lovers rock": {
-          "title": "Lovers Rock",
-          "cover": "covers/tv_girl__lovers_rock.png",
-          "history": [
-            {
-              "week": "2026-07-09",
-              "rank": 43,
-              "points": 60.5,
-              "listeners": 20
-            }
-          ],
-          "peak": 43,
-          "weeks": 1
-        },
-        "tv girl - the blonde": {
-          "title": "The Blonde",
-          "cover": "covers/tv_girl__the_blonde.png",
-          "history": [
-            {
-              "week": "2026-07-09",
-              "rank": 98,
-              "points": 49.5,
-              "listeners": 12
-            }
-          ],
-          "peak": 98,
-          "weeks": 1
-        }
-      }
-    },
-    "Linkin Park": {
-      "songs": {
-        "linkin park - somewhere i belong": {
-          "title": "Somewhere I Belong",
-          "cover": "covers/linkin_park__somewhere_i_belong.png",
-          "history": [
-            {
-              "week": "2026-07-09",
-              "rank": 30,
-              "points": 66.0,
-              "listeners": 12
-            }
-          ],
-          "peak": 30,
-          "weeks": 1
-        },
-        "linkin park - faint": {
-          "title": "Faint",
-          "cover": "covers/linkin_park__faint.png",
-          "history": [
-            {
-              "week": "2026-07-09",
-              "rank": 38,
-              "points": 63.0,
-              "listeners": 14
-            }
-          ],
-          "peak": 38,
-          "weeks": 1
-        }
-      }
-    },
-    "lexycat": {
-      "songs": {
-        "lexycat - glitter ✩‧₊˚": {
-          "title": "glitter ✩‧₊˚",
-          "cover": "covers/lexycat__glitter.png",
-          "history": [
-            {
-              "week": "2026-07-09",
-              "rank": 31,
-              "points": 65.5,
-              "listeners": 7
-            }
-          ],
-          "peak": 31,
-          "weeks": 1
-        }
-      }
-    },
-    "Her's": {
-      "songs": {
-        "her's - harvey": {
-          "title": "Harvey",
-          "cover": "covers/her_s__harvey.png",
-          "history": [
-            {
-              "week": "2026-07-09",
-              "rank": 33,
-              "points": 65.0,
-              "listeners": 11
-            }
-          ],
-          "peak": 33,
-          "weeks": 1
-        }
-      }
-    },
-    "Gigi Perez": {
-      "songs": {
-        "gigi perez - sailor song": {
-          "title": "Sailor Song",
-          "cover": "covers/gigi_perez__sailor_song.png",
-          "history": [
-            {
-              "week": "2026-07-09",
-              "rank": 34,
-              "points": 64.5,
-              "listeners": 11
-            }
-          ],
-          "peak": 34,
-          "weeks": 1
-        }
-      }
-    },
     "SUICIDAL-IDOL": {
       "songs": {
         "suicidal-idol - ecstacy (slowed)": {
@@ -886,164 +5614,6 @@
         }
       }
     },
-    "Matt Martians": {
-      "songs": {
-        "matt martians - an eater": {
-          "title": "An Eater",
-          "cover": "covers/matt_martians__an_eater.png",
-          "history": [
-            {
-              "week": "2026-07-09",
-              "rank": 36,
-              "points": 64.0,
-              "listeners": 9
-            }
-          ],
-          "peak": 36,
-          "weeks": 1
-        }
-      }
-    },
-    "Jamie Paige": {
-      "songs": {
-        "jamie paige - machine love": {
-          "title": "Machine Love",
-          "cover": "covers/jamie_paige__machine_love.png",
-          "history": [
-            {
-              "week": "2026-07-09",
-              "rank": 37,
-              "points": 64.0,
-              "listeners": 7
-            }
-          ],
-          "peak": 37,
-          "weeks": 1
-        }
-      }
-    },
-    "Twentythree": {
-      "songs": {
-        "twentythree - queen st": {
-          "title": "Queen St",
-          "cover": "covers/twentythree__queen_st.png",
-          "history": [
-            {
-              "week": "2026-07-09",
-              "rank": 39,
-              "points": 63.0,
-              "listeners": 7
-            }
-          ],
-          "peak": 39,
-          "weeks": 1
-        }
-      }
-    },
-    "Weezer": {
-      "songs": {
-        "weezer - go away": {
-          "title": "Go Away",
-          "cover": "covers/weezer__go_away.png",
-          "history": [
-            {
-              "week": "2026-07-09",
-              "rank": 40,
-              "points": 62.5,
-              "listeners": 14
-            }
-          ],
-          "peak": 40,
-          "weeks": 1
-        }
-      }
-    },
-    "Nirvana": {
-      "songs": {
-        "nirvana - breed": {
-          "title": "Breed",
-          "cover": "covers/nirvana__breed.png",
-          "history": [
-            {
-              "week": "2026-07-09",
-              "rank": 41,
-              "points": 62.5,
-              "listeners": 8
-            }
-          ],
-          "peak": 41,
-          "weeks": 1
-        }
-      }
-    },
-    "Laufey": {
-      "songs": {
-        "laufey - too little, too late": {
-          "title": "Too Little, Too Late",
-          "cover": "covers/laufey__too_little_too_late.png",
-          "history": [
-            {
-              "week": "2026-07-09",
-              "rank": 45,
-              "points": 60.5,
-              "listeners": 9
-            }
-          ],
-          "peak": 45,
-          "weeks": 1
-        }
-      }
-    },
-    "The Marías": {
-      "songs": {
-        "the marías - no one noticed": {
-          "title": "No One Noticed",
-          "cover": "covers/the_mar_as__no_one_noticed.png",
-          "history": [
-            {
-              "week": "2026-07-09",
-              "rank": 46,
-              "points": 60.0,
-              "listeners": 24
-            }
-          ],
-          "peak": 46,
-          "weeks": 1
-        }
-      }
-    },
-    "wifiskeleton": {
-      "songs": {
-        "wifiskeleton - nope your too late i already died": {
-          "title": "Nope your too late i already died",
-          "cover": "covers/wifiskeleton__nope_your_too_late_i_already_died.png",
-          "history": [
-            {
-              "week": "2026-07-09",
-              "rank": 47,
-              "points": 60.0,
-              "listeners": 15
-            }
-          ],
-          "peak": 47,
-          "weeks": 1
-        },
-        "wifiskeleton - bipolar": {
-          "title": "Bipolar",
-          "cover": "covers/wifiskeleton__bipolar.png",
-          "history": [
-            {
-              "week": "2026-07-09",
-              "rank": 52,
-              "points": 59.0,
-              "listeners": 14
-            }
-          ],
-          "peak": 52,
-          "weeks": 1
-        }
-      }
-    },
     "sombr": {
       "songs": {
         "sombr - back to friends": {
@@ -1052,44 +5622,12 @@
           "history": [
             {
               "week": "2026-07-09",
-              "rank": 48,
+              "rank": 49,
               "points": 59.5,
               "listeners": 11
             }
           ],
-          "peak": 48,
-          "weeks": 1
-        }
-      }
-    },
-    "Tame Impala": {
-      "songs": {
-        "tame impala - new person, same old mistakes": {
-          "title": "New Person, Same Old Mistakes",
-          "cover": "covers/tame_impala__new_person_same_old_mistakes.png",
-          "history": [
-            {
-              "week": "2026-07-09",
-              "rank": 49,
-              "points": 59.5,
-              "listeners": 9
-            }
-          ],
           "peak": 49,
-          "weeks": 1
-        },
-        "tame impala - the less i know the better": {
-          "title": "The Less I Know the Better",
-          "cover": "covers/tame_impala__the_less_i_know_the_better.png",
-          "history": [
-            {
-              "week": "2026-07-09",
-              "rank": 51,
-              "points": 59.0,
-              "listeners": 15
-            }
-          ],
-          "peak": 51,
           "weeks": 1
         }
       }
@@ -1102,48 +5640,12 @@
           "history": [
             {
               "week": "2026-07-09",
-              "rank": 54,
+              "rank": 55,
               "points": 59.0,
               "listeners": 5
             }
           ],
-          "peak": 54,
-          "weeks": 1
-        }
-      }
-    },
-    "rusino": {
-      "songs": {
-        "rusino - looping the rooms": {
-          "title": "Looping the Rooms",
-          "cover": "covers/rusino__looping_the_rooms.png",
-          "history": [
-            {
-              "week": "2026-07-09",
-              "rank": 55,
-              "points": 58.5,
-              "listeners": 15
-            }
-          ],
           "peak": 55,
-          "weeks": 1
-        }
-      }
-    },
-    "Ravyn Lenae": {
-      "songs": {
-        "ravyn lenae - love me not": {
-          "title": "Love Me Not",
-          "cover": "covers/ravyn_lenae__love_me_not.png",
-          "history": [
-            {
-              "week": "2026-07-09",
-              "rank": 57,
-              "points": 58.0,
-              "listeners": 16
-            }
-          ],
-          "peak": 57,
           "weeks": 1
         }
       }
@@ -1166,60 +5668,6 @@
         }
       }
     },
-    "Alex G": {
-      "songs": {
-        "alex g - sarah": {
-          "title": "Sarah",
-          "cover": "covers/alex_g__sarah.png",
-          "history": [
-            {
-              "week": "2026-07-09",
-              "rank": 59,
-              "points": 57.5,
-              "listeners": 13
-            }
-          ],
-          "peak": 59,
-          "weeks": 1
-        }
-      }
-    },
-    "The Weeknd": {
-      "songs": {
-        "the weeknd - the hills": {
-          "title": "The Hills",
-          "cover": "covers/the_weeknd__the_hills.png",
-          "history": [
-            {
-              "week": "2026-07-09",
-              "rank": 60,
-              "points": 57.5,
-              "listeners": 9
-            }
-          ],
-          "peak": 60,
-          "weeks": 1
-        }
-      }
-    },
-    "King Gnu": {
-      "songs": {
-        "king gnu - aizo": {
-          "title": "AIZO",
-          "cover": "covers/king_gnu__aizo.png",
-          "history": [
-            {
-              "week": "2026-07-09",
-              "rank": 61,
-              "points": 57.5,
-              "listeners": 7
-            }
-          ],
-          "peak": 61,
-          "weeks": 1
-        }
-      }
-    },
     "Joost": {
       "songs": {
         "joost - kutmuziek": {
@@ -1234,24 +5682,6 @@
             }
           ],
           "peak": 62,
-          "weeks": 1
-        }
-      }
-    },
-    "She & Him": {
-      "songs": {
-        "she & him - i thought i saw your face today": {
-          "title": "I Thought I Saw Your Face Today",
-          "cover": "covers/she_him__i_thought_i_saw_your_face_today.png",
-          "history": [
-            {
-              "week": "2026-07-09",
-              "rank": 64,
-              "points": 57.0,
-              "listeners": 8
-            }
-          ],
-          "peak": 64,
           "weeks": 1
         }
       }
@@ -1274,42 +5704,6 @@
         }
       }
     },
-    "Lil Uzi Vert": {
-      "songs": {
-        "lil uzi vert - xo tour llif3": {
-          "title": "XO TOUR Llif3",
-          "cover": "covers/lil_uzi_vert__xo_tour_llif3.png",
-          "history": [
-            {
-              "week": "2026-07-09",
-              "rank": 66,
-              "points": 56.5,
-              "listeners": 13
-            }
-          ],
-          "peak": 66,
-          "weeks": 1
-        }
-      }
-    },
-    "Soundgarden": {
-      "songs": {
-        "soundgarden - black hole sun": {
-          "title": "Black Hole Sun",
-          "cover": "covers/soundgarden__black_hole_sun.png",
-          "history": [
-            {
-              "week": "2026-07-09",
-              "rank": 67,
-              "points": 56.5,
-              "listeners": 12
-            }
-          ],
-          "peak": 67,
-          "weeks": 1
-        }
-      }
-    },
     "Tally Hall": {
       "songs": {
         "tally hall - the bidding": {
@@ -1324,24 +5718,6 @@
             }
           ],
           "peak": 69,
-          "weeks": 1
-        }
-      }
-    },
-    "Tyler, The Creator": {
-      "songs": {
-        "tyler, the creator - are we still friends?": {
-          "title": "ARE WE STILL FRIENDS?",
-          "cover": "covers/tyler_the_creator__are_we_still_friends.png",
-          "history": [
-            {
-              "week": "2026-07-09",
-              "rank": 70,
-              "points": 55.5,
-              "listeners": 11
-            }
-          ],
-          "peak": 70,
           "weeks": 1
         }
       }
@@ -1364,24 +5740,6 @@
         }
       }
     },
-    "Pierce the Veil": {
-      "songs": {
-        "pierce the veil - king for a day": {
-          "title": "King for a Day",
-          "cover": "covers/pierce_the_veil__king_for_a_day.png",
-          "history": [
-            {
-              "week": "2026-07-09",
-              "rank": 73,
-              "points": 55.0,
-              "listeners": 7
-            }
-          ],
-          "peak": 73,
-          "weeks": 1
-        }
-      }
-    },
     "bôa": {
       "songs": {
         "bôa - duvet": {
@@ -1396,24 +5754,6 @@
             }
           ],
           "peak": 74,
-          "weeks": 1
-        }
-      }
-    },
-    "Kendrick Lamar": {
-      "songs": {
-        "kendrick lamar - pride.": {
-          "title": "PRIDE.",
-          "cover": "covers/kendrick_lamar__pride.png",
-          "history": [
-            {
-              "week": "2026-07-09",
-              "rank": 75,
-              "points": 54.5,
-              "listeners": 11
-            }
-          ],
-          "peak": 75,
           "weeks": 1
         }
       }
@@ -1454,114 +5794,6 @@
         }
       }
     },
-    "Wolf Parade": {
-      "songs": {
-        "wolf parade - i'll believe in anything": {
-          "title": "I'll Believe in Anything",
-          "cover": "covers/wolf_parade__i_ll_believe_in_anything.png",
-          "history": [
-            {
-              "week": "2026-07-09",
-              "rank": 80,
-              "points": 53.5,
-              "listeners": 8
-            }
-          ],
-          "peak": 80,
-          "weeks": 1
-        }
-      }
-    },
-    "Electric Light Orchestra": {
-      "songs": {
-        "electric light orchestra - mr. blue sky": {
-          "title": "Mr. Blue Sky",
-          "cover": "covers/electric_light_orchestra__mr_blue_sky.png",
-          "history": [
-            {
-              "week": "2026-07-09",
-              "rank": 82,
-              "points": 53.0,
-              "listeners": 9
-            }
-          ],
-          "peak": 82,
-          "weeks": 1
-        }
-      }
-    },
-    "Mitski": {
-      "songs": {
-        "mitski - washing machine heart": {
-          "title": "Washing Machine Heart",
-          "cover": "covers/mitski__washing_machine_heart.png",
-          "history": [
-            {
-              "week": "2026-07-09",
-              "rank": 84,
-              "points": 52.5,
-              "listeners": 11
-            }
-          ],
-          "peak": 84,
-          "weeks": 1
-        }
-      }
-    },
-    "Corbon Amodio": {
-      "songs": {
-        "corbon amodio - lucy~": {
-          "title": "lucy~",
-          "cover": "covers/corbon_amodio__lucy.png",
-          "history": [
-            {
-              "week": "2026-07-09",
-              "rank": 86,
-              "points": 52.0,
-              "listeners": 10
-            }
-          ],
-          "peak": 86,
-          "weeks": 1
-        }
-      }
-    },
-    "Stevie Wonder": {
-      "songs": {
-        "stevie wonder - isn't she lovely": {
-          "title": "Isn't She Lovely",
-          "cover": "covers/stevie_wonder__isn_t_she_lovely.png",
-          "history": [
-            {
-              "week": "2026-07-09",
-              "rank": 89,
-              "points": 51.5,
-              "listeners": 9
-            }
-          ],
-          "peak": 89,
-          "weeks": 1
-        }
-      }
-    },
-    "Imogen Heap": {
-      "songs": {
-        "imogen heap - headlock": {
-          "title": "Headlock",
-          "cover": "covers/imogen_heap__headlock.png",
-          "history": [
-            {
-              "week": "2026-07-09",
-              "rank": 90,
-              "points": 51.0,
-              "listeners": 15
-            }
-          ],
-          "peak": 90,
-          "weeks": 1
-        }
-      }
-    },
     "Bruno Mars": {
       "songs": {
         "bruno mars - locked out of heaven": {
@@ -1576,60 +5808,6 @@
             }
           ],
           "peak": 92,
-          "weeks": 1
-        }
-      }
-    },
-    "Michael Jackson": {
-      "songs": {
-        "michael jackson - billie jean": {
-          "title": "Billie Jean",
-          "cover": "covers/michael_jackson__billie_jean.png",
-          "history": [
-            {
-              "week": "2026-07-09",
-              "rank": 94,
-              "points": 50.0,
-              "listeners": 15
-            }
-          ],
-          "peak": 94,
-          "weeks": 1
-        }
-      }
-    },
-    "Buckshot": {
-      "songs": {
-        "buckshot - fever": {
-          "title": "fever",
-          "cover": "covers/buckshot__fever.png",
-          "history": [
-            {
-              "week": "2026-07-09",
-              "rank": 95,
-              "points": 50.0,
-              "listeners": 10
-            }
-          ],
-          "peak": 95,
-          "weeks": 1
-        }
-      }
-    },
-    "Steve Lacy": {
-      "songs": {
-        "steve lacy - dark red": {
-          "title": "Dark Red",
-          "cover": "covers/steve_lacy__dark_red.png",
-          "history": [
-            {
-              "week": "2026-07-09",
-              "rank": 96,
-              "points": 50.0,
-              "listeners": 10
-            }
-          ],
-          "peak": 96,
           "weeks": 1
         }
       }
@@ -1666,24 +5844,6 @@
             }
           ],
           "peak": 99,
-          "weeks": 1
-        }
-      }
-    },
-    "Panchiko": {
-      "songs": {
-        "panchiko - d>e>a>t>h>m>e>t>a>l": {
-          "title": "D>E>A>T>H>M>E>T>A>L",
-          "cover": "covers/panchiko__d_e_a_t_h_m_e_t_a_l.png",
-          "history": [
-            {
-              "week": "2026-07-09",
-              "rank": 100,
-              "points": 49.0,
-              "listeners": 13
-            }
-          ],
-          "peak": 100,
           "weeks": 1
         }
       }

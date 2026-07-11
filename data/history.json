@@ -1,94 +1,1010 @@
 {
-  "the long faces - jane!": {
+  "michael jackson - chicago": {
     "peak": 1,
-    "weeks": 1
+    "weeks": 4
   },
-  "pupsies - misery.": {
+  "that handsome devil - charlie's inferno": {
     "peak": 2,
-    "weeks": 1
+    "weeks": 5
+  },
+  "radiohead - no surprises": {
+    "peak": 3,
+    "weeks": 5
+  },
+  "kanye west - gemini season": {
+    "peak": 4,
+    "weeks": 2
   },
   "malcolm todd - earrings": {
+    "peak": 1,
+    "weeks": 5
+  },
+  "the long faces - jane!": {
+    "peak": 2,
+    "weeks": 5
+  },
+  "wifiskeleton - nope your too late i already died": {
+    "peak": 7,
+    "weeks": 5
+  },
+  "malcolm todd - chest pain (i love)": {
+    "peak": 8,
+    "weeks": 4
+  },
+  "malcolm todd - malcolm in the middle": {
+    "peak": 9,
+    "weeks": 5
+  },
+  "malcolm todd - difficult love": {
+    "peak": 10,
+    "weeks": 2
+  },
+  "malcolm todd - jean skirt": {
+    "peak": 11,
+    "weeks": 1
+  },
+  "lex amarni - the kill 2": {
+    "peak": 6,
+    "weeks": 3
+  },
+  "chrmbchrmb - matrix (bl studio loop)": {
+    "peak": 8,
+    "weeks": 4
+  },
+  "sidney gish - impostor syndrome": {
     "peak": 3,
+    "weeks": 5
+  },
+  "cuntsniffer - meant to be": {
+    "peak": 7,
+    "weeks": 5
+  },
+  "malcolm todd - free.99": {
+    "peak": 16,
+    "weeks": 2
+  },
+  "pixy - legacy": {
+    "peak": 17,
     "weeks": 1
   },
-  "toby fox - cutie mew mew magic": {
-    "peak": 4,
+  "laufey - too little, too late": {
+    "peak": 18,
+    "weeks": 5
+  },
+  "laufey - from the start": {
+    "peak": 19,
+    "weeks": 2
+  },
+  "malcolm todd - obsessica": {
+    "peak": 20,
     "weeks": 1
   },
-  "dominic fike - babydoll": {
-    "peak": 5,
+  "foo fighters - everlong": {
+    "peak": 15,
+    "weeks": 4
+  },
+  "steve lacy - the feeling": {
+    "peak": 22,
     "weeks": 1
+  },
+  "michael jackson - billie jean": {
+    "peak": 11,
+    "weeks": 4
+  },
+  "daniel caesar - superpowers": {
+    "peak": 24,
+    "weeks": 2
+  },
+  "malcolm todd - i saw your face": {
+    "peak": 25,
+    "weeks": 3
   },
   "radiohead - creep": {
     "peak": 6,
+    "weeks": 5
+  },
+  "the jackson 5 - i want you back": {
+    "peak": 27,
     "weeks": 1
   },
-  "toby fox - flower man": {
+  "malcolm todd - roommates": {
+    "peak": 18,
+    "weeks": 5
+  },
+  "malcolm todd - x's & o's": {
+    "peak": 29,
+    "weeks": 1
+  },
+  "azali - playful massacre": {
+    "peak": 30,
+    "weeks": 1
+  },
+  "malcolm todd - ain't that the truth": {
+    "peak": 31,
+    "weeks": 1
+  },
+  "matt martians - an eater": {
+    "peak": 21,
+    "weeks": 5
+  },
+  "malcolm todd - sweet boy": {
+    "peak": 13,
+    "weeks": 5
+  },
+  "king gnu - aizo": {
+    "peak": 34,
+    "weeks": 3
+  },
+  "joey valence & brae - punk tactics": {
+    "peak": 35,
+    "weeks": 2
+  },
+  "tame impala - dracula": {
+    "peak": 36,
+    "weeks": 3
+  },
+  "lustra - scotty doesn't know": {
+    "peak": 37,
+    "weeks": 1
+  },
+  "malcolm todd - gun to my head": {
+    "peak": 38,
+    "weeks": 3
+  },
+  "radiohead - karma police": {
+    "peak": 39,
+    "weeks": 2
+  },
+  "steve lacy - bad habit": {
+    "peak": 11,
+    "weeks": 4
+  },
+  "buckshot - fever": {
+    "peak": 29,
+    "weeks": 5
+  },
+  "the living tombstone - it's been so long": {
+    "peak": 17,
+    "weeks": 3
+  },
+  "malcolm todd - breathe": {
+    "peak": 33,
+    "weeks": 2
+  },
+  "gwen stefani - bubble pop electric": {
+    "peak": 44,
+    "weeks": 1
+  },
+  "ravyn lenae - love me not": {
+    "peak": 41,
+    "weeks": 3
+  },
+  "chris rainbow - be like a woman": {
+    "peak": 46,
+    "weeks": 1
+  },
+  "beabadoobee - the perfect pair": {
+    "peak": 47,
+    "weeks": 1
+  },
+  "original mix - weezer - say it ain't so": {
+    "peak": 48,
+    "weeks": 2
+  },
+  "tv girl - cigarettes out the window": {
+    "peak": 49,
+    "weeks": 1
+  },
+  "azali - battle under a broken sky": {
+    "peak": 50,
+    "weeks": 1
+  },
+  "groundbreaking - the bonnie song": {
+    "peak": 51,
+    "weeks": 1
+  },
+  "the living tombstone - my ordinary life": {
+    "peak": 20,
+    "weeks": 4
+  },
+  "panchiko - d>e>a>t>h>m>e>t>a>l": {
+    "peak": 32,
+    "weeks": 4
+  },
+  "the marías - no one noticed": {
+    "peak": 47,
+    "weeks": 2
+  },
+  "lil peep - nuts": {
+    "peak": 55,
+    "weeks": 1
+  },
+  "glass animals - take a slice": {
+    "peak": 56,
+    "weeks": 1
+  },
+  "kanye west - father stretch my hands pt. 1": {
+    "peak": 57,
+    "weeks": 1
+  },
+  "pinkpantheress - girl like me": {
+    "peak": 43,
+    "weeks": 4
+  },
+  "kanye west - punch drunk": {
+    "peak": 15,
+    "weeks": 3
+  },
+  "dominic fike - babydoll": {
+    "peak": 5,
+    "weeks": 3
+  },
+  "michael jackson - beat it": {
+    "peak": 24,
+    "weeks": 3
+  },
+  "kanye west - touch the sky": {
+    "peak": 62,
+    "weeks": 2
+  },
+  "tame impala - the less i know the better": {
+    "peak": 35,
+    "weeks": 4
+  },
+  "kanye west - champion": {
+    "peak": 18,
+    "weeks": 3
+  },
+  "malcolm todd - do that again": {
+    "peak": 65,
+    "weeks": 2
+  },
+  "my chemical romance - famous last words": {
+    "peak": 66,
+    "weeks": 1
+  },
+  "cortis - redred": {
+    "peak": 67,
+    "weeks": 1
+  },
+  "pinkpantheress - stateside + zara larsson": {
+    "peak": 22,
+    "weeks": 4
+  },
+  "duskydemise - bedrott": {
+    "peak": 9,
+    "weeks": 5
+  },
+  "azali - chaos construct": {
+    "peak": 70,
+    "weeks": 1
+  },
+  "corbon amodio - lucy~": {
+    "peak": 42,
+    "weeks": 3
+  },
+  "c418 - subwoofer lullaby": {
+    "peak": 72,
+    "weeks": 1
+  },
+  "devi mccallion - i want things to be beautiful": {
+    "peak": 53,
+    "weeks": 2
+  },
+  "gorillaz - clint eastwood": {
+    "peak": 74,
+    "weeks": 1
+  },
+  "malcolm todd - attention": {
+    "peak": 75,
+    "weeks": 1
+  },
+  "radiohead - exit music (for a film)": {
+    "peak": 76,
+    "weeks": 1
+  },
+  "k'naan - bang bang": {
+    "peak": 77,
+    "weeks": 2
+  },
+  "kanye west - heard 'em say": {
+    "peak": 78,
+    "weeks": 1
+  },
+  "alex g - 16 mirrors": {
+    "peak": 79,
+    "weeks": 1
+  },
+  "laufey - lover girl": {
+    "peak": 31,
+    "weeks": 4
+  },
+  "the living tombstone - i can't fix you": {
+    "peak": 45,
+    "weeks": 2
+  },
+  "steve lacy - dark red": {
+    "peak": 82,
+    "weeks": 2
+  },
+  "toby fox - big shot": {
+    "peak": 83,
+    "weeks": 1
+  },
+  "kanye west - heartless": {
+    "peak": 84,
+    "weeks": 2
+  },
+  "electric light orchestra - mr. blue sky": {
+    "peak": 82,
+    "weeks": 2
+  },
+  "green day - basket case": {
+    "peak": 86,
+    "weeks": 1
+  },
+  "ultra slowed - lonown - worry": {
+    "peak": 87,
+    "weeks": 1
+  },
+  "jeff buckley - lover, you should've come over": {
+    "peak": 88,
+    "weeks": 1
+  },
+  "mitski - washing machine heart": {
+    "peak": 84,
+    "weeks": 3
+  },
+  "vince staples - blackberry marmalade": {
+    "peak": 90,
+    "weeks": 1
+  },
+  "kanye west - i wonder": {
+    "peak": 37,
+    "weeks": 2
+  },
+  "2012 remaster - michael jackson - smooth criminal": {
+    "peak": 92,
+    "weeks": 1
+  },
+  "tlc - no scrubs": {
+    "peak": 93,
+    "weeks": 2
+  },
+  "axie - terrible things": {
+    "peak": 94,
+    "weeks": 1
+  },
+  "the living tombstone - five nights at freddy's": {
+    "peak": 95,
+    "weeks": 1
+  },
+  "gorillaz - feel good inc.": {
+    "peak": 17,
+    "weeks": 2
+  },
+  "wheatus - teenage dirtbag": {
+    "peak": 88,
+    "weeks": 2
+  },
+  "the neighbourhood - sweater weather": {
+    "peak": 98,
+    "weeks": 1
+  },
+  "cigarettes after sex - apocalypse": {
+    "peak": 99,
+    "weeks": 1
+  },
+  "two door cinema club - what you know": {
+    "peak": 92,
+    "weeks": 2
+  },
+  "oliver tree - life goes on": {
+    "peak": 4,
+    "weeks": 2
+  },
+  "oliver tree - alien boy": {
+    "peak": 14,
+    "weeks": 4
+  },
+  "lit - my own worst enemy": {
+    "peak": 25,
+    "weeks": 2
+  },
+  "tv girl - the blonde": {
+    "peak": 27,
+    "weeks": 2
+  },
+  "system of a down - chop suey!": {
+    "peak": 14,
+    "weeks": 3
+  },
+  "arctic monkeys - 505": {
+    "peak": 29,
+    "weeks": 2
+  },
+  "oliver tree - jerk": {
+    "peak": 9,
+    "weeks": 3
+  },
+  "ridgeclub - do i clench my fists? (slowed + reverb)": {
+    "peak": 34,
+    "weeks": 1
+  },
+  "tyler, the creator - see you again (feat. kali uchis)": {
+    "peak": 35,
+    "weeks": 2
+  },
+  "billy idol - eyes without a face": {
+    "peak": 38,
+    "weeks": 1
+  },
+  "sublime - santeria": {
+    "peak": 41,
+    "weeks": 1
+  },
+  "olivia rodrigo - u + me = <3": {
+    "peak": 45,
+    "weeks": 2
+  },
+  "weezer - i just threw out the love of my dreams": {
+    "peak": 46,
+    "weeks": 3
+  },
+  "kenshi yonezu - kick back": {
+    "peak": 48,
+    "weeks": 1
+  },
+  "red hot chili peppers - can't stop": {
+    "peak": 49,
+    "weeks": 1
+  },
+  "olivia rodrigo - the cure": {
+    "peak": 50,
+    "weeks": 2
+  },
+  "osamason - addicted": {
+    "peak": 51,
+    "weeks": 1
+  },
+  "kanye west - dark fantasy": {
+    "peak": 52,
+    "weeks": 1
+  },
+  "kanye west - runaway": {
+    "peak": 53,
+    "weeks": 1
+  },
+  "wifiskeleton - my twenty first reason </3": {
+    "peak": 54,
+    "weeks": 1
+  },
+  "juice wrld - lucid dreams": {
+    "peak": 55,
+    "weeks": 2
+  },
+  "linkin park - in the end": {
+    "peak": 58,
+    "weeks": 1
+  },
+  "kanye west - flashing lights": {
+    "peak": 56,
+    "weeks": 2
+  },
+  "weezer - go away": {
+    "peak": 40,
+    "weeks": 2
+  },
+  "oliver tree - hurt": {
+    "peak": 58,
+    "weeks": 2
+  },
+  "wifiskeleton - isnt it obvious": {
+    "peak": 63,
+    "weeks": 1
+  },
+  "laura les - haunted": {
+    "peak": 64,
+    "weeks": 1
+  },
+  "kenshi yonezu - iris out": {
+    "peak": 65,
+    "weeks": 1
+  },
+  "kanye west - stronger": {
+    "peak": 67,
+    "weeks": 1
+  },
+  "tv girl - blue hair": {
+    "peak": 69,
+    "weeks": 1
+  },
+  "pierce the veil - king for a day": {
+    "peak": 70,
+    "weeks": 2
+  },
+  "olivia rodrigo - drop dead": {
+    "peak": 21,
+    "weeks": 3
+  },
+  "adventure time - everything stays (feat. olivia olson)": {
+    "peak": 72,
+    "weeks": 1
+  },
+  "my chemical romance - helena": {
+    "peak": 74,
+    "weeks": 1
+  },
+  "miraidempa - unslept": {
+    "peak": 75,
+    "weeks": 1
+  },
+  "olivia rodrigo - my way": {
+    "peak": 76,
+    "weeks": 1
+  },
+  "bunii - amnesia": {
+    "peak": 78,
+    "weeks": 2
+  },
+  "the jackson 5 - abc": {
+    "peak": 80,
+    "weeks": 1
+  },
+  "lolwtfitsjake - the crazy in your eyes": {
+    "peak": 81,
+    "weeks": 1
+  },
+  "rusino - looping the rooms": {
+    "peak": 43,
+    "weeks": 3
+  },
+  "groundbreaking - the bonnie song (remastered)": {
+    "peak": 83,
+    "weeks": 1
+  },
+  "lexycat - glitter ✩‧₊˚": {
+    "peak": 31,
+    "weeks": 2
+  },
+  "evanescence - bring me to life": {
+    "peak": 85,
+    "weeks": 2
+  },
+  "kanye west - can't tell me nothing": {
+    "peak": 18,
+    "weeks": 3
+  },
+  "the living tombstone - discord": {
+    "peak": 87,
+    "weeks": 1
+  },
+  "olivia rodrigo - stupid song": {
+    "peak": 89,
+    "weeks": 1
+  },
+  "dan salvato - my confession": {
+    "peak": 93,
+    "weeks": 1
+  },
+  "panic! at the disco - i write sins not tragedies": {
+    "peak": 95,
+    "weeks": 1
+  },
+  "lemon demon - fine": {
+    "peak": 48,
+    "weeks": 2
+  },
+  "wifiskeleton - lovefool demo": {
+    "peak": 98,
+    "weeks": 1
+  },
+  "twentythree - queen st": {
+    "peak": 39,
+    "weeks": 3
+  },
+  "kanye west - king": {
+    "peak": 1,
+    "weeks": 3
+  },
+  "stevie wonder - isn't she lovely": {
+    "peak": 2,
+    "weeks": 3
+  },
+  "kanye west - all the love (feat. andre troutman)": {
+    "peak": 3,
+    "weeks": 2
+  },
+  "kanye west - i can’t wait (feat. ms. lauryn hill)": {
+    "peak": 4,
+    "weeks": 1
+  },
+  "kanye west - father (feat. travis scott)": {
+    "peak": 5,
+    "weeks": 2
+  },
+  "kanye west - this a must": {
     "peak": 7,
     "weeks": 1
   },
-  "cuntsniffer - meant to be": {
+  "kanye west - mission control": {
     "peak": 8,
     "weeks": 1
   },
-  "that handsome devil - charlie's inferno": {
-    "peak": 9,
+  "kanye west - ok (feat. don toliver)": {
+    "peak": 10,
+    "weeks": 1
+  },
+  "toby fox - cutie mew mew magic": {
+    "peak": 1,
+    "weeks": 3
+  },
+  "pupsies - misery.": {
+    "peak": 1,
+    "weeks": 3
+  },
+  "imogen heap - headlock": {
+    "peak": 18,
+    "weeks": 3
+  },
+  "kanye west - this one here": {
+    "peak": 19,
+    "weeks": 1
+  },
+  "toby fox - the world revolving": {
+    "peak": 22,
+    "weeks": 2
+  },
+  "toby fox - flower man": {
+    "peak": 2,
+    "weeks": 3
+  },
+  "soundgarden - black hole sun": {
+    "peak": 28,
+    "weeks": 3
+  },
+  "jamie paige - birdbrain": {
+    "peak": 34,
+    "weeks": 1
+  },
+  "toby fox - rude buster": {
+    "peak": 14,
+    "weeks": 3
+  },
+  "tv girl - not allowed": {
+    "peak": 16,
+    "weeks": 2
+  },
+  "kanye west - sisters and brothers": {
+    "peak": 38,
+    "weeks": 1
+  },
+  "kanye west - white lines (feat. andre troutman)": {
+    "peak": 39,
+    "weeks": 1
+  },
+  "f3miii - noble": {
+    "peak": 40,
+    "weeks": 1
+  },
+  "her's - harvey": {
+    "peak": 33,
+    "weeks": 3
+  },
+  "kanye west - whatever works": {
+    "peak": 43,
+    "weeks": 1
+  },
+  "nirvana - heart-shaped box": {
+    "peak": 47,
+    "weeks": 1
+  },
+  "linkin park - somewhere i belong": {
+    "peak": 30,
+    "weeks": 2
+  },
+  "clarion - hello juliet": {
+    "peak": 50,
+    "weeks": 1
+  },
+  "mac demarco - for the first time": {
+    "peak": 51,
+    "weeks": 2
+  },
+  "panchiko - laputa": {
+    "peak": 53,
+    "weeks": 1
+  },
+  "childish gambino - l.e.s.": {
+    "peak": 57,
+    "weeks": 1
+  },
+  "kanye west - all of the lights": {
+    "peak": 59,
+    "weeks": 2
+  },
+  "kanye west - bully (feat. ceelo green)": {
+    "peak": 60,
+    "weeks": 1
+  },
+  "kanye west - highs and lows": {
+    "peak": 62,
+    "weeks": 1
+  },
+  "tyler, the creator - are we still friends?": {
+    "peak": 63,
+    "weeks": 2
+  },
+  "kanye west - mama’s favorite (feat. nine vicious)": {
+    "peak": 64,
+    "weeks": 1
+  },
+  "pierce the veil - bulls in the bronx": {
+    "peak": 66,
+    "weeks": 1
+  },
+  "kanye west - preacher man": {
+    "peak": 69,
+    "weeks": 1
+  },
+  "kanye west - circles": {
+    "peak": 70,
+    "weeks": 1
+  },
+  "justin timberlake - sexyback (feat. timbaland)": {
+    "peak": 71,
+    "weeks": 1
+  },
+  "feist - my moon my man": {
+    "peak": 73,
+    "weeks": 1
+  },
+  "she & him - i thought i saw your face today": {
+    "peak": 64,
+    "weeks": 2
+  },
+  "olivia rodrigo - honeybee": {
+    "peak": 77,
+    "weeks": 1
+  },
+  "ax and the hatchetmen - hotel room": {
+    "peak": 79,
+    "weeks": 1
+  },
+  "joji - slow dancing in the dark": {
+    "peak": 81,
+    "weeks": 1
+  },
+  "radiohead - all i need": {
+    "peak": 82,
+    "weeks": 2
+  },
+  "rihanna - don't stop the music": {
+    "peak": 83,
+    "weeks": 1
+  },
+  "kanye west - bound 2": {
+    "peak": 77,
+    "weeks": 2
+  },
+  "justin bieber - beauty and a beat": {
+    "peak": 86,
+    "weeks": 1
+  },
+  "three days grace - animal i have become": {
+    "peak": 88,
+    "weeks": 1
+  },
+  "3oh!3 - richman": {
+    "peak": 90,
+    "weeks": 1
+  },
+  "flavor foley - spoken for": {
+    "peak": 91,
+    "weeks": 1
+  },
+  "高中正義 - brasilian skies": {
+    "peak": 92,
+    "weeks": 1
+  },
+  "deftones - sextape": {
+    "peak": 65,
+    "weeks": 2
+  },
+  "tv girl - taking what's not yours": {
+    "peak": 29,
+    "weeks": 3
+  },
+  "fried by fluoride - the love i lost": {
+    "peak": 97,
+    "weeks": 1
+  },
+  "the weeknd - die for you": {
+    "peak": 98,
+    "weeks": 1
+  },
+  "dagames - get out": {
+    "peak": 99,
+    "weeks": 1
+  },
+  "all time low - dear maria, count me in": {
+    "peak": 100,
+    "weeks": 1
+  },
+  "gigi perez - sailor song": {
+    "peak": 10,
+    "weeks": 2
+  },
+  "mac demarco - no other heart": {
+    "peak": 19,
+    "weeks": 1
+  },
+  "the living tombstone - i can't fix you (feat. crusher-p)": {
+    "peak": 21,
+    "weeks": 1
+  },
+  "puzzle - loose cannon": {
+    "peak": 23,
+    "weeks": 1
+  },
+  "ken carson - deaf note (with playboi carti)": {
+    "peak": 24,
+    "weeks": 2
+  },
+  "2012 remaster - michael jackson - bad": {
+    "peak": 26,
+    "weeks": 1
+  },
+  "toby fox - sunset of seven suns": {
+    "peak": 27,
+    "weeks": 1
+  },
+  "ken carson - wrist": {
+    "peak": 30,
+    "weeks": 1
+  },
+  "ken carson - wheredoistart": {
+    "peak": 32,
+    "weeks": 2
+  },
+  "lil uzi vert - xo tour llif3": {
+    "peak": 36,
+    "weeks": 2
+  },
+  "tyler, the creator - that guy": {
+    "peak": 38,
+    "weeks": 1
+  },
+  "tv girl - lovers rock": {
+    "peak": 39,
+    "weeks": 2
+  },
+  "j. cole - no role modelz": {
+    "peak": 45,
+    "weeks": 1
+  },
+  "the weeknd - the hills": {
+    "peak": 47,
+    "weeks": 2
+  },
+  "wolf parade - i'll believe in anything": {
+    "peak": 49,
+    "weeks": 2
+  },
+  "2011 remaster - the smiths - there is a light that never goes out": {
+    "peak": 50,
+    "weeks": 1
+  },
+  "end credits - steven universe - love like you (feat. rebecca sugar)": {
+    "peak": 51,
+    "weeks": 1
+  },
+  "rosa walton - i really want to stay at your house": {
+    "peak": 54,
+    "weeks": 1
+  },
+  "the cardigans - lovefool": {
+    "peak": 57,
+    "weeks": 1
+  },
+  "ken carson - shadeson (with 2hollis)": {
+    "peak": 60,
+    "weeks": 1
+  },
+  "kanye west - mission control (feat. the wrldfms tony williams)": {
+    "peak": 63,
+    "weeks": 1
+  },
+  "demo - frou frou - a new kind of love": {
+    "peak": 64,
+    "weeks": 1
+  },
+  "lyn - last surprise": {
+    "peak": 68,
+    "weeks": 1
+  },
+  "cafuné - tek it": {
+    "peak": 69,
+    "weeks": 1
+  },
+  "deftones - change (in the house of flies)": {
+    "peak": 70,
+    "weeks": 1
+  },
+  "ken carson - gynecologist": {
+    "peak": 71,
+    "weeks": 1
+  },
+  "kanye west - ghost town": {
+    "peak": 72,
+    "weeks": 1
+  },
+  "2011 remaster - the smiths - heaven knows i'm miserable now": {
+    "peak": 74,
+    "weeks": 1
+  },
+  "kendrick lamar - tv off (feat. lefty gunplay)": {
+    "peak": 75,
+    "weeks": 1
+  },
+  "nirvana - all apologies": {
+    "peak": 76,
+    "weeks": 1
+  },
+  "toby fox - running sky": {
+    "peak": 78,
+    "weeks": 1
+  },
+  "the marías - sienna": {
+    "peak": 81,
+    "weeks": 1
+  },
+  "julia wolf - in my room": {
+    "peak": 82,
+    "weeks": 1
+  },
+  "deftones - my own summer (shove it)": {
+    "peak": 54,
+    "weeks": 2
+  },
+  "system of a down - lonely day": {
+    "peak": 87,
+    "weeks": 1
+  },
+  "kikuo - ふたつの木馬 (feat. 初音ミク)": {
+    "peak": 91,
+    "weeks": 1
+  },
+  "toby fox - black knife": {
+    "peak": 95,
+    "weeks": 1
+  },
+  "new version - franz ferdinand - this fffire": {
+    "peak": 97,
+    "weeks": 1
+  },
+  "tame impala - new person, same old mistakes": {
+    "peak": 50,
+    "weeks": 2
+  },
+  "the sweater song - weezer - undone": {
+    "peak": 100,
     "weeks": 1
   },
   "lovejoy - alphabet (wasted summer)": {
     "peak": 10,
     "weeks": 1
   },
-  "sidney gish - impostor syndrome": {
-    "peak": 11,
-    "weeks": 1
-  },
   "green day - brain stew": {
     "peak": 12,
-    "weeks": 1
-  },
-  "duskydemise - bedrott": {
-    "peak": 13,
-    "weeks": 1
-  },
-  "toby fox - rude buster": {
-    "peak": 14,
     "weeks": 1
   },
   "slayr - promise": {
     "peak": 15,
     "weeks": 1
   },
-  "foo fighters - everlong": {
-    "peak": 16,
-    "weeks": 1
-  },
-  "the living tombstone - it's been so long": {
-    "peak": 17,
-    "weeks": 1
-  },
-  "malcolm todd - roommates": {
-    "peak": 18,
-    "weeks": 1
-  },
-  "kanye west - can't tell me nothing": {
-    "peak": 19,
-    "weeks": 1
-  },
   "mac demarco - heart to heart": {
     "peak": 20,
-    "weeks": 1
-  },
-  "olivia rodrigo - drop dead": {
-    "peak": 21,
-    "weeks": 1
-  },
-  "pinkpantheress - stateside + zara larsson": {
-    "peak": 22,
-    "weeks": 1
-  },
-  "oliver tree - alien boy": {
-    "peak": 23,
     "weeks": 1
   },
   "deftones - be quiet and drive (far away)": {
@@ -96,51 +1012,11 @@
     "weeks": 1
   },
   "ken carson - knocking": {
-    "peak": 25,
-    "weeks": 1
-  },
-  "radiohead - no surprises": {
     "peak": 26,
-    "weeks": 1
-  },
-  "chrmbchrmb - matrix (bl studio loop)": {
-    "peak": 27,
-    "weeks": 1
-  },
-  "the living tombstone - my ordinary life": {
-    "peak": 28,
-    "weeks": 1
-  },
-  "tv girl - taking what's not yours": {
-    "peak": 29,
-    "weeks": 1
-  },
-  "linkin park - somewhere i belong": {
-    "peak": 30,
-    "weeks": 1
-  },
-  "lexycat - glitter ✩‧₊˚": {
-    "peak": 31,
-    "weeks": 1
-  },
-  "malcolm todd - malcolm in the middle": {
-    "peak": 32,
-    "weeks": 1
-  },
-  "her's - harvey": {
-    "peak": 33,
-    "weeks": 1
-  },
-  "gigi perez - sailor song": {
-    "peak": 34,
     "weeks": 1
   },
   "suicidal-idol - ecstacy (slowed)": {
     "peak": 35,
-    "weeks": 1
-  },
-  "matt martians - an eater": {
-    "peak": 36,
     "weeks": 1
   },
   "jamie paige - machine love": {
@@ -151,14 +1027,6 @@
     "peak": 38,
     "weeks": 1
   },
-  "twentythree - queen st": {
-    "peak": 39,
-    "weeks": 1
-  },
-  "weezer - go away": {
-    "peak": 40,
-    "weeks": 1
-  },
   "nirvana - breed": {
     "peak": 41,
     "weeks": 1
@@ -167,64 +1035,16 @@
     "peak": 42,
     "weeks": 1
   },
-  "tv girl - lovers rock": {
-    "peak": 43,
-    "weeks": 1
-  },
-  "the living tombstone - i can't fix you": {
-    "peak": 44,
-    "weeks": 1
-  },
-  "laufey - too little, too late": {
-    "peak": 45,
-    "weeks": 1
-  },
-  "the marías - no one noticed": {
-    "peak": 46,
-    "weeks": 1
-  },
-  "wifiskeleton - nope your too late i already died": {
-    "peak": 47,
-    "weeks": 1
-  },
   "sombr - back to friends": {
-    "peak": 48,
-    "weeks": 1
-  },
-  "tame impala - new person, same old mistakes": {
     "peak": 49,
     "weeks": 1
   },
-  "malcolm todd - sweet boy": {
-    "peak": 50,
-    "weeks": 1
-  },
-  "tame impala - the less i know the better": {
-    "peak": 51,
-    "weeks": 1
-  },
   "wifiskeleton - bipolar": {
-    "peak": 52,
-    "weeks": 1
-  },
-  "deftones - my own summer (shove it)": {
     "peak": 53,
     "weeks": 1
   },
   "rat boy - who's ready for tomorrow": {
-    "peak": 54,
-    "weeks": 1
-  },
-  "rusino - looping the rooms": {
     "peak": 55,
-    "weeks": 1
-  },
-  "kanye west - flashing lights": {
-    "peak": 56,
-    "weeks": 1
-  },
-  "ravyn lenae - love me not": {
-    "peak": 57,
     "weeks": 1
   },
   "mollie elizabeth - run rabbit": {
@@ -235,14 +1055,6 @@
     "peak": 59,
     "weeks": 1
   },
-  "the weeknd - the hills": {
-    "peak": 60,
-    "weeks": 1
-  },
-  "king gnu - aizo": {
-    "peak": 61,
-    "weeks": 1
-  },
   "joost - kutmuziek": {
     "peak": 62,
     "weeks": 1
@@ -251,20 +1063,8 @@
     "peak": 63,
     "weeks": 1
   },
-  "she & him - i thought i saw your face today": {
-    "peak": 64,
-    "weeks": 1
-  },
   "sheena ringo - 薄ら氷心中": {
     "peak": 65,
-    "weeks": 1
-  },
-  "lil uzi vert - xo tour llif3": {
-    "peak": 66,
-    "weeks": 1
-  },
-  "soundgarden - black hole sun": {
-    "peak": 67,
     "weeks": 1
   },
   "slayr - switch my swag": {
@@ -275,20 +1075,12 @@
     "peak": 69,
     "weeks": 1
   },
-  "tyler, the creator - are we still friends?": {
-    "peak": 70,
-    "weeks": 1
-  },
   "yaelokre - harpy hare": {
     "peak": 71,
     "weeks": 1
   },
   "ken carson - ghost (with lil uzi vert)": {
     "peak": 72,
-    "weeks": 1
-  },
-  "pierce the veil - king for a day": {
-    "peak": 73,
     "weeks": 1
   },
   "bôa - duvet": {
@@ -303,10 +1095,6 @@
     "peak": 76,
     "weeks": 1
   },
-  "ken carson - deaf note (with playboi carti)": {
-    "peak": 77,
-    "weeks": 1
-  },
   "spider-man: into the spider-verse - post malone - sunflower": {
     "peak": 78,
     "weeks": 1
@@ -315,52 +1103,8 @@
     "peak": 79,
     "weeks": 1
   },
-  "wolf parade - i'll believe in anything": {
-    "peak": 80,
-    "weeks": 1
-  },
-  "pinkpantheress - girl like me": {
-    "peak": 81,
-    "weeks": 1
-  },
-  "electric light orchestra - mr. blue sky": {
-    "peak": 82,
-    "weeks": 1
-  },
-  "ken carson - wheredoistart": {
-    "peak": 83,
-    "weeks": 1
-  },
-  "mitski - washing machine heart": {
-    "peak": 84,
-    "weeks": 1
-  },
-  "radiohead - all i need": {
-    "peak": 85,
-    "weeks": 1
-  },
-  "corbon amodio - lucy~": {
-    "peak": 86,
-    "weeks": 1
-  },
   "radiohead - fake plastic trees": {
     "peak": 87,
-    "weeks": 1
-  },
-  "kanye west - king": {
-    "peak": 88,
-    "weeks": 1
-  },
-  "stevie wonder - isn't she lovely": {
-    "peak": 89,
-    "weeks": 1
-  },
-  "imogen heap - headlock": {
-    "peak": 90,
-    "weeks": 1
-  },
-  "kanye west - all of the lights": {
-    "peak": 91,
     "weeks": 1
   },
   "bruno mars - locked out of heaven": {
@@ -371,32 +1115,12 @@
     "peak": 93,
     "weeks": 1
   },
-  "michael jackson - billie jean": {
-    "peak": 94,
-    "weeks": 1
-  },
-  "buckshot - fever": {
-    "peak": 95,
-    "weeks": 1
-  },
-  "steve lacy - dark red": {
-    "peak": 96,
-    "weeks": 1
-  },
   "sushi soucy - i deserve to bleed": {
     "peak": 97,
     "weeks": 1
   },
-  "tv girl - the blonde": {
-    "peak": 98,
-    "weeks": 1
-  },
   "fetty wap - trap queen": {
     "peak": 99,
-    "weeks": 1
-  },
-  "panchiko - d>e>a>t>h>m>e>t>a>l": {
-    "peak": 100,
     "weeks": 1
   }
 }
