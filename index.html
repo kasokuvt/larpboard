@@ -13,74 +13,162 @@
 <body>
   <a class="skip-link" href="#main-content">Skip to content</a>
 
-  <div class="page-shell">
-    <header class="site-header">
-      <div class="brand-block">
-        <div class="brand-mark" aria-label="Larpboard logo">
-          <svg viewBox="0 0 120 48" role="img" aria-label="Larpboard">
-            <rect x="2" y="4" width="18" height="40" fill="currentColor"></rect>
-            <rect x="24" y="4" width="10" height="40" fill="currentColor"></rect>
-            <rect x="38" y="4" width="10" height="40" fill="currentColor"></rect>
-            <rect x="52" y="4" width="10" height="40" fill="currentColor"></rect>
-            <path d="M74 4h12c15 0 26 8 26 20s-11 20-26 20H74z" fill="currentColor"></path>
-          </svg>
-        </div>
-
-        <div class="brand-copy">
-          <p class="eyebrow">Weekly community chart</p>
-          <h1>Larpboard Hot 100</h1>
-          <p class="tagline">A weekly fan-run chart built from Last.fm listening activity.</p>
-        </div>
+  <div class="app-shell">
+    <aside class="archive-rail" id="archive-rail" aria-label="Week archive navigation">
+      <div class="archive-rail-header">
+        <p class="eyebrow">Archive</p>
+        <h2 class="archive-rail-title">Chart weeks</h2>
       </div>
+      <div class="archive-search-wrap">
+        <input type="search" id="archive-week-search" class="archive-week-search" placeholder="Filter weeks...">
+      </div>
+      <ul class="archive-week-list" id="archive-week-list"></ul>
+    </aside>
 
-      <div class="header-actions">
-        <div class="picker-group">
-          <label class="week-picker-label" for="week-picker">Week</label>
-          <select id="week-picker" class="week-picker" aria-label="Select chart week"></select>
-        </div>
-
-        <button type="button" class="theme-toggle" data-theme-toggle aria-label="Switch color mode">
-          <span class="theme-toggle-inner">◐</span>
+    <div class="page-shell">
+      <header class="site-header">
+        <button type="button" class="rail-toggle" id="rail-toggle" aria-label="Toggle week archive" aria-expanded="false">
+          <span></span><span></span><span></span>
         </button>
-      </div>
-    </header>
 
-    <main id="main-content" class="main-layout">
-      <section class="hero-panel">
-        <div class="hero-copy">
-          <p class="hero-kicker">Week of</p>
-          <p id="week-of" class="hero-week">Loading…</p>
-          <p class="hero-summary">A live community-powered top 100 built from weekly listening trends.</p>
-        </div>
-
-        <div class="hero-stats" aria-label="Current chart snapshot">
-          <article class="hero-stat-card">
-            <span class="hero-stat-label">New songs</span>
-            <strong id="stat-new-songs">—</strong>
-          </article>
-          <article class="hero-stat-card">
-            <span class="hero-stat-label">Re-entries</span>
-            <strong id="stat-re-entries">—</strong>
-          </article>
-          <article class="hero-stat-card">
-            <span class="hero-stat-label">Carryovers</span>
-            <strong id="stat-carryovers">—</strong>
-          </article>
-        </div>
-      </section>
-
-      <section class="chart-section">
-        <div class="section-heading-row">
-          <div>
-            <p class="section-kicker">Current ranking</p>
-            <h2>Top 100</h2>
+        <div class="brand-block">
+          <div class="brand-mark" aria-label="Larpboard logo">
+            <svg viewBox="0 0 120 48" role="img" aria-label="Larpboard">
+              <rect x="2" y="4" width="18" height="40" fill="currentColor"></rect>
+              <rect x="24" y="4" width="10" height="40" fill="currentColor"></rect>
+              <rect x="38" y="4" width="10" height="40" fill="currentColor"></rect>
+              <rect x="52" y="4" width="10" height="40" fill="currentColor"></rect>
+              <path d="M74 4h12c15 0 26 8 26 20s-11 20-26 20H74z" fill="currentColor"></path>
+            </svg>
           </div>
-          <button id="back-to-chart" class="ghost-button hidden" type="button">← Back to chart</button>
+          <div class="brand-copy">
+            <p class="eyebrow">Weekly community chart</p>
+            <h1>Larpboard Hot 100</h1>
+            <p class="tagline">A weekly fan-run chart built from Last.fm listening activity.</p>
+          </div>
         </div>
 
-        <div id="view-root"></div>
-      </section>
-    </main>
+        <div class="header-actions">
+          <div class="search-group">
+            <label class="week-picker-label" for="global-search">Search</label>
+            <input type="search" id="global-search" class="global-search" placeholder="Search songs or artists..." aria-label="Search songs or artists">
+            <div class="search-results hidden" id="search-results"></div>
+          </div>
+          <div class="picker-group">
+            <label class="week-picker-label" for="week-picker">Week</label>
+            <select id="week-picker" class="week-picker" aria-label="Select chart week"></select>
+          </div>
+          <button type="button" class="theme-toggle" data-theme-toggle aria-label="Switch color mode">
+            <span class="theme-toggle-inner">●</span>
+          </button>
+        </div>
+      </header>
+
+      <main id="main-content" class="main-layout">
+        <section class="hero-panel">
+          <div class="hero-copy">
+            <p class="hero-kicker">Week of</p>
+            <p id="week-of" class="hero-week">Loading&hellip;</p>
+            <p class="hero-summary">A live community-powered top 100 built from weekly listening trends.</p>
+          </div>
+
+          <div class="hero-stats" aria-label="Current chart snapshot" id="hero-stats-strip">
+            <article class="hero-stat-card">
+              <span class="hero-stat-label">New songs</span>
+              <strong id="stat-new-songs">&mdash;</strong>
+            </article>
+            <article class="hero-stat-card">
+              <span class="hero-stat-label">Re-entries</span>
+              <strong id="stat-re-entries">&mdash;</strong>
+            </article>
+            <article class="hero-stat-card">
+              <span class="hero-stat-label">Carryovers</span>
+              <strong id="stat-carryovers">&mdash;</strong>
+            </article>
+            <article class="hero-stat-card">
+              <span class="hero-stat-label">Climbing</span>
+              <strong id="stat-climbing">&mdash;</strong>
+            </article>
+            <article class="hero-stat-card">
+              <span class="hero-stat-label">Falling</span>
+              <strong id="stat-falling">&mdash;</strong>
+            </article>
+            <article class="hero-stat-card">
+              <span class="hero-stat-label">Total listeners</span>
+              <strong id="stat-total-listeners">&mdash;</strong>
+            </article>
+          </div>
+        </section>
+
+        <section class="spotlight-section" id="spotlight-section">
+          <div class="section-heading-row">
+            <div>
+              <p class="section-kicker">This week&#39;s leader</p>
+              <h2>No. 1 spotlight</h2>
+            </div>
+          </div>
+          <article class="spotlight-card" id="spotlight-card">
+            <div class="spotlight-cover-wrap">
+              <img id="spotlight-cover" class="spotlight-cover" alt="" loading="lazy" decoding="async" width="220" height="220">
+              <span class="spotlight-rank-badge">#1</span>
+            </div>
+            <div class="spotlight-info">
+              <span class="movement-badge" id="spotlight-movement"></span>
+              <button type="button" class="spotlight-title" id="spotlight-title"></button>
+              <button type="button" class="spotlight-artist" id="spotlight-artist"></button>
+              <dl class="spotlight-meta-grid">
+                <div><dt>Points</dt><dd id="spotlight-points">&mdash;</dd></div>
+                <div><dt>Peak</dt><dd id="spotlight-peak">&mdash;</dd></div>
+                <div><dt>Weeks on chart</dt><dd id="spotlight-weeks">&mdash;</dd></div>
+                <div><dt>Listeners</dt><dd id="spotlight-listeners">&mdash;</dd></div>
+              </dl>
+            </div>
+          </article>
+        </section>
+
+        <section class="chart-section">
+          <div class="section-heading-row">
+            <div>
+              <p class="section-kicker">Current ranking</p>
+              <h2>Top 100</h2>
+            </div>
+            <button id="back-to-chart" class="ghost-button hidden" type="button">&larr; Back to chart</button>
+          </div>
+
+          <div class="filter-bar" id="filter-bar">
+            <div class="filter-field">
+              <label for="filter-movement">Movement</label>
+              <select id="filter-movement">
+                <option value="all">All movement</option>
+                <option value="new">New</option>
+                <option value="re">Re-entry</option>
+                <option value="up">Up</option>
+                <option value="down">Down</option>
+                <option value="stay">No change</option>
+              </select>
+            </div>
+            <div class="filter-field">
+              <label for="filter-rank-min">Rank from</label>
+              <input type="number" id="filter-rank-min" min="1" max="100" placeholder="1">
+            </div>
+            <div class="filter-field">
+              <label for="filter-rank-max">Rank to</label>
+              <input type="number" id="filter-rank-max" min="1" max="100" placeholder="100">
+            </div>
+            <button type="button" class="ghost-button" id="filter-reset">Reset filters</button>
+          </div>
+
+          <div id="view-root"></div>
+        </section>
+      </main>
+    </div>
+  </div>
+
+  <div class="modal-overlay hidden" id="song-modal-overlay">
+    <div class="modal-panel" id="song-modal-panel" role="dialog" aria-modal="true" aria-labelledby="modal-song-title">
+      <button type="button" class="modal-close" id="modal-close" aria-label="Close song details">&times;</button>
+      <div class="modal-body" id="modal-body"></div>
+    </div>
   </div>
 
   <template id="chart-row-template">
@@ -98,7 +186,6 @@
           <span class="movement-badge"></span>
           <span class="song-points mobile-points"></span>
         </div>
-
         <button type="button" class="song-title-link"></button>
         <button type="button" class="artist-link"></button>
       </div>
