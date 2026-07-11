@@ -8,6 +8,7 @@ const state = {
   theme: null,
   filters: { movement: 'all', rankMin: null, rankMax: null },
   railOpen: false,
+  requestedWeek: null,
 };
 
 const el = {
@@ -652,7 +653,11 @@ function populateWeekPicker(weeks, selectedWeek) {
 }
 
 async function loadWeek(week) {
+  state.requestedWeek = week;
   const chart = await fetchJson(`./data/${week}.json`);
+
+  if (state.requestedWeek !== week) return;
+
   state.currentWeek = week;
   state.currentChart = chart;
   populateWeekPicker(state.manifest.weeks, week);
