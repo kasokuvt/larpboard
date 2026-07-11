@@ -1,0 +1,48 @@
+{
+  "track": {
+    "name": "having anxiety is annoying",
+    "url": "https://www.last.fm/music/Slayr/_/having+anxiety+is+annoying",
+    "duration": "156000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "1957",
+    "playcount": "3531",
+    "artist": {
+      "name": "Slayr",
+      "url": "https://www.last.fm/music/Slayr"
+    },
+    "album": {
+      "artist": "Slayr",
+      "title": "Avant Nova",
+      "url": "https://www.last.fm/music/Slayr/Avant+Nova",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/be35f07e676dc4f46e5d1043b8f71d60.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/be35f07e676dc4f46e5d1043b8f71d60.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/be35f07e676dc4f46e5d1043b8f71d60.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/be35f07e676dc4f46e5d1043b8f71d60.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    },
+    "wiki": {
+      "published": "10 Jul 2026, 08:06",
+      "summary": "\"having anxiety is annoying,\" previously called \"anxiety does suck sometimes,\" is the fifth track of AVANT NOVA. Produced by slayr, M8I and nxah, the song features slayr sharing his feelings of being trapped in the same mental state and anxiety. <a href=\"http://www.last.fm/music/Slayr/_/having+anxiety+is+annoying\">Read more on Last.fm</a>.",
+      "content": "\"having anxiety is annoying,\" previously called \"anxiety does suck sometimes,\" is the fifth track of AVANT NOVA. Produced by slayr, M8I and nxah, the song features slayr sharing his feelings of being trapped in the same mental state and anxiety. <a href=\"http://www.last.fm/music/Slayr/_/having+anxiety+is+annoying\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

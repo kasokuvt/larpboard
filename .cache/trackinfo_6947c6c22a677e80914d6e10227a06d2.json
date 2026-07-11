@@ -7,8 +7,8 @@
       "#text": "0",
       "fulltrack": "0"
     },
-    "listeners": "101041",
-    "playcount": "1605628",
+    "listeners": "102859",
+    "playcount": "1628458",
     "artist": {
       "name": "Cuntsniffer",
       "url": "https://www.last.fm/music/Cuntsniffer"
@@ -19,19 +19,19 @@
       "url": "https://www.last.fm/music/Cuntsniffer/Meant+To+Be",
       "image": [
         {
-          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2af02cd28bfe11caa70a3fe58f171457.png",
+          "#text": "",
           "size": "small"
         },
         {
-          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2af02cd28bfe11caa70a3fe58f171457.png",
+          "#text": "",
           "size": "medium"
         },
         {
-          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2af02cd28bfe11caa70a3fe58f171457.png",
+          "#text": "",
           "size": "large"
         },
         {
-          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2af02cd28bfe11caa70a3fe58f171457.png",
+          "#text": "",
           "size": "extralarge"
         }
       ]

@@ -1,0 +1,43 @@
+{
+  "track": {
+    "name": "switch my swag",
+    "url": "https://www.last.fm/music/Slayr/_/switch+my+swag",
+    "duration": "178000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "2243",
+    "playcount": "3750",
+    "artist": {
+      "name": "Slayr",
+      "url": "https://www.last.fm/music/Slayr"
+    },
+    "album": {
+      "artist": "Slayr",
+      "title": "Avant Nova",
+      "url": "https://www.last.fm/music/Slayr/Avant+Nova",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/be35f07e676dc4f46e5d1043b8f71d60.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/be35f07e676dc4f46e5d1043b8f71d60.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/be35f07e676dc4f46e5d1043b8f71d60.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/be35f07e676dc4f46e5d1043b8f71d60.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

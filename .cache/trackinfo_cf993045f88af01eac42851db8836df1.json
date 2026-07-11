@@ -1,0 +1,49 @@
+{
+  "track": {
+    "name": "Bipolar",
+    "mbid": "6f4bf2c1-555d-4ed0-b64f-8db08da2f84f",
+    "url": "https://www.last.fm/music/wifiskeleton/_/Bipolar",
+    "duration": "85000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "152401",
+    "playcount": "2825176",
+    "artist": {
+      "name": "wifiskeleton",
+      "url": "https://www.last.fm/music/wifiskeleton"
+    },
+    "album": {
+      "artist": "wifiskeleton",
+      "title": "pony [Explicit]",
+      "url": "https://www.last.fm/music/wifiskeleton/pony+%5BExplicit%5D",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/15b866f43a566238d73824b4acd9030d.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/15b866f43a566238d73824b4acd9030d.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/15b866f43a566238d73824b4acd9030d.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/15b866f43a566238d73824b4acd9030d.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "wifiskeleton",
+          "url": "https://www.last.fm/tag/wifiskeleton"
+        }
+      ]
+    }
+  }
+}

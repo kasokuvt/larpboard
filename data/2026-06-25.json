@@ -11,12 +11,12 @@
       "artist": "Kanye West",
       "cover": "covers/kanye_west__king.png",
       "movement": {
-        "type": "new",
-        "value": null
+        "type": "stay",
+        "value": 0
       },
-      "lastWeek": null,
+      "lastWeek": 1,
       "peak": 1,
-      "weeks": 1,
+      "weeks": 2,
       "points": 182.5,
       "listeners": 15
     },
@@ -26,44 +26,44 @@
       "artist": "Stevie Wonder",
       "cover": "covers/stevie_wonder__isn_t_she_lovely.png",
       "movement": {
-        "type": "new",
-        "value": null
+        "type": "stay",
+        "value": 0
       },
-      "lastWeek": null,
+      "lastWeek": 2,
       "peak": 2,
-      "weeks": 1,
+      "weeks": 2,
       "points": 154.0,
       "listeners": 14
     },
     {
       "rank": 3,
-      "title": "I CAN’T WAIT (feat. Ms. Lauryn Hill)",
-      "artist": "Kanye West",
-      "cover": "covers/kanye_west__i_can_t_wait_feat_ms_lauryn_hill.jpg",
-      "movement": {
-        "type": "new",
-        "value": null
-      },
-      "lastWeek": null,
-      "peak": 3,
-      "weeks": 1,
-      "points": 147.0,
-      "listeners": 23
-    },
-    {
-      "rank": 4,
       "title": "ALL THE LOVE (feat. Andre Troutman)",
       "artist": "Kanye West",
       "cover": "covers/kanye_west__all_the_love_feat_andre_troutman.png",
       "movement": {
-        "type": "new",
-        "value": null
+        "type": "stay",
+        "value": 0
       },
-      "lastWeek": null,
+      "lastWeek": 3,
+      "peak": 3,
+      "weeks": 2,
+      "points": 150.0,
+      "listeners": 14
+    },
+    {
+      "rank": 4,
+      "title": "I CAN’T WAIT (feat. Ms. Lauryn Hill)",
+      "artist": "Kanye West",
+      "cover": "covers/kanye_west__i_can_t_wait_feat_ms_lauryn_hill.jpg",
+      "movement": {
+        "type": "stay",
+        "value": 0
+      },
+      "lastWeek": 4,
       "peak": 4,
-      "weeks": 1,
-      "points": 142.0,
-      "listeners": 13
+      "weeks": 2,
+      "points": 147.0,
+      "listeners": 23
     },
     {
       "rank": 5,
@@ -71,12 +71,12 @@
       "artist": "Kanye West",
       "cover": "covers/kanye_west__father_feat_travis_scott.png",
       "movement": {
-        "type": "new",
-        "value": null
+        "type": "stay",
+        "value": 0
       },
-      "lastWeek": null,
+      "lastWeek": 5,
       "peak": 5,
-      "weeks": 1,
+      "weeks": 2,
       "points": 136.5,
       "listeners": 13
     },
@@ -86,12 +86,12 @@
       "artist": "Malcolm Todd",
       "cover": "covers/malcolm_todd__earrings.jpg",
       "movement": {
-        "type": "down",
-        "value": 5
+        "type": "stay",
+        "value": 0
       },
-      "lastWeek": 1,
+      "lastWeek": 6,
       "peak": 1,
-      "weeks": 3,
+      "weeks": 6,
       "points": 131.0,
       "listeners": 24
     },
@@ -101,12 +101,12 @@
       "artist": "Kanye West",
       "cover": "covers/kanye_west__this_a_must.png",
       "movement": {
-        "type": "new",
-        "value": null
+        "type": "stay",
+        "value": 0
       },
-      "lastWeek": null,
+      "lastWeek": 7,
       "peak": 7,
-      "weeks": 1,
+      "weeks": 2,
       "points": 127.0,
       "listeners": 12
     },
@@ -116,12 +116,12 @@
       "artist": "Kanye West",
       "cover": "covers/kanye_west__mission_control.png",
       "movement": {
-        "type": "new",
-        "value": null
+        "type": "stay",
+        "value": 0
       },
-      "lastWeek": null,
+      "lastWeek": 8,
       "peak": 8,
-      "weeks": 1,
+      "weeks": 2,
       "points": 117.5,
       "listeners": 18
     },
@@ -131,12 +131,12 @@
       "artist": "Oliver Tree",
       "cover": "covers/oliver_tree__jerk.png",
       "movement": {
-        "type": "up",
-        "value": 21
+        "type": "stay",
+        "value": 0
       },
-      "lastWeek": 30,
+      "lastWeek": 9,
       "peak": 9,
-      "weeks": 2,
+      "weeks": 4,
       "points": 116.5,
       "listeners": 11
     },
@@ -146,12 +146,12 @@
       "artist": "Kanye West",
       "cover": "covers/kanye_west__ok_feat_don_toliver.jpg",
       "movement": {
-        "type": "new",
-        "value": null
+        "type": "stay",
+        "value": 0
       },
-      "lastWeek": null,
+      "lastWeek": 10,
       "peak": 10,
-      "weeks": 1,
+      "weeks": 2,
       "points": 114.5,
       "listeners": 14
     },
@@ -159,14 +159,14 @@
       "rank": 11,
       "title": "Meant To Be",
       "artist": "Cuntsniffer",
-      "cover": "covers/cuntsniffer__meant_to_be.png",
+      "cover": "covers/cuntsniffer__meant_to_be.jpg",
       "movement": {
-        "type": "down",
-        "value": 2
+        "type": "stay",
+        "value": 0
       },
-      "lastWeek": 9,
+      "lastWeek": 11,
       "peak": 9,
-      "weeks": 3,
+      "weeks": 6,
       "points": 114.0,
       "listeners": 17
     },
@@ -176,12 +176,12 @@
       "artist": "Toby Fox",
       "cover": "covers/toby_fox__cutie_mew_mew_magic.jpg",
       "movement": {
-        "type": "new",
-        "value": null
+        "type": "stay",
+        "value": 0
       },
-      "lastWeek": null,
+      "lastWeek": 12,
       "peak": 12,
-      "weeks": 1,
+      "weeks": 2,
       "points": 113.0,
       "listeners": 6
     },
@@ -191,12 +191,12 @@
       "artist": "Malcolm Todd",
       "cover": "covers/malcolm_todd__sweet_boy.png",
       "movement": {
-        "type": "up",
-        "value": 5
+        "type": "stay",
+        "value": 0
       },
-      "lastWeek": 18,
+      "lastWeek": 13,
       "peak": 13,
-      "weeks": 3,
+      "weeks": 6,
       "points": 107.5,
       "listeners": 20
     },
@@ -206,12 +206,12 @@
       "artist": "That Handsome Devil",
       "cover": "covers/that_handsome_devil__charlie_s_inferno.png",
       "movement": {
-        "type": "down",
-        "value": 3
+        "type": "stay",
+        "value": 0
       },
-      "lastWeek": 11,
+      "lastWeek": 14,
       "peak": 2,
-      "weeks": 3,
+      "weeks": 6,
       "points": 104.0,
       "listeners": 18
     },
@@ -221,12 +221,12 @@
       "artist": "Kanye West",
       "cover": "covers/kanye_west__punch_drunk.png",
       "movement": {
-        "type": "re",
-        "value": null
+        "type": "stay",
+        "value": 0
       },
-      "lastWeek": null,
+      "lastWeek": 15,
       "peak": 15,
-      "weeks": 2,
+      "weeks": 4,
       "points": 103.0,
       "listeners": 12
     },
@@ -236,12 +236,12 @@
       "artist": "Michael Jackson",
       "cover": "covers/michael_jackson__billie_jean.png",
       "movement": {
-        "type": "down",
-        "value": 6
+        "type": "stay",
+        "value": 0
       },
-      "lastWeek": 10,
-      "peak": 10,
-      "weeks": 3,
+      "lastWeek": 16,
+      "peak": 11,
+      "weeks": 6,
       "points": 99.5,
       "listeners": 19
     },
@@ -251,12 +251,12 @@
       "artist": "pupsies",
       "cover": "covers/pupsies__misery.png",
       "movement": {
-        "type": "new",
-        "value": null
+        "type": "stay",
+        "value": 0
       },
-      "lastWeek": null,
+      "lastWeek": 17,
       "peak": 17,
-      "weeks": 1,
+      "weeks": 2,
       "points": 99.0,
       "listeners": 8
     },
@@ -266,12 +266,12 @@
       "artist": "Imogen Heap",
       "cover": "covers/imogen_heap__headlock.png",
       "movement": {
-        "type": "new",
-        "value": null
+        "type": "stay",
+        "value": 0
       },
-      "lastWeek": null,
+      "lastWeek": 18,
       "peak": 18,
-      "weeks": 1,
+      "weeks": 2,
       "points": 97.5,
       "listeners": 22
     },
@@ -281,12 +281,12 @@
       "artist": "Kanye West",
       "cover": "covers/kanye_west__this_one_here.png",
       "movement": {
-        "type": "new",
-        "value": null
+        "type": "stay",
+        "value": 0
       },
-      "lastWeek": null,
+      "lastWeek": 19,
       "peak": 19,
-      "weeks": 1,
+      "weeks": 2,
       "points": 97.0,
       "listeners": 13
     },
@@ -296,12 +296,12 @@
       "artist": "Oliver Tree",
       "cover": "covers/oliver_tree__alien_boy.png",
       "movement": {
-        "type": "down",
-        "value": 6
+        "type": "stay",
+        "value": 0
       },
-      "lastWeek": 14,
+      "lastWeek": 20,
       "peak": 14,
-      "weeks": 2,
+      "weeks": 4,
       "points": 95.0,
       "listeners": 13
     },
@@ -311,12 +311,12 @@
       "artist": "Steve Lacy",
       "cover": "covers/steve_lacy__bad_habit.png",
       "movement": {
-        "type": "up",
-        "value": 15
+        "type": "stay",
+        "value": 0
       },
-      "lastWeek": 36,
+      "lastWeek": 21,
       "peak": 21,
-      "weeks": 3,
+      "weeks": 6,
       "points": 94.5,
       "listeners": 19
     },
@@ -326,12 +326,12 @@
       "artist": "Sidney Gish",
       "cover": "covers/sidney_gish__impostor_syndrome.png",
       "movement": {
-        "type": "down",
-        "value": 19
+        "type": "stay",
+        "value": 0
       },
-      "lastWeek": 3,
+      "lastWeek": 22,
       "peak": 3,
-      "weeks": 3,
+      "weeks": 6,
       "points": 94.0,
       "listeners": 21
     },
@@ -341,12 +341,12 @@
       "artist": "The Long Faces",
       "cover": "covers/the_long_faces__jane.png",
       "movement": {
-        "type": "down",
-        "value": 21
+        "type": "stay",
+        "value": 0
       },
-      "lastWeek": 2,
+      "lastWeek": 23,
       "peak": 2,
-      "weeks": 3,
+      "weeks": 6,
       "points": 93.0,
       "listeners": 21
     },
@@ -356,12 +356,12 @@
       "artist": "Toby Fox",
       "cover": "covers/toby_fox__the_world_revolving.png",
       "movement": {
-        "type": "new",
-        "value": null
+        "type": "stay",
+        "value": 0
       },
-      "lastWeek": null,
+      "lastWeek": 24,
       "peak": 24,
-      "weeks": 1,
+      "weeks": 2,
       "points": 91.0,
       "listeners": 10
     },
@@ -371,12 +371,12 @@
       "artist": "Toby Fox",
       "cover": "covers/toby_fox__flower_man.jpg",
       "movement": {
-        "type": "new",
-        "value": null
+        "type": "stay",
+        "value": 0
       },
-      "lastWeek": null,
+      "lastWeek": 25,
       "peak": 25,
-      "weeks": 1,
+      "weeks": 2,
       "points": 89.5,
       "listeners": 7
     },
@@ -386,12 +386,12 @@
       "artist": "Malcolm Todd",
       "cover": "covers/malcolm_todd__roommates.png",
       "movement": {
-        "type": "down",
-        "value": 3
+        "type": "stay",
+        "value": 0
       },
-      "lastWeek": 23,
+      "lastWeek": 26,
       "peak": 23,
-      "weeks": 3,
+      "weeks": 6,
       "points": 87.0,
       "listeners": 16
     },
@@ -401,12 +401,12 @@
       "artist": "PinkPantheress",
       "cover": "covers/pinkpantheress__stateside_zara_larsson.jpg",
       "movement": {
-        "type": "up",
-        "value": 13
+        "type": "stay",
+        "value": 0
       },
-      "lastWeek": 40,
+      "lastWeek": 27,
       "peak": 27,
-      "weeks": 3,
+      "weeks": 6,
       "points": 82.0,
       "listeners": 17
     },
@@ -416,89 +416,89 @@
       "artist": "Soundgarden",
       "cover": "covers/soundgarden__black_hole_sun.png",
       "movement": {
-        "type": "new",
-        "value": null
+        "type": "stay",
+        "value": 0
       },
-      "lastWeek": null,
+      "lastWeek": 28,
       "peak": 28,
-      "weeks": 1,
+      "weeks": 2,
       "points": 80.5,
       "listeners": 15
     },
     {
       "rank": 29,
-      "title": "bedrott",
-      "artist": "duskydemise",
-      "cover": "covers/duskydemise__bedrott.jpg",
-      "movement": {
-        "type": "down",
-        "value": 9
-      },
-      "lastWeek": 20,
-      "peak": 20,
-      "weeks": 3,
-      "points": 76.5,
-      "listeners": 15
-    },
-    {
-      "rank": 30,
       "title": "matrix (BL studio loop)",
       "artist": "chrmbchrmb",
       "cover": "covers/chrmbchrmb__matrix_bl_studio_loop.png",
       "movement": {
-        "type": "down",
-        "value": 22
+        "type": "up",
+        "value": 1
       },
-      "lastWeek": 8,
+      "lastWeek": 30,
       "peak": 8,
-      "weeks": 3,
+      "weeks": 6,
       "points": 76.5,
       "listeners": 11
     },
     {
-      "rank": 31,
+      "rank": 30,
       "title": "Chicago",
       "artist": "Michael Jackson",
       "cover": "covers/michael_jackson__chicago.png",
       "movement": {
-        "type": "down",
-        "value": 26
+        "type": "up",
+        "value": 1
       },
-      "lastWeek": 5,
+      "lastWeek": 31,
       "peak": 1,
-      "weeks": 3,
+      "weeks": 6,
       "points": 76.0,
       "listeners": 23
     },
     {
-      "rank": 32,
+      "rank": 31,
       "title": "Chop Suey!",
       "artist": "System of a Down",
       "cover": "covers/system_of_a_down__chop_suey.png",
       "movement": {
-        "type": "down",
-        "value": 4
+        "type": "up",
+        "value": 1
       },
-      "lastWeek": 28,
+      "lastWeek": 32,
       "peak": 28,
-      "weeks": 2,
+      "weeks": 4,
       "points": 76.0,
       "listeners": 11
     },
     {
-      "rank": 33,
+      "rank": 32,
       "title": "drop dead",
       "artist": "Olivia Rodrigo",
       "cover": "covers/olivia_rodrigo__drop_dead.png",
       "movement": {
         "type": "up",
-        "value": 36
+        "value": 1
       },
-      "lastWeek": 69,
-      "peak": 33,
-      "weeks": 2,
+      "lastWeek": 33,
+      "peak": 32,
+      "weeks": 4,
       "points": 74.5,
       "listeners": 7
+    },
+    {
+      "rank": 33,
+      "title": "bedrott",
+      "artist": "duskydemise",
+      "cover": "covers/duskydemise__bedrott.jpg",
+      "movement": {
+        "type": "down",
+        "value": 4
+      },
+      "lastWeek": 29,
+      "peak": 20,
+      "weeks": 6,
+      "points": 74.0,
+      "listeners": 14
     },
     {
       "rank": 34,
@@ -506,914 +506,914 @@
       "artist": "Jamie Paige",
       "cover": "covers/jamie_paige__birdbrain.jpg",
       "movement": {
-        "type": "new",
-        "value": null
+        "type": "stay",
+        "value": 0
       },
-      "lastWeek": null,
+      "lastWeek": 34,
       "peak": 34,
-      "weeks": 1,
+      "weeks": 2,
       "points": 74.0,
       "listeners": 11
     },
     {
       "rank": 35,
-      "title": "Rude Buster",
-      "artist": "Toby Fox",
-      "cover": "covers/toby_fox__rude_buster.png",
-      "movement": {
-        "type": "new",
-        "value": null
-      },
-      "lastWeek": null,
-      "peak": 35,
-      "weeks": 1,
-      "points": 73.0,
-      "listeners": 10
-    },
-    {
-      "rank": 36,
       "title": "My Ordinary Life",
       "artist": "The Living Tombstone",
       "cover": "covers/the_living_tombstone__my_ordinary_life.png",
       "movement": {
-        "type": "re",
-        "value": null
+        "type": "up",
+        "value": 1
       },
-      "lastWeek": null,
-      "peak": 36,
-      "weeks": 2,
+      "lastWeek": 36,
+      "peak": 35,
+      "weeks": 4,
       "points": 72.5,
       "listeners": 17
     },
     {
-      "rank": 37,
+      "rank": 36,
       "title": "Not Allowed",
       "artist": "TV Girl",
       "cover": "covers/tv_girl__not_allowed.png",
       "movement": {
-        "type": "new",
-        "value": null
+        "type": "up",
+        "value": 1
       },
-      "lastWeek": null,
-      "peak": 37,
-      "weeks": 1,
+      "lastWeek": 37,
+      "peak": 36,
+      "weeks": 2,
       "points": 71.0,
       "listeners": 15
     },
     {
-      "rank": 38,
+      "rank": 37,
       "title": "SISTERS AND BROTHERS",
       "artist": "Kanye West",
       "cover": "covers/kanye_west__sisters_and_brothers.png",
       "movement": {
-        "type": "new",
-        "value": null
+        "type": "up",
+        "value": 1
       },
-      "lastWeek": null,
-      "peak": 38,
-      "weeks": 1,
+      "lastWeek": 38,
+      "peak": 37,
+      "weeks": 2,
       "points": 71.0,
       "listeners": 10
     },
     {
-      "rank": 39,
+      "rank": 38,
       "title": "WHITE LINES (feat. Andre Troutman)",
       "artist": "Kanye West",
       "cover": "covers/kanye_west__white_lines_feat_andre_troutman.png",
       "movement": {
-        "type": "new",
-        "value": null
+        "type": "up",
+        "value": 1
       },
-      "lastWeek": null,
-      "peak": 39,
-      "weeks": 1,
+      "lastWeek": 39,
+      "peak": 38,
+      "weeks": 2,
       "points": 70.5,
       "listeners": 13
     },
     {
-      "rank": 40,
+      "rank": 39,
       "title": "NOBLE",
       "artist": "F3miii",
       "cover": "covers/f3miii__noble.png",
       "movement": {
-        "type": "new",
-        "value": null
+        "type": "up",
+        "value": 1
       },
-      "lastWeek": null,
-      "peak": 40,
-      "weeks": 1,
+      "lastWeek": 40,
+      "peak": 39,
+      "weeks": 2,
       "points": 70.0,
       "listeners": 9
     },
     {
-      "rank": 41,
+      "rank": 40,
       "title": "Malcolm In The Middle",
       "artist": "Malcolm Todd",
       "cover": "covers/malcolm_todd__malcolm_in_the_middle.png",
       "movement": {
-        "type": "down",
-        "value": 29
+        "type": "up",
+        "value": 1
       },
-      "lastWeek": 12,
+      "lastWeek": 41,
       "peak": 9,
-      "weeks": 3,
+      "weeks": 6,
       "points": 66.5,
       "listeners": 12
     },
     {
-      "rank": 42,
+      "rank": 41,
       "title": "Harvey",
       "artist": "Her's",
       "cover": "covers/her_s__harvey.png",
       "movement": {
-        "type": "new",
-        "value": null
+        "type": "up",
+        "value": 1
       },
-      "lastWeek": null,
-      "peak": 42,
-      "weeks": 1,
+      "lastWeek": 42,
+      "peak": 41,
+      "weeks": 2,
       "points": 66.5,
       "listeners": 6
     },
     {
-      "rank": 43,
+      "rank": 42,
       "title": "WHATEVER WORKS",
       "artist": "Kanye West",
       "cover": "covers/kanye_west__whatever_works.png",
       "movement": {
-        "type": "new",
-        "value": null
+        "type": "up",
+        "value": 1
       },
-      "lastWeek": null,
-      "peak": 43,
-      "weeks": 1,
+      "lastWeek": 43,
+      "peak": 42,
+      "weeks": 2,
       "points": 66.0,
       "listeners": 10
     },
     {
-      "rank": 44,
+      "rank": 43,
       "title": "Dracula",
       "artist": "Tame Impala",
       "cover": "covers/tame_impala__dracula.png",
       "movement": {
         "type": "up",
-        "value": 14
+        "value": 1
       },
-      "lastWeek": 58,
+      "lastWeek": 44,
       "peak": 36,
-      "weeks": 3,
+      "weeks": 6,
       "points": 65.0,
       "listeners": 12
     },
     {
-      "rank": 45,
+      "rank": 44,
       "title": "Nope your too late i already died",
       "artist": "wifiskeleton",
       "cover": "covers/wifiskeleton__nope_your_too_late_i_already_died.png",
       "movement": {
-        "type": "down",
-        "value": 38
+        "type": "up",
+        "value": 1
       },
-      "lastWeek": 7,
+      "lastWeek": 45,
       "peak": 7,
-      "weeks": 3,
+      "weeks": 6,
       "points": 64.5,
       "listeners": 19
     },
     {
-      "rank": 46,
+      "rank": 45,
       "title": "the kill 2",
       "artist": "Lex Amarni",
       "cover": "covers/lex_amarni__the_kill_2.jpg",
       "movement": {
-        "type": "down",
-        "value": 40
+        "type": "up",
+        "value": 1
       },
-      "lastWeek": 6,
+      "lastWeek": 46,
       "peak": 6,
-      "weeks": 3,
+      "weeks": 6,
       "points": 64.5,
       "listeners": 10
     },
     {
-      "rank": 47,
+      "rank": 46,
       "title": "Heart-Shaped Box",
       "artist": "Nirvana",
       "cover": "covers/nirvana__heart_shaped_box.png",
       "movement": {
-        "type": "new",
-        "value": null
+        "type": "up",
+        "value": 1
       },
-      "lastWeek": null,
-      "peak": 47,
-      "weeks": 1,
+      "lastWeek": 47,
+      "peak": 46,
+      "weeks": 2,
       "points": 62.5,
       "listeners": 12
     },
     {
-      "rank": 48,
+      "rank": 47,
       "title": "I Just Threw Out the Love of My Dreams",
       "artist": "Weezer",
       "cover": "covers/weezer__i_just_threw_out_the_love_of_my_dreams.png",
       "movement": {
-        "type": "down",
-        "value": 2
+        "type": "up",
+        "value": 1
       },
-      "lastWeek": 46,
+      "lastWeek": 48,
       "peak": 46,
-      "weeks": 2,
+      "weeks": 4,
       "points": 62.0,
       "listeners": 13
     },
     {
-      "rank": 49,
+      "rank": 48,
       "title": "Somewhere I Belong",
       "artist": "Linkin Park",
       "cover": "covers/linkin_park__somewhere_i_belong.png",
       "movement": {
-        "type": "new",
-        "value": null
+        "type": "up",
+        "value": 1
       },
-      "lastWeek": null,
-      "peak": 49,
-      "weeks": 1,
+      "lastWeek": 49,
+      "peak": 48,
+      "weeks": 2,
       "points": 62.0,
       "listeners": 9
     },
     {
-      "rank": 50,
+      "rank": 49,
       "title": "Hello Juliet",
       "artist": "Clarion",
       "cover": "covers/clarion__hello_juliet.png",
       "movement": {
-        "type": "new",
-        "value": null
+        "type": "up",
+        "value": 1
       },
-      "lastWeek": null,
-      "peak": 50,
-      "weeks": 1,
+      "lastWeek": 50,
+      "peak": 49,
+      "weeks": 2,
       "points": 61.5,
       "listeners": 15
     },
     {
-      "rank": 51,
+      "rank": 50,
       "title": "For the First Time",
       "artist": "Mac DeMarco",
       "cover": "covers/mac_demarco__for_the_first_time.png",
       "movement": {
-        "type": "new",
-        "value": null
+        "type": "up",
+        "value": 1
       },
-      "lastWeek": null,
-      "peak": 51,
-      "weeks": 1,
+      "lastWeek": 51,
+      "peak": 50,
+      "weeks": 2,
       "points": 61.5,
       "listeners": 12
     },
     {
-      "rank": 52,
+      "rank": 51,
       "title": "No Surprises",
       "artist": "Radiohead",
       "cover": "covers/radiohead__no_surprises.png",
       "movement": {
-        "type": "down",
-        "value": 39
+        "type": "up",
+        "value": 1
       },
-      "lastWeek": 13,
+      "lastWeek": 52,
       "peak": 3,
-      "weeks": 3,
+      "weeks": 6,
       "points": 61.0,
       "listeners": 13
     },
     {
-      "rank": 53,
+      "rank": 52,
       "title": "Laputa",
       "artist": "Panchiko",
       "cover": "covers/panchiko__laputa.png",
       "movement": {
-        "type": "new",
-        "value": null
+        "type": "up",
+        "value": 1
       },
-      "lastWeek": null,
-      "peak": 53,
-      "weeks": 1,
+      "lastWeek": 53,
+      "peak": 52,
+      "weeks": 2,
       "points": 61.0,
       "listeners": 11
     },
     {
-      "rank": 54,
+      "rank": 53,
       "title": "the cure",
       "artist": "Olivia Rodrigo",
       "cover": "covers/olivia_rodrigo__the_cure.png",
       "movement": {
-        "type": "down",
-        "value": 4
+        "type": "up",
+        "value": 1
       },
-      "lastWeek": 50,
+      "lastWeek": 54,
       "peak": 50,
-      "weeks": 2,
+      "weeks": 4,
       "points": 61.0,
       "listeners": 8
     },
     {
-      "rank": 55,
+      "rank": 54,
       "title": "Beat It",
       "artist": "Michael Jackson",
       "cover": "covers/michael_jackson__beat_it.png",
       "movement": {
-        "type": "down",
-        "value": 31
+        "type": "up",
+        "value": 1
       },
-      "lastWeek": 24,
+      "lastWeek": 55,
       "peak": 24,
-      "weeks": 3,
+      "weeks": 6,
       "points": 59.5,
       "listeners": 17
     },
     {
-      "rank": 56,
+      "rank": 55,
       "title": "Lover Girl",
       "artist": "Laufey",
       "cover": "covers/laufey__lover_girl.png",
       "movement": {
         "type": "up",
-        "value": 34
+        "value": 1
       },
-      "lastWeek": 90,
-      "peak": 56,
-      "weeks": 3,
+      "lastWeek": 56,
+      "peak": 55,
+      "weeks": 6,
       "points": 59.5,
       "listeners": 16
     },
     {
-      "rank": 57,
+      "rank": 56,
       "title": "L.E.S.",
       "artist": "Childish Gambino",
       "cover": "covers/childish_gambino__l_e_s.png",
       "movement": {
-        "type": "new",
-        "value": null
+        "type": "up",
+        "value": 1
       },
-      "lastWeek": null,
-      "peak": 57,
-      "weeks": 1,
+      "lastWeek": 57,
+      "peak": 56,
+      "weeks": 2,
       "points": 59.5,
       "listeners": 12
     },
     {
-      "rank": 58,
+      "rank": 57,
       "title": "Hurt",
       "artist": "Oliver Tree",
       "cover": "covers/oliver_tree__hurt.png",
       "movement": {
         "type": "up",
-        "value": 2
+        "value": 1
       },
-      "lastWeek": 60,
-      "peak": 58,
-      "weeks": 2,
+      "lastWeek": 58,
+      "peak": 57,
+      "weeks": 4,
       "points": 59.5,
       "listeners": 10
     },
     {
-      "rank": 59,
+      "rank": 58,
       "title": "All of the Lights",
       "artist": "Kanye West",
       "cover": "covers/kanye_west__all_of_the_lights.png",
       "movement": {
-        "type": "new",
-        "value": null
+        "type": "up",
+        "value": 1
       },
-      "lastWeek": null,
-      "peak": 59,
-      "weeks": 1,
+      "lastWeek": 59,
+      "peak": 58,
+      "weeks": 2,
       "points": 59.0,
       "listeners": 12
     },
     {
-      "rank": 60,
+      "rank": 59,
       "title": "BULLY (feat. CeeLo Green)",
       "artist": "Kanye West",
       "cover": "covers/kanye_west__bully_feat_ceelo_green.png",
       "movement": {
-        "type": "new",
-        "value": null
+        "type": "up",
+        "value": 1
       },
-      "lastWeek": null,
-      "peak": 60,
-      "weeks": 1,
+      "lastWeek": 60,
+      "peak": 59,
+      "weeks": 2,
+      "points": 59.0,
+      "listeners": 11
+    },
+    {
+      "rank": 60,
+      "title": "An Eater",
+      "artist": "Matt Martians",
+      "cover": "covers/matt_martians__an_eater.png",
+      "movement": {
+        "type": "up",
+        "value": 1
+      },
+      "lastWeek": 61,
+      "peak": 21,
+      "weeks": 6,
       "points": 59.0,
       "listeners": 11
     },
     {
       "rank": 61,
-      "title": "An Eater",
-      "artist": "Matt Martians",
-      "cover": "covers/matt_martians__an_eater.png",
-      "movement": {
-        "type": "down",
-        "value": 40
-      },
-      "lastWeek": 21,
-      "peak": 21,
-      "weeks": 3,
-      "points": 59.0,
-      "listeners": 11
-    },
-    {
-      "rank": 62,
       "title": "HIGHS AND LOWS",
       "artist": "Kanye West",
       "cover": "covers/kanye_west__highs_and_lows.png",
       "movement": {
-        "type": "new",
-        "value": null
+        "type": "up",
+        "value": 1
       },
-      "lastWeek": null,
+      "lastWeek": 62,
+      "peak": 61,
+      "weeks": 2,
+      "points": 58.0,
+      "listeners": 13
+    },
+    {
+      "rank": 62,
+      "title": "ARE WE STILL FRIENDS?",
+      "artist": "Tyler, The Creator",
+      "cover": "covers/tyler_the_creator__are_we_still_friends.png",
+      "movement": {
+        "type": "up",
+        "value": 1
+      },
+      "lastWeek": 63,
       "peak": 62,
-      "weeks": 1,
+      "weeks": 2,
       "points": 58.0,
       "listeners": 13
     },
     {
       "rank": 63,
-      "title": "ARE WE STILL FRIENDS?",
-      "artist": "Tyler, The Creator",
-      "cover": "covers/tyler_the_creator__are_we_still_friends.png",
-      "movement": {
-        "type": "new",
-        "value": null
-      },
-      "lastWeek": null,
-      "peak": 63,
-      "weeks": 1,
-      "points": 58.0,
-      "listeners": 13
-    },
-    {
-      "rank": 64,
       "title": "MAMA’S FAVORITE (feat. Nine Vicious)",
       "artist": "Kanye West",
       "cover": "covers/kanye_west__mama_s_favorite_feat_nine_vicious.jpg",
       "movement": {
-        "type": "new",
-        "value": null
+        "type": "up",
+        "value": 1
       },
-      "lastWeek": null,
-      "peak": 64,
-      "weeks": 1,
+      "lastWeek": 64,
+      "peak": 63,
+      "weeks": 2,
       "points": 58.0,
       "listeners": 10
     },
     {
-      "rank": 65,
+      "rank": 64,
       "title": "Creep",
       "artist": "Radiohead",
       "cover": "covers/radiohead__creep.png",
       "movement": {
-        "type": "down",
-        "value": 40
+        "type": "up",
+        "value": 1
       },
-      "lastWeek": 25,
-      "peak": 25,
-      "weeks": 3,
+      "lastWeek": 65,
+      "peak": 26,
+      "weeks": 6,
       "points": 57.5,
       "listeners": 20
     },
     {
-      "rank": 66,
+      "rank": 65,
       "title": "Bulls in the Bronx",
       "artist": "Pierce the Veil",
       "cover": "covers/pierce_the_veil__bulls_in_the_bronx.png",
       "movement": {
-        "type": "new",
-        "value": null
+        "type": "up",
+        "value": 1
       },
-      "lastWeek": null,
-      "peak": 66,
-      "weeks": 1,
+      "lastWeek": 66,
+      "peak": 65,
+      "weeks": 2,
       "points": 56.5,
       "listeners": 9
     },
     {
-      "rank": 67,
+      "rank": 66,
       "title": "u + me = <3",
       "artist": "Olivia Rodrigo",
       "cover": "covers/olivia_rodrigo__u_me_3.jpg",
       "movement": {
-        "type": "down",
-        "value": 22
+        "type": "up",
+        "value": 1
       },
-      "lastWeek": 45,
+      "lastWeek": 67,
       "peak": 45,
-      "weeks": 2,
+      "weeks": 4,
       "points": 56.0,
       "listeners": 7
     },
     {
-      "rank": 68,
+      "rank": 67,
       "title": "505",
       "artist": "Arctic Monkeys",
       "cover": "covers/arctic_monkeys__505.png",
       "movement": {
-        "type": "down",
-        "value": 39
+        "type": "up",
+        "value": 1
       },
-      "lastWeek": 29,
+      "lastWeek": 68,
       "peak": 29,
-      "weeks": 2,
+      "weeks": 4,
       "points": 54.5,
       "listeners": 15
     },
     {
-      "rank": 69,
+      "rank": 68,
       "title": "PREACHER MAN",
       "artist": "Kanye West",
       "cover": "covers/kanye_west__preacher_man.png",
       "movement": {
-        "type": "new",
-        "value": null
+        "type": "up",
+        "value": 1
       },
-      "lastWeek": null,
+      "lastWeek": 69,
+      "peak": 68,
+      "weeks": 2,
+      "points": 54.5,
+      "listeners": 9
+    },
+    {
+      "rank": 69,
+      "title": "CIRCLES",
+      "artist": "Kanye West",
+      "cover": "covers/kanye_west__circles.png",
+      "movement": {
+        "type": "up",
+        "value": 1
+      },
+      "lastWeek": 70,
       "peak": 69,
-      "weeks": 1,
+      "weeks": 2,
       "points": 54.5,
       "listeners": 9
     },
     {
       "rank": 70,
-      "title": "CIRCLES",
-      "artist": "Kanye West",
-      "cover": "covers/kanye_west__circles.png",
-      "movement": {
-        "type": "new",
-        "value": null
-      },
-      "lastWeek": null,
-      "peak": 70,
-      "weeks": 1,
-      "points": 54.5,
-      "listeners": 9
-    },
-    {
-      "rank": 71,
       "title": "SexyBack (feat. Timbaland)",
       "artist": "Justin Timberlake",
       "cover": "covers/justin_timberlake__sexyback_feat_timbaland.jpg",
       "movement": {
-        "type": "new",
-        "value": null
+        "type": "up",
+        "value": 1
       },
-      "lastWeek": null,
-      "peak": 71,
-      "weeks": 1,
+      "lastWeek": 71,
+      "peak": 70,
+      "weeks": 2,
       "points": 54.5,
       "listeners": 8
     },
     {
-      "rank": 72,
+      "rank": 71,
       "title": "Too Little, Too Late",
       "artist": "Laufey",
       "cover": "covers/laufey__too_little_too_late.png",
       "movement": {
-        "type": "down",
-        "value": 28
+        "type": "up",
+        "value": 1
       },
-      "lastWeek": 44,
+      "lastWeek": 72,
       "peak": 18,
-      "weeks": 3,
+      "weeks": 6,
       "points": 54.0,
       "listeners": 12
     },
     {
-      "rank": 73,
+      "rank": 72,
       "title": "My Moon My Man",
       "artist": "Feist",
       "cover": "covers/feist__my_moon_my_man.png",
       "movement": {
-        "type": "new",
-        "value": null
+        "type": "up",
+        "value": 1
       },
-      "lastWeek": null,
-      "peak": 73,
-      "weeks": 1,
+      "lastWeek": 73,
+      "peak": 72,
+      "weeks": 2,
       "points": 54.0,
       "listeners": 8
     },
     {
-      "rank": 74,
+      "rank": 73,
       "title": "My Own Worst Enemy",
       "artist": "Lit",
       "cover": "covers/lit__my_own_worst_enemy.png",
       "movement": {
-        "type": "down",
-        "value": 48
+        "type": "up",
+        "value": 1
       },
-      "lastWeek": 26,
-      "peak": 26,
-      "weeks": 2,
+      "lastWeek": 74,
+      "peak": 25,
+      "weeks": 4,
       "points": 53.0,
       "listeners": 10
     },
     {
-      "rank": 75,
+      "rank": 74,
       "title": "See You Again (feat. Kali Uchis)",
       "artist": "Tyler, The Creator",
       "cover": "covers/tyler_the_creator__see_you_again_feat_kali_uchis.png",
       "movement": {
-        "type": "down",
-        "value": 40
+        "type": "up",
+        "value": 1
       },
-      "lastWeek": 35,
+      "lastWeek": 75,
       "peak": 35,
-      "weeks": 2,
+      "weeks": 4,
       "points": 52.5,
       "listeners": 21
     },
     {
-      "rank": 76,
+      "rank": 75,
       "title": "I Thought I Saw Your Face Today",
       "artist": "She & Him",
       "cover": "covers/she_him__i_thought_i_saw_your_face_today.png",
       "movement": {
-        "type": "new",
-        "value": null
+        "type": "up",
+        "value": 1
       },
-      "lastWeek": null,
-      "peak": 76,
-      "weeks": 1,
+      "lastWeek": 76,
+      "peak": 75,
+      "weeks": 2,
       "points": 52.5,
       "listeners": 13
     },
     {
-      "rank": 77,
+      "rank": 76,
       "title": "honeybee",
       "artist": "Olivia Rodrigo",
       "cover": "covers/olivia_rodrigo__honeybee.png",
       "movement": {
-        "type": "new",
-        "value": null
+        "type": "up",
+        "value": 1
       },
-      "lastWeek": null,
+      "lastWeek": 77,
+      "peak": 76,
+      "weeks": 2,
+      "points": 52.5,
+      "listeners": 7
+    },
+    {
+      "rank": 77,
+      "title": "amnesia",
+      "artist": "Bunii",
+      "cover": "covers/bunii__amnesia.png",
+      "movement": {
+        "type": "up",
+        "value": 1
+      },
+      "lastWeek": 78,
       "peak": 77,
-      "weeks": 1,
+      "weeks": 4,
       "points": 52.5,
       "listeners": 7
     },
     {
       "rank": 78,
-      "title": "amnesia",
-      "artist": "Bunii",
-      "cover": "covers/bunii__amnesia.png",
-      "movement": {
-        "type": "stay",
-        "value": 0
-      },
-      "lastWeek": 78,
-      "peak": 78,
-      "weeks": 2,
-      "points": 52.5,
-      "listeners": 7
-    },
-    {
-      "rank": 79,
       "title": "Hotel Room",
       "artist": "Ax and the Hatchetmen",
       "cover": "covers/ax_and_the_hatchetmen__hotel_room.png",
       "movement": {
-        "type": "new",
-        "value": null
+        "type": "up",
+        "value": 1
       },
-      "lastWeek": null,
-      "peak": 79,
-      "weeks": 1,
+      "lastWeek": 79,
+      "peak": 78,
+      "weeks": 2,
       "points": 52.0,
       "listeners": 10
     },
     {
-      "rank": 80,
+      "rank": 79,
       "title": "Touch the Sky",
       "artist": "Kanye West",
       "cover": "covers/kanye_west__touch_the_sky.png",
       "movement": {
-        "type": "re",
-        "value": null
+        "type": "up",
+        "value": 1
       },
-      "lastWeek": null,
+      "lastWeek": 80,
       "peak": 62,
-      "weeks": 2,
+      "weeks": 4,
       "points": 51.5,
       "listeners": 14
     },
     {
-      "rank": 81,
+      "rank": 80,
       "title": "SLOW DANCING IN THE DARK",
       "artist": "Joji",
       "cover": "covers/joji__slow_dancing_in_the_dark.png",
       "movement": {
-        "type": "new",
-        "value": null
+        "type": "up",
+        "value": 1
       },
-      "lastWeek": null,
-      "peak": 81,
-      "weeks": 1,
+      "lastWeek": 81,
+      "peak": 80,
+      "weeks": 2,
       "points": 51.5,
       "listeners": 11
     },
     {
-      "rank": 82,
+      "rank": 81,
       "title": "All I Need",
       "artist": "Radiohead",
       "cover": "covers/radiohead__all_i_need.png",
       "movement": {
-        "type": "new",
-        "value": null
+        "type": "up",
+        "value": 1
       },
-      "lastWeek": null,
-      "peak": 82,
-      "weeks": 1,
+      "lastWeek": 82,
+      "peak": 81,
+      "weeks": 2,
       "points": 51.5,
       "listeners": 9
     },
     {
-      "rank": 83,
+      "rank": 82,
       "title": "Don't Stop the Music",
       "artist": "Rihanna",
       "cover": "covers/rihanna__don_t_stop_the_music.png",
       "movement": {
-        "type": "new",
-        "value": null
+        "type": "up",
+        "value": 1
       },
-      "lastWeek": null,
-      "peak": 83,
-      "weeks": 1,
+      "lastWeek": 83,
+      "peak": 82,
+      "weeks": 2,
       "points": 51.5,
       "listeners": 7
     },
     {
-      "rank": 84,
+      "rank": 83,
       "title": "Bound 2",
       "artist": "Kanye West",
       "cover": "covers/kanye_west__bound_2.png",
       "movement": {
-        "type": "new",
-        "value": null
+        "type": "up",
+        "value": 1
       },
-      "lastWeek": null,
-      "peak": 84,
-      "weeks": 1,
+      "lastWeek": 84,
+      "peak": 83,
+      "weeks": 2,
       "points": 51.0,
       "listeners": 15
     },
     {
-      "rank": 85,
+      "rank": 84,
       "title": "fever",
       "artist": "Buckshot",
       "cover": "covers/buckshot__fever.png",
       "movement": {
-        "type": "down",
-        "value": 38
+        "type": "up",
+        "value": 1
       },
-      "lastWeek": 47,
+      "lastWeek": 85,
       "peak": 41,
-      "weeks": 3,
+      "weeks": 6,
       "points": 51.0,
       "listeners": 10
     },
     {
-      "rank": 86,
+      "rank": 85,
       "title": "Beauty and a Beat",
       "artist": "Justin Bieber",
       "cover": "covers/justin_bieber__beauty_and_a_beat.png",
       "movement": {
-        "type": "new",
-        "value": null
+        "type": "up",
+        "value": 1
       },
-      "lastWeek": null,
-      "peak": 86,
-      "weeks": 1,
+      "lastWeek": 86,
+      "peak": 85,
+      "weeks": 2,
       "points": 50.0,
       "listeners": 8
     },
     {
-      "rank": 87,
+      "rank": 86,
       "title": "Gun To My Head",
       "artist": "Malcolm Todd",
       "cover": "covers/malcolm_todd__gun_to_my_head.png",
       "movement": {
-        "type": "down",
-        "value": 48
+        "type": "up",
+        "value": 1
       },
-      "lastWeek": 39,
+      "lastWeek": 87,
       "peak": 38,
-      "weeks": 3,
+      "weeks": 6,
       "points": 50.0,
       "listeners": 5
     },
     {
-      "rank": 88,
+      "rank": 87,
       "title": "Animal I Have Become",
       "artist": "Three Days Grace",
       "cover": "covers/three_days_grace__animal_i_have_become.png",
       "movement": {
-        "type": "new",
-        "value": null
+        "type": "up",
+        "value": 1
       },
-      "lastWeek": null,
-      "peak": 88,
-      "weeks": 1,
+      "lastWeek": 88,
+      "peak": 87,
+      "weeks": 2,
       "points": 49.5,
       "listeners": 10
     },
     {
-      "rank": 89,
+      "rank": 88,
       "title": "I Saw Your Face",
       "artist": "Malcolm Todd",
       "cover": "covers/malcolm_todd__i_saw_your_face.png",
       "movement": {
-        "type": "down",
-        "value": 33
+        "type": "up",
+        "value": 1
       },
-      "lastWeek": 56,
+      "lastWeek": 89,
       "peak": 25,
-      "weeks": 3,
+      "weeks": 6,
       "points": 49.5,
       "listeners": 8
     },
     {
-      "rank": 90,
+      "rank": 89,
       "title": "Richman",
       "artist": "3OH!3",
       "cover": "covers/3oh_3__richman.png",
       "movement": {
-        "type": "new",
-        "value": null
+        "type": "up",
+        "value": 1
       },
-      "lastWeek": null,
-      "peak": 90,
-      "weeks": 1,
+      "lastWeek": 90,
+      "peak": 89,
+      "weeks": 2,
       "points": 49.5,
       "listeners": 7
     },
     {
-      "rank": 91,
+      "rank": 90,
       "title": "Spoken For",
       "artist": "Flavor Foley",
       "cover": "covers/flavor_foley__spoken_for.png",
       "movement": {
-        "type": "new",
-        "value": null
+        "type": "up",
+        "value": 1
       },
-      "lastWeek": null,
-      "peak": 91,
-      "weeks": 1,
+      "lastWeek": 91,
+      "peak": 90,
+      "weeks": 2,
       "points": 49.5,
       "listeners": 6
     },
     {
-      "rank": 92,
+      "rank": 91,
       "title": "BRASILIAN SKIES",
       "artist": "高中正義",
       "cover": "covers/__brasilian_skies.png",
       "movement": {
-        "type": "new",
-        "value": null
+        "type": "up",
+        "value": 1
       },
-      "lastWeek": null,
-      "peak": 92,
-      "weeks": 1,
+      "lastWeek": 92,
+      "peak": 91,
+      "weeks": 2,
       "points": 49.5,
       "listeners": 5
     },
     {
-      "rank": 93,
+      "rank": 92,
       "title": "Chest Pain (I Love)",
       "artist": "Malcolm Todd",
       "cover": "covers/malcolm_todd__chest_pain_i_love.png",
       "movement": {
-        "type": "down",
-        "value": 77
+        "type": "up",
+        "value": 1
       },
-      "lastWeek": 16,
+      "lastWeek": 93,
       "peak": 8,
-      "weeks": 3,
+      "weeks": 6,
       "points": 49.0,
       "listeners": 13
     },
     {
-      "rank": 94,
+      "rank": 93,
       "title": "Sextape",
       "artist": "Deftones",
       "cover": "covers/deftones__sextape.png",
       "movement": {
-        "type": "new",
-        "value": null
+        "type": "up",
+        "value": 1
       },
-      "lastWeek": null,
-      "peak": 94,
-      "weeks": 1,
+      "lastWeek": 94,
+      "peak": 93,
+      "weeks": 2,
       "points": 49.0,
       "listeners": 10
+    },
+    {
+      "rank": 94,
+      "title": "Rude Buster",
+      "artist": "Toby Fox",
+      "cover": "covers/toby_fox__rude_buster.png",
+      "movement": {
+        "type": "down",
+        "value": 59
+      },
+      "lastWeek": 35,
+      "peak": 35,
+      "weeks": 2,
+      "points": 49.0,
+      "listeners": 5
     },
     {
       "rank": 95,
@@ -1421,12 +1421,12 @@
       "artist": "TV Girl",
       "cover": "covers/tv_girl__taking_what_s_not_yours.png",
       "movement": {
-        "type": "new",
-        "value": null
+        "type": "stay",
+        "value": 0
       },
-      "lastWeek": null,
+      "lastWeek": 95,
       "peak": 95,
-      "weeks": 1,
+      "weeks": 2,
       "points": 48.5,
       "listeners": 13
     },
@@ -1436,12 +1436,12 @@
       "artist": "Kanye West",
       "cover": "covers/kanye_west__heartless.png",
       "movement": {
-        "type": "re",
-        "value": null
+        "type": "stay",
+        "value": 0
       },
-      "lastWeek": null,
+      "lastWeek": 96,
       "peak": 84,
-      "weeks": 2,
+      "weeks": 4,
       "points": 48.5,
       "listeners": 12
     },
@@ -1451,12 +1451,12 @@
       "artist": "Fried By Fluoride",
       "cover": "covers/fried_by_fluoride__the_love_i_lost.png",
       "movement": {
-        "type": "new",
-        "value": null
+        "type": "stay",
+        "value": 0
       },
-      "lastWeek": null,
+      "lastWeek": 97,
       "peak": 97,
-      "weeks": 1,
+      "weeks": 2,
       "points": 48.0,
       "listeners": 10
     },
@@ -1466,12 +1466,12 @@
       "artist": "The Weeknd",
       "cover": "covers/the_weeknd__die_for_you.png",
       "movement": {
-        "type": "new",
-        "value": null
+        "type": "stay",
+        "value": 0
       },
-      "lastWeek": null,
+      "lastWeek": 98,
       "peak": 98,
-      "weeks": 1,
+      "weeks": 2,
       "points": 48.0,
       "listeners": 7
     },
@@ -1481,12 +1481,12 @@
       "artist": "DAGames",
       "cover": "covers/dagames__get_out.png",
       "movement": {
-        "type": "new",
-        "value": null
+        "type": "stay",
+        "value": 0
       },
-      "lastWeek": null,
+      "lastWeek": 99,
       "peak": 99,
-      "weeks": 1,
+      "weeks": 2,
       "points": 48.0,
       "listeners": 6
     },
@@ -1496,12 +1496,12 @@
       "artist": "All Time Low",
       "cover": "covers/all_time_low__dear_maria_count_me_in.png",
       "movement": {
-        "type": "new",
-        "value": null
+        "type": "stay",
+        "value": 0
       },
-      "lastWeek": null,
+      "lastWeek": 100,
       "peak": 100,
-      "weeks": 1,
+      "weeks": 2,
       "points": 47.5,
       "listeners": 5
     }
